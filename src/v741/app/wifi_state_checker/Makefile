@@ -36,9 +36,10 @@ all: $(EXEC)
 	
 install: $(EXEC)
 	@$(INSTALL) -d $(ROOTDIR)/romfs/usr/sbin
+	@sudo chmod +x $(EXEC)
+	@sudo chmod +x $(EXEC_SH)
 	@sudo cp -f $(EXEC) $(ROOTDIR)/romfs/usr/sbin
 	@sudo cp -f $(EXEC_SH) $(ROOTDIR)/romfs/usr/sbin
-	@sudo chmod +x $(ROOTDIR)/romfs/usr/sbin/$(EXEC_SH)
 
 clean:
 	@rm -f *.o $(EXEC) $(DEPS) $(DEPEND_FILE)

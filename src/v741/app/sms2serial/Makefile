@@ -29,6 +29,7 @@ all: $(EXEC)
 	
 install: $(EXEC)
 	@$(INSTALL) -d $(ROOTDIR)/romfs/usr/sbin
+	@sudo chmod +x $(EXEC)
 	@sudo cp -f $(EXEC) $(ROOTDIR)/romfs/usr/sbin
 
 clean:

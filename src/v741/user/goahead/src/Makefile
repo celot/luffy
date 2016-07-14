@@ -14,6 +14,7 @@ all:	$(NAME)
 
 
 romfs:
+	@sudo chmod +x $(NAME)
 	$(ROMFSINST) /bin/$(NAME)
 ifeq ("$(CONFIG_USER_GOAHEAD_SSL)", "y")
 	$(ROMFSINST) /etc_ro/serverkey.pem

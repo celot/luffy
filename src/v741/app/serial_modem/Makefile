@@ -34,6 +34,8 @@ all: $(EXEC)
 	
 install: $(EXEC) 
 	@$(INSTALL) -d $(ROOTDIR)/romfs/usr/sbin
+	@sudo chmod +x $(EXEC)
+	@sudo chmod +x *.sh
 	@sudo cp -f $(EXEC) $(ROOTDIR)/romfs/usr/sbin
 	@sudo ln -sf /usr/sbin/ct_chat $(ROOTDIR)/romfs/usr/sbin/disct_chat
 

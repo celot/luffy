@@ -39,6 +39,7 @@ all: $(EXEC)
 	
 install: $(EXEC)
 	@$(INSTALL) -d $(ROOTDIR)/romfs/usr/sbin
+	@sudo chmod +x *.sh
 	@sudo cp -f $(EXEC) $(ROOTDIR)/romfs/usr/sbin
 	for f in $(EXEC); do ( sudo chmod +x $(ROOTDIR)/romfs/usr/sbin/$$f ) done
 
