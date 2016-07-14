@@ -1,0 +1,204 @@
+﻿<po>
+	<message msgid="mobile apply" msgstr="適用" />
+	<message msgid="mobile cancel" msgstr="キャンセル" />
+	<message msgid="mobile enable" msgstr="有効にする" />
+	<message msgid="mobile disable" msgstr="無効にする" />
+	<message msgid="mobile send" msgstr="送信" />
+	<message msgid="mobile delete" msgstr="削除" />
+	<message msgid="mobile reset" msgstr="リセット" />
+	<message msgid="mobile deleteall" msgstr="全文削除" />
+	
+	<message msgid="mobile module info" msgstr="モジュール情報" />
+	
+	<message msgid="mobile overview title" msgstr="モジュール状態" />
+	<message msgid="mobile overview intro" msgstr="モジュールのネットワーク状況が確認できます。" />
+	<message msgid="mobile module band" msgstr="バンド 情報" />
+	<message msgid="mobile module service" msgstr="サービス 情報" />
+	<message msgid="mobile module cell" msgstr="Cell 情報" />
+	<message msgid="mobile module rssi" msgstr="RSSI" />
+	<message msgid="mobile module rssi2" msgstr="アンテナ本数情報" />
+	
+	<message msgid="mobile module" msgstr="モジュ-ル" />
+	<message msgid="mobile call manager" msgstr="データ コール コントロール" />
+	<message msgid="mobile cm intro" msgstr="コントロール データ 接続" />
+	
+	<message msgid="mobile cm control" msgstr="コール コントロール" />
+	<message msgid="mobile cm power" msgstr="パワー" />
+	<message msgid="mobile cm connection" msgstr="接続" />
+	<message msgid="mobile cm conmode" msgstr="接続 モード" />
+	
+	<message msgid="mobile power on" msgstr="オン" />
+	<message msgid="mobile power off" msgstr="シャットダウン" />
+	<message msgid="mobile connect on" msgstr="接続" />
+	<message msgid="mobile connect off" msgstr="切断" />
+	
+	<message msgid="mobile power on" msgstr="On" />
+	<message msgid="mobile power off" msgstr="シャットダウン" />
+	<message msgid="mobile connect on" msgstr="接続" />
+	<message msgid="mobile connect off" msgstr="切断" />
+	
+	<message msgid="mobile cfg title" msgstr="ダイヤルアップ設定" />
+	<message msgid="mobile cfg introduction" msgstr="無線ネットワークに接続するための情報を設定します。" />
+	<message msgid="mobile setup" msgstr="接続設定(共通)" />
+	<message msgid="mobile setup1" msgstr="接続設定 (接続先1)" />
+	<message msgid="mobile setup_d2" msgstr="接続設定 (接続先2)" />
+	<message msgid="mobile trans standard" msgstr="通信規格" />
+	<message msgid="mobile user" msgstr="ユーザー名" />
+	<message msgid="mobile pass" msgstr="パスワード" />
+	<message msgid="mobile repass" msgstr="パスワード再入力" />
+	<message msgid="mobile dial" msgstr="電話番号" />
+	<message msgid="mobile pin" msgstr="PIN狀態" />
+	
+	<message msgid="mobile overview title" msgstr="モジュール状態" />
+	<message msgid="mobile overview intro" msgstr="モジュールのネットワーク状況が確認できます。" />
+	<message msgid="mobile module title" msgstr="モジュールネットワーク状況" />
+	
+	<message msgid="mobile pref title" msgstr="Modem PrefMode 設定" />
+	<message msgid="mobile pref introduction" msgstr="Modem PrefMode 設定ができます。((LTE only, WCDMA only, GSM only or AUTOMATIC)" />
+	<message msgid="mobile pref setup" msgstr="PrefMode 設定" />
+	<message msgid="mobile pref mode" msgstr="PrefMode" />
+	
+	<message msgid="mobile sms recv" msgstr="SMS受信" />
+	<message msgid="mobile sms recv intro" msgstr="受信したSMSが確認できます。" />
+	<message msgid="mobile sms recv list" msgstr="SMS受信リスト" />
+	<message msgid="mobile sms send" msgstr="SMS送信" />
+	<message msgid="mobile sms send intro" msgstr="SMSが送られます。" />
+	<message msgid="mobile sms send list" msgstr="SMS送信リスト" />
+	
+	<message msgid="mobile sms no" msgstr="番号" />
+	<message msgid="mobile sms content" msgstr="内容" />
+	<message msgid="mobile sms phone" msgstr="電話番号" />
+	<message msgid="mobile sms date" msgstr="日付" />
+	
+	<message msgid="mobile protocol opmode" msgstr="動作 モード" />
+	<message msgid="mobile protocol opmode keepalive" msgstr="キープアライブ" />
+	<message msgid="mobile protocol opmode ondemand" msgstr="オンデマンド" />
+	<message msgid="mobile protocol idle" msgstr="切断待ち時間" />    
+	<message msgid="mobile protocol minutes" msgstr="分" />
+	
+	<message msgid="mobile ip assign" msgstr="本体IPアドレス" />
+	<message msgid="mobile ip auto assign" msgstr="自動取得" />
+	<message msgid="mobile ip fix assign" msgstr="IP固定" />
+	<message msgid="mobile fixed ip text" msgstr="IPアドレス" />
+	<message msgid="mobile ip authentication" msgstr="認証ブロトコル" />
+	
+	<message msgid="mobile sms no" msgstr="番号" />
+	
+	<message msgid="mobile uicc title" msgstr="SIMモード 設定" />
+	<message msgid="mobile uicc introduction" msgstr="SIMモード or PINコード or PUKコード 設定" />
+	<message msgid="mobile uicc setup" msgstr="SIM モード 設定" />
+	<message msgid="mobile uicc pin status" msgstr="SIM狀態" />
+	<message msgid="mobile uicc pin mode" msgstr="SIMモード" />
+	<message msgid="mobile uicc pin setup" msgstr="SIM狀態 設定" />
+	<message msgid="mobile uicc cur pin" msgstr="Current SIM狀態" />
+	<message msgid="mobile uicc remain" msgstr="PIN(PUK)コード 度" />
+	<message msgid="mobile uicc save" msgstr="貯藏" />
+	
+	<message msgid="mobile ota title" msgstr="OTA" />
+	<message msgid="mobile ota introduction" msgstr="回線契約開始（OTASP）、および回線契約解除（OTAPA）を行うことができます。" />	
+	<message msgid="mobile ota statussetup" msgstr="現在の状態" />
+	<message msgid="mobile ota contactState" msgstr="契約状態" />
+	<message msgid="mobile ota otastatus" msgstr="処理ステータス" />
+	<message msgid="mobile ota otacontractSetup" msgstr="回線契約開始 (OTASP)" />
+	<message msgid="mobile ota otacontractotasp" msgstr="回線契約開始 (OTASP)" />
+	<message msgid="mobile ota otacontractotasp warning1" msgstr="回線契約開始（OTASP）処理中は、絶対に電源をOFFしないでください。 " />
+	<message msgid="mobile ota otacontractotasp warning2" msgstr="処理中に電源をOFFした場合、重大な障害を引き起こすことがあります。 " />
+	<message msgid="mobile ota otacancellationSetup" msgstr="回線契約解除 (OTAPA)" />
+	<message msgid="mobile ota otacancellationotapa" msgstr="回線契約開始 (OTAPA)" />
+	<message msgid="mobile ota otacancellationotapa warning1" msgstr="回線契約開始（OTAPA）処理中は、絶対に電源をOFFしないでください。" />
+	<message msgid="mobile ota otacancellationotapa warning2" msgstr="処理中に電源をOFFした場合、重大な障害を引き起こすことがあります。" />
+	<message msgid="mobile ota refresh" msgstr="更新" />
+	<message msgid="mobile ota refreshsp" msgstr="OTASP 開始" />
+	<message msgid="mobile ota refreshpa" msgstr="OTAPA 開始" />
+	<message msgid="mobile ota SetOtasp" msgstr="OTASPを 開始する" />
+	<message msgid="mobile ota SetOtapa" msgstr="OTAPAを 開始する" />
+	<message msgid="mobile ota currentstatesp" msgstr="OTASP処理中" />
+	<message msgid="mobile ota currentstatepa" msgstr="OTAPA処理中" />
+	<message msgid="mobile ota otacontract1" msgstr="未契約" />
+	<message msgid="mobile ota otacontract2" msgstr="契約開始済み" />
+	<message msgid="mobile ota otacontract3" msgstr="契約解除済み" />
+	
+	<message msgid="mobile alert password" msgstr="パスワードを確認してください。" />
+	<message msgid="mobile alert pincode error" msgstr="PINコードは空です" />
+	<message msgid="mobile alert pincheck error" msgstr="PINチェックエラー" />
+	<message msgid="mobile alert xmlhttp error" msgstr="XMLHTTPインスタンスを作成できません" />
+	<message msgid="mobile alert simcard error" msgstr="このSIMカードは使用できません" />
+	<message msgid="mobile alert simcard init error" msgstr="Simcardのは今初期化されていません" />
+	<message msgid="mobile alert simcard verity already" msgstr="それは、すでに確認されています" />
+	<message msgid="mobile alert simcard input pin_puk" msgstr="入力PUKコードと新しいPINコード" />  
+	<message msgid="mobile alert ip addr empty" msgstr="IPアドレスは空です" />
+	<message msgid="mobile alert ip format error" msgstr="IP住所フォーマットエラー" />
+	<message msgid="mobile alert digit format error" msgstr="これは、 [0-9]の数でなければなりません" />
+	<message msgid="mobile alert select rule to be delete" msgstr="ルールを選択して削除するために。" />
+	
+	<message msgid="mobile mode domain" msgstr="動作 ドメイン" />	
+	<message msgid="mobile mode wwan1" msgstr="WWAN(接続先1) / WAN" />
+	<message msgid="mobile mode wwan2" msgstr="WWAN(接続先2)" />	
+
+	<message msgid="mobile center push title" msgstr="センタープッシュ設定" />
+	<message msgid="mobile center push inst" msgstr="外部からの遠隔操作を契機として無線ネットワークへの接続を行う機能（センタープッシュ）の設定を行います。" />
+	<message msgid="mobile center push set" msgstr="センタープッシュ" />
+	<message msgid="mobile center push disable" msgstr="無効にする" />
+	<message msgid="mobile center push enable" msgstr="有効にする" />
+	<message msgid="mobile center push add phone number" msgstr="センタープッシュ対応電話番号追加" />
+	<message msgid="mobile center push interface" msgstr="インターフェース" />
+	<message msgid="mobile center push phone number" msgstr="電話番号" />
+	<message msgid="mobile center push designate" msgstr="指定する" />
+	<message msgid="mobile center push not specified" msgstr="指定しない" />
+	<message msgid="mobile center push comment" msgstr="コメント" />
+	<message msgid="mobile center push phone list" msgstr="センタープッシュ対応電話番号リスト" />
+	<message msgid="mobile center push phone list order" msgstr="No." />
+	
+	<message msgid="fs title" msgstr="フェールセーフ機能" />
+	<message msgid="fs intro" msgstr="障害の回避、および障害からの早期復旧を図るための機能に関する設定を行います。" />
+	<message msgid="fs configuration" msgstr="フェールセーフ機能" />
+	<message msgid="fs call connection" msgstr="WWAN接続条件" />
+	<message msgid="fs connnect a" msgstr="条件無し" />
+	<message msgid="fs connnect 1" msgstr="アンテナ0本以上" />
+	<message msgid="fs connnect 2" msgstr="アンテナ1本以上" />
+	<message msgid="fs connnect 3" msgstr="アンテナ2本以上" />
+	<message msgid="fs connnect 4" msgstr="アンテナ3本以上" />
+	<message msgid="fs data mon" msgstr="WWAN通信監視機能" />
+	<message msgid="fs data up" msgstr="上り" />
+	<message msgid="fs data dn" msgstr="下り" />
+	<message msgid="fs seconds" msgstr="秒" />
+	<message msgid="fs con mon" msgstr="WWAN接続確認" />
+	<message msgid="fs address" msgstr="宛先：" />
+	<message msgid="fs conn cycle" msgstr="確認周期 : " />
+	<message msgid="fs reboot" msgstr="経過時間によるリブート" />
+	<message msgid="fs hour" msgstr="時間" />
+	<message msgid="fs fs log" msgstr="保守用イベントログ" />
+	<message msgid="fs kbytes" msgstr="Kbytes" />
+	<message msgid="fs view log" msgstr="ログ表示" />
+	<message msgid="fs apply" msgstr="適用" />
+	<message msgid="fs cancel" msgstr="キャンセル" />
+	<message msgid="fs log title" msgstr="保守用イベントログ" />
+	<message msgid="fs log intro" msgstr="保守用イベントログを表示します。" />
+	<message msgid="fs clear log" msgstr="削除" />
+	<message msgid="fs export log" msgstr="保存" />
+	<message msgid="fs disable" msgstr="無効にする" />
+	<message msgid="fs reboot 1h" msgstr="1時間" />
+	<message msgid="fs reboot 2h" msgstr="2時間" />
+	<message msgid="fs reboot 3h" msgstr="3時間" />
+	<message msgid="fs reboot 4h" msgstr="4時間" />
+	<message msgid="fs reboot 5h" msgstr="5時間" />
+	<message msgid="fs reboot 6h" msgstr="6時間" />
+	<message msgid="fs reboot 7h" msgstr="7時間" />
+	<message msgid="fs reboot 8h" msgstr="8時間" />
+	<message msgid="fs reboot 9h" msgstr="9時間" />
+	<message msgid="fs reboot 10h" msgstr="10時間" />
+	<message msgid="fs reboot 11h" msgstr="11時間" />
+	<message msgid="fs reboot 12h" msgstr="12時間" />
+	<message msgid="fs reboot 13h" msgstr="13時間" />
+	<message msgid="fs reboot 14h" msgstr="14時間" />
+	<message msgid="fs reboot 15h" msgstr="15時間" />
+	<message msgid="fs reboot 16h" msgstr="16時間" />
+	<message msgid="fs reboot 17h" msgstr="17時間" />
+	<message msgid="fs reboot 18h" msgstr="18時間" />
+	<message msgid="fs reboot 19h" msgstr="19時間" />
+	<message msgid="fs reboot 20h" msgstr="20時間" />
+	<message msgid="fs reboot 21h" msgstr="21時間" />
+	<message msgid="fs reboot 22h" msgstr="22時間" />
+	<message msgid="fs reboot 23h" msgstr="23時間" />
+	<message msgid="fs reboot 24h" msgstr="24時間" />
+</po>

@@ -1,0 +1,206 @@
+﻿<po>
+	<message msgid="wireless apply" msgstr="적용" />
+	<message msgid="wireless cancel" msgstr="취소" />
+	<message msgid="wireless close" msgstr="닫기" />
+	<message msgid="wireless enable" msgstr="사용함" />
+	<message msgid="wireless disable" msgstr="사용안함" />
+	<message msgid="wireless allow" msgstr="허용" />
+	<message msgid="wireless reject" msgstr="차단" />
+	<message msgid="wireless auto" msgstr="자동" />
+	<message msgid="wireless long" msgstr="길게" />
+	<message msgid="wireless on" msgstr="켜기" />
+	<message msgid="wireless off" msgstr="끄기" />
+	<message msgid="wireless none" msgstr="없음" />
+	
+	<message msgid="basic title" msgstr="무선 기본 설정" />
+	<message msgid="basic introduction" msgstr="무선 연결을 위한 기본 설정을 할 수 있습니다." />
+	<message msgid="basic wireless network" msgstr="무선 네트워크" />
+	<message msgid="basic radio button" msgstr="Radio 켜기/끄기" />
+	<message msgid="basic wifi button" msgstr="WiFi 켜기/끄기" />
+	<message msgid="basic network mode" msgstr="WIFI 네트워크 모드" />
+	<message msgid="basic ssid" msgstr="SSID 이름" />
+	<message msgid="basic multiple ssid" msgstr="다중 SSID 이름" />
+	<message msgid="basic hssid" msgstr="Hidden" />
+	<message msgid="basic isolated" msgstr="Isolated" />
+	<message msgid="basic broadcast ssid" msgstr="네트워크 이름(SSID)" />
+	<message msgid="basic apisolated" msgstr="AP Isolation" />
+	<message msgid="basic mbssidapisolated" msgstr="MBSSID AP Isolation" />
+	<message msgid="basic bssid" msgstr="BSSID" />
+	<message msgid="basic frequency" msgstr="채널" />
+	<message msgid="basic frequency auto" msgstr="자동 설정" />
+	<message msgid="basic rate" msgstr="비율" />
+	<message msgid="basic ht phy mode" msgstr="HT Physical 모드" />
+	<message msgid="basic ht op mode" msgstr="동작 모드" />
+	<message msgid="basic ht op mixed" msgstr="Mixed 모드" />
+	<message msgid="basic ht channel bandwidth" msgstr="채널 BandWidth" />
+	<message msgid="basic ht guard interval" msgstr="Guard Interval" />
+	<message msgid="basic ht rdg" msgstr="Reverse Direction Grant(RDG)" />
+	<message msgid="basic ht extension channel" msgstr="Extension Channel" />
+	<message msgid="basic ht stbc" msgstr="Space Time Block Coding(STBC)" />
+	<message msgid="basic ht amsdu" msgstr="Aggregation MSDU(A-MSDU)" />
+	<message msgid="basic ht addba" msgstr="Auto Block ACK" />
+	<message msgid="basic ht delba" msgstr="Decline BA Request" />
+	<message msgid="basic other" msgstr="기타" />
+	<message msgid="basic ht txstream" msgstr="HT TxStream" />
+	<message msgid="basic ht rxstream" msgstr="HT RxStream" />
+	<message msgid="basic wifi status" msgstr="현재 상태 :" />
+	<message msgid="basic wifi on" msgstr="켜짐" />
+	<message msgid="basic wifi off" msgstr="꺼짐" />
+	<message msgid="basic btn WiFi ON" msgstr="WIFI 켜기" />
+   <message msgid="basic btn WiFi OFF" msgstr="WIFI 끄기" />
+	
+	<message msgid="adv title" msgstr="고급 무선 설정" />
+	<message msgid="adv introduction" msgstr="상세한 무선 정보를 설정할 수 있습니다." />
+	<message msgid="adv wireless" msgstr="고급 무선 설정" />
+	<message msgid="adv bgpro" msgstr="BG 보호 모드" />
+	<message msgid="adv beacon interval" msgstr="Beacon Interval" />
+	<message msgid="adv beacon interval range" msgstr="(range 20 - 999, default 100)" />
+	<message msgid="adv dtim" msgstr="Data Beacon Rate (DTIM)" />
+	<message msgid="adv dtim range" msgstr="(range 1 - 255, default 1)" />
+	<message msgid="adv fragment threshold" msgstr="Fragment Threshold" />
+	<message msgid="adv fragment threshold range" msgstr="(range 256 - 2346, default 2346)" />
+	<message msgid="adv rts threshold" msgstr="RTS Threshold" />
+	<message msgid="adv rts threshold range" msgstr="(range 1 - 2347, default 2347)" />
+	<message msgid="adv tx power" msgstr="TX Power" />
+	<message msgid="adv tx power range" msgstr="(range 1 - 100, default 100)" />
+	<message msgid="adv short preamble" msgstr="Short Preamble" />
+	<message msgid="adv short slot" msgstr="Short Slot" />
+	<message msgid="adv tx burst" msgstr="Tx Burst" />
+	<message msgid="adv pkt aggregate" msgstr="Pkt_Aggregate" />
+	<message msgid="adv auto provision" msgstr="Auto Provision" />
+	<message msgid="adv 80211h" msgstr="IEEE 802.11H Support" />
+	<message msgid="adv 80211h disable describe" msgstr="(only in A band)" />
+	<message msgid="adv rdregion" msgstr="DFS RDRegion" />
+	<message msgid="adv country code" msgstr="국가 코드" />
+	<message msgid="adv country code kr" msgstr="KR (한국)" />
+	<message msgid="adv country code us" msgstr="US (미국)" />
+	<message msgid="adv country code jp" msgstr="JP (일본)" />
+	<message msgid="adv country code fr" msgstr="FR (프랑스)" />
+	<message msgid="adv country code tw" msgstr="TW (대만)" />
+	<message msgid="adv country code ie" msgstr="IE (아일랜드)" />
+	<message msgid="adv country code hk" msgstr="HK (홍콩)" />
+	<message msgid="adv country code hk" msgstr="PL (폴란드)" />
+	<message msgid="adv carrier" msgstr="Carrier Detect" />
+	<message msgid="adv wmm" msgstr="Wi-Fi Multimedia" />
+	<message msgid="adv wmm capable" msgstr="WMM Capable" />
+	<message msgid="adv apds capable" msgstr="APSD Capable" />
+	<message msgid="adv dls capable" msgstr="DLS Capable" />
+	<message msgid="adv wmm parameter" msgstr="WMM Parameters" />
+	<message msgid="adv wmm configuration" msgstr="WMM Configuration" />
+	<message msgid="adv multicast2unicast converter" msgstr="Multicast-to-Unicast Converter" />
+	<message msgid="adv multicast2unicast" msgstr="Multicast-to-Unicast" />
+	<message msgid="wmm ap parameter" msgstr="WMM Parameters of Access Point" />
+	<message msgid="wmm sta parameter" msgstr="WMM Parameters of Station" />
+	<message msgid="secure select ssid" msgstr="SSID" />
+	<message msgid="secure ssid title" msgstr="WIFI 보안 설정" />
+	<message msgid="secure ssid introduction" msgstr="WIFI 접근 이름과 보안을 설정 합니다." />
+	<message msgid="secure ssid choice" msgstr="SSID 선택" />
+	<message msgid="secure security policy" msgstr="보안 정책" />
+	<message msgid="secure security mode" msgstr="보안 모드" />
+	<message msgid="secure encryp type" msgstr="Encrypt 타입" />
+	<message msgid="secure wep" msgstr="Wire Equivalence Protection (WEP)" />
+	<message msgid="secure wep default key" msgstr="기본 키" />
+	<message msgid="secure wep default key1" msgstr="Key 1" />
+	<message msgid="secure wep default key2" msgstr="Key 2" />
+	<message msgid="secure wep default key3" msgstr="Key 3" />
+	<message msgid="secure wep default key4" msgstr="Key 4" />
+	<message msgid="secure wep key" msgstr="WEP 키" />
+	<message msgid="secure wep key1" msgstr="WEP 키 1 :" />
+	<message msgid="secure wep key2" msgstr="WEP 키 2 :" />
+	<message msgid="secure wep key3" msgstr="WEP 키 3 :" />
+	<message msgid="secure wep key4" msgstr="WEP 키 4 :" />
+	<message msgid="secure wpa" msgstr="WPA" />
+	<message msgid="secure wpa algorithm" msgstr="WPA 알고리즘" />
+	<message msgid="secure wpa pass phrase" msgstr="Pass Phrase" />
+	<message msgid="secure wpa key renew interval" msgstr="Key Renewal Interval" />
+	<message msgid="secure wpa pmk cache period" msgstr="PMK Cache Period" />
+	<message msgid="secure wpa preauth" msgstr="Pre-Authentication" />
+	<message msgid="secure 8021x wep" msgstr="802.1x WEP" />
+	<message msgid="secure 1x wep" msgstr="WEP" />
+	<message msgid="secure radius" msgstr="Radius 서버" />
+	<message msgid="secure radius ipaddr" msgstr="IP 주소" />
+	<message msgid="secure radius port" msgstr="포트" />
+	<message msgid="secure radius shared secret" msgstr="Shared Secret" />
+	<message msgid="secure radius session timeout" msgstr="Session Timeout" />
+	<message msgid="secure radius idle timeout" msgstr="Idle Timeout" />
+	<message msgid="secure access policy" msgstr="접근 정책" />
+	<message msgid="secure access policy capable" msgstr="정책" />
+	<message msgid="secure access policy new" msgstr="Station Mac 추가" />
+	<message msgid="secure access policy del" msgstr="삭제" />
+	<message msgid="secure minutes" msgstr="분" />
+   <message msgid="secure seconds" msgstr="초" />
+   
+	<message msgid="wps title" msgstr="WPS(Wi-Fi Protected Setup)" />
+	<message msgid="wps introduction" msgstr="간편하게 WIFI 설정을 할 수 있습니다." />
+	<message msgid="wps config" msgstr="WPS 설정" />
+	<message msgid="wps wps" msgstr="WPS:" />
+	<message msgid="wps summary" msgstr="WPS 요약" />
+	<message msgid="wps current status" msgstr="WPS 상태:" />
+	<message msgid="wps configured" msgstr="WPS 설정:" />
+	<message msgid="wps ssid" msgstr="WPS SSID:" />
+	<message msgid="wps auth mode" msgstr="WPS Auth 모드:" />
+	<message msgid="wps encryp type" msgstr="WPS Encryp 타입:" />
+	<message msgid="wps default key index" msgstr="WPS 기본 키 번호:" />
+	<message msgid="wps ap pin" msgstr="AP PIN:" />
+	<message msgid="wps reset oob" msgstr="갱신 OOB" />
+	<message msgid="wps progress" msgstr="WPS 진행상태" />
+	<message msgid="wps mode" msgstr="WPS 모드" />
+	<message msgid="wps pin mode" msgstr="PIN" />
+	<message msgid="wps pbc mode" msgstr="PBC" />
+	<message msgid="wps pin num" msgstr="PIN" />
+	<message msgid="wps status" msgstr="WPS 상태" />		
+	<message msgid="wireless refresh" msgstr="갱신" />		
+	<message msgid="stalist title" msgstr="Station 리스트" />	
+	<message msgid="stalist introduction" msgstr="AP 리스트를 확인할 수 있습니다." />	
+	<message msgid="stalist wireless network" msgstr="무선 네트워크" />	
+	<message msgid="stalist macaddr" msgstr="MAC 주소" />		
+	<message msgid="stalist connect time" msgstr="연결 시간" />		
+	
+	<message msgid="statistic title" msgstr="AP 무선 상태" />	
+	<message msgid="statistic introduction" msgstr="무선 송수신 데이터 상태를 확인 할 수 있습니다." />	
+	<message msgid="statistic tx" msgstr="전송 상태" />	
+	<message msgid="statistic rx" msgstr="수신 상태" />	
+	<message msgid="statistic reset counter" msgstr="초기화" />	
+	 <message msgid="statistic read failed" msgstr="정보가 없습니다." />
+	 
+	<message msgid="apcli opmode" msgstr="동작 모드" />
+	<message msgid="apcli title" msgstr="AP Client" />
+	<message msgid="apcli introduction" msgstr="다른 AP에 연결 하여 무선 네크워크망을 구축할 수 있습니다." />
+	<message msgid="apcli modea" msgstr="AP Client" />
+	<message msgid="apcli ip" msgstr="AP Client IP" />
+   <message msgid="apcli params" msgstr="AP Client 설정" />
+   <message msgid="apci disconnected" msgstr="연결되어 있지 않습니다." />
+	
+	<message msgid="secure ap list" msgstr="Access Policy 리스트" />
+	<message msgid="secure ap no" msgstr="No." />
+	<message msgid="secure ap mac" msgstr="MAC" />
+	<message msgid="Length :" msgstr="길이 :"/>
+	<message msgid="wireless delete :" msgstr="삭제"/>
+	<message msgid="jquery input valid hexacode" msgstr="[0~9] 또는 [a~f] 또는 [A~F] 사이의 문자를 입력하세요."/>
+	<message msgid="jquery must be 5 or 13" msgstr="문자길이 : 5 또는 13"/>
+	<message msgid="jquery must be 10 or 26" msgstr="문자길이 : 10 또는 26"/>
+	<message msgid="jquery apcli invalid char" msgstr="불가능 : ',' ';'"/>
+	
+	<message msgid="wireless tkip warning message1" msgstr="11N 에서 TKIP 은 허용되지 않습니다." />	
+	<message msgid="wireless tkip warning message2" msgstr="11N 모드가 꺼집니다" />	
+	
+	<message msgid="wireless band width title" msgstr="Band Width" />	
+	<message msgid="wireless guard interval title" msgstr="Guard Interval" />	
+	<message msgid="wireless isolation title" msgstr="Isolation" />	
+	<message msgid="wireless max station title" msgstr="최대 연결 대수" />	
+
+	<message msgid="wireless hotspot title" msgstr="핫 스팟 설정" />	
+	<message msgid="wireless hotspot enable" msgstr="사용" />	
+	<message msgid="wireless hotspot out interface" msgstr="인터페이스" />	
+	<message msgid="wireless hotspot radius server 1" msgstr="라디우스 서버" />	
+	<message msgid="wireless hotspot radius server 2" msgstr="라디우스 서버" />	
+	<message msgid="wireless hotspot radius secret" msgstr="라디우스 서버 인증 번호" />	
+	<message msgid="wireless hotspot uam server" msgstr="접속 페이지" />	
+	<message msgid="wireless hotspot uam secret" msgstr="접속페이지 인증 암호" />	
+	<message msgid="wireless hotspot dns 1" msgstr="DNS" />	
+	<message msgid="wireless hotspot dns 2" msgstr="DNS" />		
+	<message msgid="wireless hotspot adv url" msgstr="광고 URL" />	
+	<message msgid="wireless hotspot default url" msgstr="기본 URL" />	
+	<message msgid="wireless hotspot timeout" msgstr="연결 유지 시간" />		
+</po>
+

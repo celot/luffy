@@ -1,0 +1,73 @@
+#!/bin/sh
+
+genDevNode()
+{
+	mounted=`mount | grep mdev | wc -l`
+	if [ $mounted -eq 0 ]; then
+		mount -t ramfs mdev /dev
+		mkdir /dev/pts
+		mount -t devpts devpts /dev/pts
+		mdev -s
+
+		mknod   /dev/video0      c       81      0
+		mknod   /dev/spiS0       c       217     0
+		mknod   /dev/i2cM0       c       218     0
+		mknod   /dev/flash0      c       200     0
+		mknod   /dev/swnat0      c       210     0
+		mknod   /dev/hwnat0      c       220     0
+		mknod   /dev/acl0        c       230     0
+		mknod   /dev/ac0         c       240     0
+		mknod   /dev/mtr0        c       250     0
+		mknod   /dev/nvram       c       251     0
+		mknod   /dev/gpio        c       252     0
+		mknod   /dev/rdm0        c       253     0
+		mknod   /dev/pcm0        c       233     0
+		mknod   /dev/i2s0        c       234     0	
+		mknod   /dev/cls0        c       235     0
+	fi
+}
+
+mount -a
+mkdir -p /var/run
+mkdir -p /var/module
+genDevNode
+
+cat /etc_ro/motd
+
+#for syslogd
+mkdir -p /var/log
+
+if [ -f "/system/.profile" ]; then
+   source /system/.profile
+fi
+
+if [ "$skip_default_app" != "1" ]; then
+   insmod /lib/netcheck.ko
+   mknod   /dev/netcheck        c       245     0
+
+   if [ -x /usr/sbin/nvram_init_modbus.sh ]; then nvram_init_modbus.sh; fi
+   if [ -x /usr/sbin/nvram_init_gps.sh ]; then nvram_init_gps.sh; fi
+   if [ -x /usr/sbin/nvram_init_failsafe.sh ]; then nvram_init_failsafe.sh; fi
+   if [ -x /usr/sbin/nvram_init_common.sh ]; then nvram_init_common.sh; fi
+
+   mod_man
+   nvram_daemon&
+   goahead&
+   ctsh.sh&
+   ct_daemon
+   diagnosis.sh
+   serialmodem.sh &
+   modbus_bridge.sh &
+   gps_excute.sh first_start &
+
+   if [ -x /usr/sbin/failsafe ]; then failsafe; fi
+fi
+
+if [ -f "/system/startup.sh" ]; then
+   /system/startup.sh
+fi
+
+if [ -f "/usr/sbin/printver" ]; then
+   /usr/sbin/printver
+fi
+

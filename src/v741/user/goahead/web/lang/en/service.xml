@@ -1,0 +1,265 @@
+<po>
+	<message msgid="service apply" msgstr="Apply" />
+	<message msgid="service cancel" msgstr="Cancel" />
+	<message msgid="service enable" msgstr="Enable" />
+	<message msgid="service disable" msgstr="Disable" />
+	<message msgid="service refresh" msgstr="Refresh" />
+	<message msgid="service directserial title" msgstr="Direct Serial" />
+	<message msgid="service directserial introduction" msgstr="Transfer Serial input data to server via net." />
+	<message msgid="service directserial devicesetup" msgstr="Device Setup" />
+	<message msgid="service directserial serial" msgstr="Serial" />
+	<message msgid="service directserial baud" msgstr="Baudrate" />
+	<message msgid="service directserial data" msgstr="Data" />
+	<message msgid="service directserial parity" msgstr="Parity" />
+	<message msgid="service directserial stop" msgstr="Stop" />
+	<message msgid="service directserial flow" msgstr="Flow Control" />
+	<message msgid="service directserial serversetup" msgstr="Connection Setup" />
+	<message msgid="service directserial server" msgstr="Server" />
+	<message msgid="service directserial port" msgstr="Port" />
+	<message msgid="service directserial listenport" msgstr="listen Port" />
+	<message msgid="service directserial connectProtocol" msgstr="Connection Protocol" />
+	<message msgid="service directserial connectMode" msgstr="Connection Mode" />
+	<message msgid="service directserial connectionClient" msgstr="Client" />
+	<message msgid="service directserial connectionServer" msgstr="Server" />
+	<message msgid="service directserial tdirectSerialModeUDP" msgstr="Connection Mode" />
+	<message msgid="service directserial connectionStatic" msgstr="Static" />
+	<message msgid="service directserial connectionDynamic" msgstr="Dynamic" />
+	<message msgid="service directserial thdirectSerialDefInterface" msgstr="Default Interface" />
+	<message msgid="service directserial thdirectSerialDefServer" msgstr="Default Server" />
+	<message msgid="service directserial thdirectSerialDefPort" msgstr="Default Port" />
+	<message msgid="service directserial directSerialGuardTime" msgstr="Guard Time" />
+	<message msgid="service directserial directSerialGuardTimeSec" msgstr="Sec" />
+	<message msgid="service directserial thdirectSerialInitFlag" msgstr="Initialization connection" />
+	<message msgid="service directserial directSerialInitFlag0" msgstr="Disable" />
+	<message msgid="service directserial directSerialInitFlag1" msgstr="Enable" />
+	<message msgid="service directserial statussetup" msgstr="Status Setup" />
+	<message msgid="service directserial currentstatus" msgstr="DirectSerial Mode" />
+	<message msgid="service directserial curStatus" msgstr="Current Status" />
+	<message msgid="service directserial bufsize" msgstr="Buffer Size" />
+	<message msgid="service directserial buftimeout" msgstr="Buffer Timeout" />
+	<message msgid="service serialmodem currentstatus" msgstr="Serial Modem" />
+	<message msgid="service serialmodem title" msgstr="Serial Modem" />
+	<message msgid="service serialmodem introduction" msgstr="Use Serial as Modem." />
+	<message msgid="service serialmodem serialIP" msgstr="Serial IP" />  
+	<message msgid="service directserial interface" msgstr="Interface" />
+	<message msgid="service interface0" msgstr="WWAN(Domain. 1)/WAN" />
+	<message msgid="service interface1" msgstr="WWAN(Domain. 2)" />
+	<message msgid="service interface2" msgstr="WWAN(Domain. 3)" />
+	<message msgid="service interface3" msgstr="WWAN(Domain. 4)" />
+	<message msgid="service interface4" msgstr="WWAN(Domain. 5)" />
+	<message msgid="service interface5" msgstr="WWAN(Domain. 6)" />  
+	<message msgid="ups title" msgstr="UPS Configuration" />
+	<message msgid="ups introduction" msgstr="You could setup UPS configuration." />
+	<message msgid="ups ups" msgstr="UPS" />
+	<message msgid="ups mode" msgstr="UPS Mode" />
+	<message msgid="ups alarm" msgstr="Alarm Type" />
+	<message msgid="ups alarm sms" msgstr="SMS" />
+	<message msgid="ups alarm net" msgstr="Server" />
+	<message msgid="ups alarm mail" msgstr="E-Mail" />
+	<message msgid="ups level" msgstr="Alarm Level" />
+	<message msgid="ups external" msgstr="Ejected Ext." />
+	<message msgid="ups lowbatt" msgstr="Low Battery" />
+	<message msgid="ups badbatt" msgstr="Bad Battery" />
+	<message msgid="ups customWarningVoltTitle" msgstr="Warning voltage" />
+	<message msgid="ups customWarningVoltDes" msgstr="[V]" />
+	<message msgid="ups sms" msgstr="SMS" />
+	<message msgid="ups phone" msgstr="Phone Number" />
+	<message msgid="ups network" msgstr="Server" />
+	<message msgid="ups ext port period" msgstr="Issued grace period" />
+	<message msgid="ups ext port period sec" msgstr="Sec" />
+	<message msgid="ups sever" msgstr="Server Addr./Port(Target1)" />
+	<message msgid="ups sever1" msgstr="Server Addr./Port(Target2)" />
+	<message msgid="ups enable" msgstr="Enable" />
+	<message msgid="ups disable" msgstr="Disable" />
+	
+	<message msgid="ups mail setup" msgstr="Mail Setup" />
+	<message msgid="ups mail server" msgstr="Server" />
+	<message msgid="ups mail smtp" msgstr="Server(SMTP)" />
+	<message msgid="ups mail port" msgstr="Port" />
+	<message msgid="ups mail secu" msgstr="Security" />
+	<message msgid="ups mail auth" msgstr="Auth" />
+	<message msgid="ups mail auth_u" msgstr="Use Auth" />
+	<message msgid="ups mail login" msgstr="Login" />
+	<message msgid="ups mail pw" msgstr="Password" />
+	<message msgid="ups mail sender" msgstr="Sender" />
+	<message msgid="ups mail sendn" msgstr="Name" />
+	<message msgid="ups mail sendm" msgstr="Mail" />
+	<message msgid="ups mail receiver" msgstr="Receiver" />
+	<message msgid="ups mail receiver1" msgstr="Receiver1" />
+	<message msgid="ups mail receiver2" msgstr="Receiver2" />
+	<message msgid="ups mail receiver3" msgstr="Receiver3" />
+	<message msgid="ups mail receiver4" msgstr="Receiver4" />
+	<message msgid="ups mail msg" msgstr="Message" />
+	<message msgid="ups mail module" msgstr="Module name" />
+	<message msgid="ups mail sub_bat" msgstr="Subject(Bat)" />
+	<message msgid="ups mail sub_off" msgstr="Subject(Off)" />
+	<message msgid="ups mail sub_on" msgstr="Subject(On)" />
+	<message msgid="ups mail context" msgstr="Context" />
+	<message msgid="ups mail release" msgstr="Release" />
+	<message msgid="ups mail send_r" msgstr="Send Retry" />
+	<message msgid="ups mail send_i" msgstr="Send Interval" />
+	<message msgid="ups mail log" msgstr="Log" />
+	<message msgid="ups mail view log" msgstr="View Log" />	
+	<message msgid="ups mail clear log" msgstr="Clear" />
+	<message msgid="ups mail minute" msgstr="Min" />
+	
+	<message msgid="ups log title" msgstr="UPS Mail Log" />
+	<message msgid="ups log intro" msgstr="Show Ups Logs" />
+	<message msgid="ups log log" msgstr="UPS Log" />
+	<message msgid="ups log no" msgstr="No." />
+	<message msgid="ups log date" msgstr="Date" />
+	<message msgid="ups log status" msgstr="Status" />
+	<message msgid="ups log mail" msgstr="Mail" />
+	
+	<!-- about port -->
+	<message msgid="port log title" msgstr="Port Mail Log" />
+	<message msgid="port log intro" msgstr="Show Port Logs" />
+	<message msgid="port log log" msgstr="Port Log" />
+	<message msgid="port log no" msgstr="No." />
+	<message msgid="port log date" msgstr="Date" />
+	<message msgid="port log status" msgstr="Status" />
+	<message msgid="port log mail" msgstr="Mail" />
+	<message msgid="port mail clear log" msgstr="Clear" />
+	
+	<message msgid="port detect Title" msgstr="Port monitor settings" />
+	<message msgid="port detect Introduction" msgstr="You can set the comport surveillance." />
+	<message msgid="port port" msgstr="Port Monitor Settings" />
+	<message msgid="portdetect mode" msgstr="Port monitor settings" />
+	<message msgid="port disable" msgstr="Disabled" />
+	<message msgid="port enable" msgstr="Enabled" />
+	<message msgid="port level" msgstr="Alarm type" />
+	<message msgid="port detectl1" msgstr="Warning" />
+	<message msgid="port detectl2" msgstr="Fatal" />
+	<message msgid="port detectl3" msgstr="Critical" />
+	<message msgid="detect mail setup" msgstr="Mail Settings" />
+	<message msgid="port mail server" msgstr="Server" />
+	<message msgid="port mail smtp" msgstr="Address (SMTP)" />
+	<message msgid="port mail port" msgstr="Port" />
+	<message msgid="port mail secu" msgstr="Security" />
+	<message msgid="port mail auth" msgstr="Auth" />
+	<message msgid="port mail auth_u" msgstr="Use Auth" />
+	<message msgid="port mail login" msgstr="Login" />
+	<message msgid="port mail pw" msgstr="Password" />
+	<message msgid="port mail sender" msgstr="Sender" />
+	<message msgid="port mail sendn" msgstr="Name" />
+	<message msgid="port mail sendm" msgstr="Mail" />
+	<message msgid="port mail receiver" msgstr="Receiver" />
+	<message msgid="port mail receiver1" msgstr="Receiver1" />
+	<message msgid="port mail receiver2" msgstr="Receiver2" />
+	<message msgid="port mail receiver3" msgstr="Receiver3" />
+	<message msgid="port mail receiver4" msgstr="Receiver4" />
+	<message msgid="port mail msg" msgstr="Message" />
+	<message msgid="port mail module" msgstr="Module name" />
+	<message msgid="port mail subject" msgstr="Subject(Error)" />
+	<message msgid="port mail subject2" msgstr="Subject(Back)" />
+	<!-- <message msgid="port mail subject3" msgstr="Subject(TIOCM_DSR)" /> -->
+	<message msgid="port mail context" msgstr="Content" />
+	<message msgid="port mail subject we" msgstr="Warning error" />
+	<message msgid="port mail subject wr" msgstr="Warning return" />
+	<message msgid="port mail subject fe" msgstr="Fatal error" />
+	<message msgid="port mail subject fr" msgstr="Fatal return" />
+	<message msgid="port mail subject ce" msgstr="Critical error" />
+	<message msgid="port mail subject cr" msgstr="Critical return" />
+	<message msgid="port mail release" msgstr="Release" />
+	<message msgid="port mail send_r" msgstr="Send Retry" />
+	<message msgid="port mail send_i" msgstr="Send Interval" />
+	<message msgid="port mail minute" msgstr="Min" />
+	<message msgid="port mail log" msgstr="Log" />
+	<message msgid="port mail view log" msgstr="View log" />  
+	<message msgid="service nms introduction" msgstr="Statement information for Remote control can be set by NMS." />
+	<message msgid="service nms report setup" msgstr="NMS Report Setup" />
+	<message msgid="service nms report enable" msgstr="NMS Report " />
+	<message msgid="service nms report time" msgstr="Period Setup" />
+	<message msgid="service nms report server" msgstr="Server Addr" />
+	<message msgid="service nms report port" msgstr="Server Port" />
+	<message msgid="service nms remote setup" msgstr="NMS Control Setup" />
+	<message msgid="service nms remote control" msgstr="NMS Control" />
+	<message msgid="service nms server method" msgstr="Server Interworking Method" />
+	<message msgid="service nms remote input port" msgstr="Input Port" />
+	<message msgid="service nms remote user" msgstr="Security Code " />
+	<message msgid="service power_controller title" msgstr="Power Controller " />
+	<message msgid="service power_controller introduction" msgstr="Power Controller controls external device of the power !  " />
+	<message msgid="service power_controller statussetup" msgstr="Power Controller Setup" />
+	<message msgid="service power_controller currentstatus" msgstr="Mode" />
+	<message msgid="service power_controller execute" msgstr="Power Control" />
+	<message msgid="service power_controller deviceSetup" msgstr="Device Interface" />
+	<message msgid="service power_controller workSetup" msgstr="Action" />
+	<message msgid="jquery msg invalid input" msgstr="Check the highlighted value" />
+	<message msgid="service rmtMethod1" msgstr="Network Interworking" />
+	
+	<message msgid="service emg title" msgstr="EMG Notification Service" />
+	<message msgid="service emg introduction" msgstr="EMG Notification can be set." />
+	<message msgid="service emg cap notifier setup" msgstr="EMG Notification " />
+	<message msgid="service emg notifier enable" msgstr="Notification" />
+	<message msgid="service emg notifier count" msgstr="Transfer Count" />
+	<message msgid="service emg notifier cnt 1" msgstr="1 Times" />
+	<message msgid="service emg notifier cnt 2" msgstr="2 Times" />
+	<message msgid="service emg notifier cnt 3" msgstr="3 Times" />
+	<message msgid="service emg notifier interval" msgstr="Send Interval" />
+	<message msgid="service emg notifier code" msgstr="Identification Code (16 Hex)" />
+	<message msgid="service emg cap notifier add setup" msgstr="Add EMG Notification" />
+	<message msgid="service emg notifier interface" msgstr="Interface" />
+	<message msgid="service emg notifier ip" msgstr="IP Address" />
+	<message msgid="service emg notifier port" msgstr="Port" />
+	<message msgid="service emg notifier comment" msgstr="Comment" />
+	<message msgid="service emg notifier rules cnt" msgstr="(Maximum records count : 3)" />
+	<message msgid="service emg cap send target" msgstr="EMG Notification taget list" />
+	<message msgid="service emg notifier target no" msgstr="No." />
+	<message msgid="service emg notifier target interface" msgstr="Interface" />
+	<message msgid="service emg notifier target address" msgstr="IP Address" />
+	<message msgid="service emg notifier target port" msgstr="Port" />
+	<message msgid="service emg notifier target comment" msgstr="Comment" />
+	<message msgid="service emg notifier target to" msgstr="Target" />
+	<message msgid="service delete rules" msgstr="Delete" />
+	<message msgid="service cancel rules" msgstr="Cancel" />
+	<message msgid="service select rule to be delete" msgstr="Please select the rule to be deleted." />	
+	<message msgid="service emg rule number exceeded" msgstr="The rule number is exceeded. " />
+	<message msgid="service modbus title" msgstr="Modbus function" />
+	<message msgid="service modbus subtitle" msgstr="It will do the settings for the Modbus communication function" />
+	<message msgid="service modbus setup caption" msgstr="Modbus Gatway Setup" />
+	<message msgid="service modbus mode title" msgstr="Auto Start" />
+	<message msgid="service modbus mode bridge" msgstr="Auto Start" />
+	<message msgid="service modbus mode disable" msgstr="Disable" />
+	<message msgid="service modbus timeout" msgstr="TCP Receive Timeout" />
+	<message msgid="service modbus port" msgstr="Modbus-TCP Receive Port" />
+	<message msgid="service modbus boadrate" msgstr="Modbus-RTU Baudrate" />
+	<message msgid="service modbus data" msgstr="Modbus-RTU Data Bit" />
+	<message msgid="service modbus parity" msgstr="Modbus-RTU Parity Bit" />
+	<message msgid="service modbus stop" msgstr="Modbus-RTU Stop Bit" />
+	<message msgid="service modbus flow" msgstr="Modbus-RTU Flow Bit" />
+	
+	<message msgid="gps function title" msgstr="GPS Function" />
+	<message msgid="gps function introduction" msgstr="Make the settings related to the ability to measure and transmit the location information." />
+	<message msgid="gps function" msgstr="GPS Function" />
+	<message msgid="gps function" msgstr="GPS Function" />
+	<message msgid="gps function disable" msgstr="Disable" />
+	<message msgid="gps function enable" msgstr="Enable" />
+	<message msgid="gps info form" msgstr="GPS information" />
+	<message msgid="gps info form klw" msgstr="CPRN-KLW standard" />
+	<message msgid="gps info form nmea" msgstr="NMEA system" />
+	<message msgid="gps measuring cycle" msgstr="Measurement cycle" />
+	<message msgid="gps lan output mode caption" msgstr="Output Mode (LAN)" />
+	<message msgid="gps wan output mode caption" msgstr="Output Mode (WAN)" />
+	<message msgid="gps lan output mode" msgstr="Output Mode" />
+	<message msgid="gps lan output disable" msgstr="Not output" />
+	<message msgid="gps tcp client" msgstr="TCP Client" />
+	<message msgid="gps tcp server" msgstr="TCP Server" />
+	<message msgid="gps udp" msgstr="UDP" />
+	<message msgid="gps cut expectation" msgstr="TCP cut waiting time" />
+	<message msgid="gps wating time" msgstr="GPS information erase latency" />
+	<message msgid="gps interface" msgstr="Interface" />
+	<message msgid="gps object ip" msgstr="Destination IP address" />
+	<message msgid="gps object ip or host" msgstr="Destination IP address / host name" />
+	<message msgid="gps object port" msgstr="Destination port" />
+	<message msgid="gps object receipt port" msgstr="Reception port" />
+	<message msgid="gps set seconds" msgstr="seconds" />
+	<message msgid="gps type" msgstr="Positioning method" />
+	<message msgid="gps datum" msgstr="Datum" />
+	<message msgid="gps position unit" msgstr="Latitude and longitude format" />
+	<message msgid="gps ppp auth id" msgstr="PPP authentication ID" />
+	<message msgid="gps ppp password" msgstr="PPP password" />
+	<message msgid="gps degree" msgstr="Real (in degrees)" />
+	<message msgid="gps dms" msgstr="Degrees, minutes and seconds" />
+	<message msgid="gps password text" msgstr="text" />
+	<message msgid="gps password binary" msgstr="binary" />	
+</po>

@@ -1,0 +1,191 @@
+﻿<po>
+	<message msgid="inet apply" msgstr="適用" />
+	<message msgid="inet cancel" msgstr="キャンセル" />
+	<message msgid="inet enable" msgstr="有効にする" />
+	<message msgid="inet disable" msgstr="無効にする" />
+
+	<message msgid="inet lan mac" msgstr="MACアドレス" />
+	<message msgid="inet mac" msgstr="擬似MACアドレス" />
+	<message msgid="inet ip" msgstr="IPアドレス" />
+	<message msgid="inet server" msgstr="サーバーIP" />
+	<message msgid="inet netmask" msgstr="サブネットマスク" />
+	<message msgid="inet gateway" msgstr="デフォルトゲートウェイ" />
+	<message msgid="inet pri dns" msgstr="プライマリDNSサーバー" />
+	<message msgid="inet sec dns" msgstr="セカンダリDNSサーバー" />
+	<message msgid="inet user" msgstr="ユーザー名" />
+	<message msgid="inet password" msgstr="暗証番号" />
+	<message msgid="inet pass2" msgstr="暗証番号の確認" />
+	<message msgid="inet hostname" msgstr="ホスト名" />
+	<message msgid="inet seconds" msgstr="秒" />
+
+	<message msgid="wanmode title2" msgstr="WAN モード" />
+	<message msgid="wanmode help_0" msgstr="3G, LTE 無線 コネクション モード 専用" />
+	<message msgid="wanmode help_1" msgstr="WAN コネクション モード 専用" />
+	<message msgid="wanmode help_2" msgstr="自動 コネクション モード. メイン コネクション: WAN, Backup : WWAN" />
+
+	<message msgid="wan title" msgstr="WAN設定" />
+	<message msgid="wan introduction" msgstr="インターネットや閉域ネットワークに接続するための方法を設定します。" />
+	<message msgid="wan connection type" msgstr="WAN接続方法" />
+	<message msgid="wan connection type static" msgstr="固定割当" />
+	<message msgid="wan connection type dhcp" msgstr="自動割当" />
+	<message msgid="wan connection type pppoe" msgstr="PPPoE (ADSL)" />
+	<message msgid="wan connection type l2tp" msgstr="L2TP" />
+	<message msgid="wan connection type pptp" msgstr="PPTP" />
+	<message msgid="wan protocol opmode" msgstr="動作モード" />
+	<message msgid="wan protocol opmode keepalive" msgstr="キープアライブ" />
+	<message msgid="wan protocol opmode ondemand" msgstr="オンデマンド" />
+	<message msgid="wan protocol opmode manual" msgstr="マニュアル" />
+	<message msgid="wan static mode" msgstr="WANネットワーク設定" />
+	<message msgid="wan dhcp mode" msgstr="DHCP設定" />
+	<message msgid="wan pppoe mode" msgstr="PPPoE設定" />
+	<message msgid="wan dhcp optional" msgstr="(空欄可)" />
+	<message msgid="wan l2tp mode" msgstr="L2TPモード" />
+	<message msgid="wan pptp mode" msgstr="PPTPモード" />
+	<message msgid="wan 3G mode" msgstr="3G/LTEモード" />
+	<message msgid="wan 3G user" msgstr="ユーザーID" />
+	<message msgid="wan 3G pass" msgstr="暗証番号" />
+	<message msgid="wan 3G repass" msgstr="暗証番号の確認" />
+	<message msgid="wan 3G dial" msgstr="電話番号" />
+	<message msgid="wan 3G pin" msgstr="PINステータス" />
+	<message msgid="wan address mode" msgstr="アドレス割当モード" />
+	<message msgid="wan address mode static" msgstr="固定割当" />
+	<message msgid="wan address mode dynamic" msgstr="自動割当" />
+	<message msgid="wan protocol idle" msgstr="待機モード" />
+	<message msgid="wan protocol redial" msgstr="再接続時間" />
+	<message msgid="wan protocol minutes" msgstr="分" />
+	<message msgid="wan protocol seconds" msgstr="秒" />
+	<message msgid="wan mac clone" msgstr="擬似MACアドレスの使用" />
+	<message msgid="wan enabled" msgstr="有効にする" />
+	<message msgid="wan fillmac" msgstr="MAC使用" />
+	<message msgid="wan ping title" msgstr="WANの接続確認" />
+	<message msgid="wan ping addr" msgstr="Pingの送信先" />
+	<message msgid="wan ping button" msgstr="保存" />
+	<message msgid="lan1 title" msgstr="LAN1設定" />
+	<message msgid="lan1 introduction" msgstr="内部ネットワーク（LAN1）の設定ができます。" />
+	<message msgid="lan1 setup" msgstr="内部ネットワーク（LAN1）設定" />
+	<message msgid="lan communication setting" msgstr="ネットワーク通信速度設定" />
+	<message msgid="lan communication speed" msgstr="LAN通信速度" />
+	<message msgid="wan communication speed" msgstr="通信速度" />
+	<message msgid="lan communication speed" msgstr="LAN 通信速度" />
+	<message msgid="lan title" msgstr="LAN設定" />
+	<message msgid="lan introduction" msgstr="内部ネットワーク（LAN）の設定を行います。" />
+	<message msgid="lan setup" msgstr="LANネットワーク設定" />
+	<message msgid="lan dhcp type" msgstr="DHCPサーバー機能" />
+	<message msgid="lan dhcp type server" msgstr="有効にする" />
+	<message msgid="lan dhcp start" msgstr="スタートIPアドレス" />
+	<message msgid="lan dhcp end" msgstr="エンドIPアドレス" />
+	<message msgid="lan dhcp lease" msgstr="リース時間" />
+	<message msgid="lan dhcp static" msgstr="固定割当の指定" />
+	<message msgid="lan option feature" msgstr="オプション機能" />
+	<message msgid="lan stp" msgstr="802.1d Spanning Tree" />
+	<message msgid="lan lltd" msgstr="LLTD" />
+	<message msgid="lan igmpp" msgstr="IGMP Proxy" />
+	<message msgid="lan upnp" msgstr="UPnP" />
+	<message msgid="lan radvd" msgstr="Router  広告" />
+	<message msgid="lan pppoer" msgstr="PPPoE Relay" />
+	<message msgid="lan dnsp" msgstr="DNS Proxy" />
+	<message msgid="dhcp title" msgstr="DHCP割当情報" />
+	<message msgid="dhcp introduction" msgstr="DHCPクライアントに割り当てているIPアドレスの一覧を確認することができます。" />
+	<message msgid="dhcp clients" msgstr="DHCP割当" />
+	<message msgid="dhcp expire" msgstr="リース期限" />
+	<message msgid="vpn title" msgstr="VPN パススルー" />
+	<message msgid="vpn mode" msgstr="VPN モード" />
+	<message msgid="vpn type" msgstr="モード" />
+	<message msgid="vpn introduction" msgstr="L2TP, IPSec, PPTPを利用するためのVPN Passthroughを使うかどうか、指定します。" />
+	<message msgid="vpn pass thru" msgstr="VPN パススルー" />
+	<message msgid="vpn l2tp pass thru" msgstr="L2TP パススルー" />
+	<message msgid="vpn ipsec pass thru" msgstr="IPSec パススルー" />
+	<message msgid="vpn pptp pass thru" msgstr="PPTP パススルー" />
+	<message msgid="routing title" msgstr="ルーティング情報設定" />
+	<message msgid="routing Introduction" msgstr="ルーティング情報の確認、およびルーティング規則の追加を行います。" />
+	<message msgid="routing add rule" msgstr="ルーティング情報の規則追加" />
+	<message msgid="routing routing dest" msgstr="デスティネーション" />
+	<message msgid="routing range" msgstr="レンジ" />
+	<message msgid="routing netmask" msgstr="ネットマスク" />
+	<message msgid="routing gateway" msgstr="ゲートウェイ" />
+	<message msgid="routing interface" msgstr="インターフェース" />
+	<message msgid="routing wwan1" msgstr="WWAN (接続先1)/WAN" />
+	<message msgid="routing wwan2" msgstr="WWAN (接続先2)" />
+	<message msgid="routing custom" msgstr="カスタム" />
+	<message msgid="routing comment" msgstr="コメント" />
+	<message msgid="routing submit" msgstr="適用" />
+	<message msgid="routing reset" msgstr="キャンセル" />
+	<message msgid="routing Number" msgstr="No." />
+	<message msgid="routing del title" msgstr="ルーティングテーブル" />
+	<message msgid="routing del dest" msgstr="デスティネーション" />
+	<message msgid="routing del netmask" msgstr="ネットマスク" />
+	<message msgid="routing del gateway" msgstr="ゲートウェイ" />
+	<message msgid="routing del flags" msgstr="Flags" />
+	<message msgid="routing del metric" msgstr="Metric" />
+	<message msgid="routing del ref" msgstr="Ref" />
+	<message msgid="routing del use" msgstr="Use" />
+	<message msgid="routing del interface" msgstr="インターフェース" />
+	<message msgid="routing del comment" msgstr="コメント" />
+	<message msgid="routing del" msgstr="削除" />
+	<message msgid="routing del reset" msgstr="リセット" />
+	<message msgid="routing host" msgstr="ホスト" />
+	<message msgid="routing net" msgstr="ネット" />
+	<message msgid="routing LAN" msgstr="LAN" />
+	<message msgid="routing WAN" msgstr="WAN" />
+	<message msgid="routing dynamic Title" msgstr="ダイナミックルーティング設定" />
+	<message msgid="routing dynamic Title2" msgstr="ダイナミックルーティング" />
+	<message msgid="routing dynamic rip disable" msgstr="無効にする" />
+	<message msgid="routing dynamic rip enable" msgstr="有効にする" />
+	<message msgid="routing dynamic rip apply" msgstr="適用" />
+	<message msgid="routing dynamic rip reset" msgstr="リセット" />
+	<message msgid="alert lease input time" msgstr="リース期間を入力してください。" />
+	<message msgid="alert select item to delete" msgstr="削除する項目を選択してください。" />
+	<message msgid="alert cannot get mac address" msgstr="Macアドレスを生成できませんでした。" />
+	<message msgid="alert specify media server name" msgstr="サーバーのアドレスを設定してください。" />
+	<message msgid="alert ip address format err" msgstr="IPアドレス形式エラー" />
+	<message msgid="alert mac address empty" msgstr="MAC値を入力してください。" />
+	<message msgid="alert password are different" msgstr="パスワードが一致しませ ん。" />
+	<message msgid="alert blank space in this field" msgstr="入力されてないところがあります。" />
+	<message msgid="alert the destination" msgstr="目的地を入力してください。" />
+	<message msgid="alert for engineer only" msgstr="エンジニア専用です。進めますか？" />
+	<message msgid="alert specify a file" msgstr="ファイルを指定してください。" />
+	<message msgid="alert specify a command" msgstr="実行する命令を入力してください。" />
+	<message msgid="alert input digit num in port" msgstr="ポートの数字を入力してください。(1~65535)" />
+	<message msgid="alert email settings are not corrent" msgstr="メールの形式を入力してください。" />
+	<message msgid="jquery msg invalid input" msgstr="ハイライトされた値を確認してください。" />	
+	<message msgid="hitachi test diagnosis title" msgstr="診断およびEMGテスト" />
+	<message msgid="hitachi test diagnosis introduction" msgstr="診断テストの項目をチェックすると、シミュレーション時に、その項目は失敗します。また、EMGテストを行うことができます。" />
+	<message msgid="hitachi test diagnosis caption" msgstr="自己診断" />	
+	<message msgid="hitachi test diagnosis ram info" msgstr="ラム情報" />
+	<message msgid="hitachi test diagnosis ram total" msgstr="ラム総量" />
+	<message msgid="hitachi test diagnosis ram left" msgstr="ラム残り" />
+	<message msgid="hitachi test diagnosis ram read" msgstr="ラム読む" />	
+	<message msgid="hitachi test diagnosis rom info" msgstr="ローマ情報" />
+	<message msgid="hitachi test diagnosis rom total" msgstr="ローマ総量" />	
+	<message msgid="hitachi test diagnosis interface info" msgstr="インターフェース情報" />
+	<message msgid="hitachi test diagnosis all nic statics" msgstr="All Nic Statics" />
+	<message msgid="hitachi test diagnosis ethernet status" msgstr="Ethernetの状態" />
+	<message msgid="hitachi test diagnosis wan lan name ip" msgstr="Wan（lan）name、ip" />
+	<message msgid="hitachi test diagnosis ping result" msgstr="Pingの結果" />	
+	<message msgid="hitachi test diagnosis firmware info" msgstr="ファームウェア情報" />
+	<message msgid="hitachi test diagnosis os" msgstr="OS" />
+	<message msgid="hitachi test diagnosis cpu" msgstr="CPU" />
+	<message msgid="hitachi test diagnosis device" msgstr="デバイス" />
+	<message msgid="hitachi test diagnosis external power status" msgstr="外部電源の情報" />
+	<message msgid="hitachi test diagnosis serial" msgstr="シリアル" />
+	<message msgid="hitachi test diagnosis usb serial" msgstr="USB シリアル" />
+	<message msgid="hitachi test diagnosis host name" msgstr="ホスト名ホストネーム" />
+	<message msgid="hitachi test diagnosis domain name" msgstr="ドメインネーム" />
+	<message msgid="hitachi test diagnosis partions" msgstr="パーティション情報" />
+	<message msgid="hitachi test diagnosis uptime" msgstr="Uptime" />
+	<message msgid="hitachi test diagnosis major process" msgstr="メジャープロセス" />	
+	<message msgid="hitachi test diagnosis module info" msgstr="モジュール情報" />
+	<message msgid="hitachi test diagnosis module status" msgstr="状態" />
+	<message msgid="hitachi test diagnosis module sys info" msgstr="システム情報" />
+	<message msgid="hitachi test diagnosis phone number" msgstr="携帯電話ナンバー" />
+	<message msgid="hitachi test diagnosis pin status" msgstr="ピンの状態" />
+	<message msgid="hitachi test diagnosis call status" msgstr="コールの状態" />
+	<message msgid="hitachi test diagnosis ota status" msgstr="OTA状態" />
+	<message msgid="hitachi test diagnosis imei" msgstr="Imei番号" />	
+	<message msgid="hitachi test diagnosis iccid" msgstr="Iccid番号" />	
+	<message msgid="hitachi test emg caption" msgstr="EMGテスト" />
+	<message msgid="hitachi test emg value" msgstr="テスト値" />
+	<message msgid="hitachi test emg start btn" msgstr="開始" />	
+	<message msgid="hitachi test diagnosis test start" msgstr="開始" />
+	<message msgid="hitachi test diagnosis test end" msgstr="終了" />	
+</po>

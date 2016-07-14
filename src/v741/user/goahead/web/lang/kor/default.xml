@@ -1,0 +1,4 @@
+﻿<po>
+	<message msgid="jquery msg invalid input" msgstr="하이라이트된 부분을 확인하세요." />
+	<message msgid="jquery msg report port and remote port same" msgstr="서버 포트와 입력포트가 달라야합니다." /> 
+</po>

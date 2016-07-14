@@ -1,0 +1,223 @@
+﻿<po>
+	<message msgid="service apply" msgstr="적용" />
+	<message msgid="service cancel" msgstr="취소" />
+	<message msgid="service enable" msgstr="사용함" />
+	<message msgid="service disable" msgstr="사용안함" />
+	<message msgid="service refresh" msgstr="갱신" />
+	<message msgid="service directserial title" msgstr="다이렉트 시리얼" />
+	<message msgid="service directserial introduction" msgstr="네트워크 망을 통해 Serial 입력 데이터를 서버에 전송합니다." />
+	<message msgid="service directserial devicesetup" msgstr="장치 설정" />
+	<message msgid="service directserial serial" msgstr="시리얼" />
+	<message msgid="service directserial baud" msgstr="전송 속도" />
+	<message msgid="service directserial data" msgstr="데이터" />
+	<message msgid="service directserial parity" msgstr="패리티" />
+	<message msgid="service directserial stop" msgstr="정지 비트" />
+	<message msgid="service directserial flow" msgstr="플로우 컨트롤러 제어" />
+	<message msgid="service directserial serversetup" msgstr="네트워크 연결 설정" />
+	<message msgid="service directserial server" msgstr="서버이름" />
+	<message msgid="service directserial port" msgstr="포트" />
+	<message msgid="service directserial listenport" msgstr="접속 포트" />
+	<message msgid="service directserial tdirectSerialModeUDP" msgstr="연결 모드" />
+	<message msgid="service directserial connectionStatic" msgstr="정적" />
+	<message msgid="service directserial connectionDynamic" msgstr="동적" />
+	<message msgid="service directserial thdirectSerialDefInterface" msgstr="기본 인터페이스" />
+	<message msgid="service directserial thdirectSerialDefServer" msgstr="기본 서버" />
+	<message msgid="service directserial thdirectSerialDefPort" msgstr="기본 포트" />
+	<message msgid="service directserial directSerialGuardTime" msgstr="방어 타임" />
+	<message msgid="service directserial directSerialGuardTimeSec" msgstr="초" />
+	<message msgid="service directserial thdirectSerialInitFlag" msgstr="연결 초기화" />
+	<message msgid="service directserial directSerialInitFlag0" msgstr="사용안함" />
+	<message msgid="service directserial directSerialInitFlag1" msgstr="사용" />
+	<message msgid="service directserial connectProtocol" msgstr="연결 방식" />
+	<message msgid="service directserial connectMode" msgstr="연결 모드" />
+	<message msgid="service directserial connectionClient" msgstr="Client" />
+	<message msgid="service directserial connectionServer" msgstr="Server" />
+	<message msgid="service directserial statussetup" msgstr="기본 설정" />
+	<message msgid="service directserial currentstatus" msgstr="사용여부" />
+	<message msgid="service directserial curStatus" msgstr="상태" />
+	<message msgid="service directserial currentstatus" msgstr="사용여부" />
+	<message msgid="service directserial bufsize" msgstr="버퍼 크기" />
+	<message msgid="service directserial buftimeout" msgstr="버퍼 시간 제한" />
+	<message msgid="service serialmodem currentstatus" msgstr="시리얼 모뎀" />
+	<message msgid="service serialmodem title" msgstr="시리얼 모뎀" />
+	<message msgid="service serialmodem introduction" msgstr="모뎀과 같은 장치로 사용할 수 있게 합니다." />
+	<message msgid="service serialmodem serialIP" msgstr="시리얼 IP" />   
+	<message msgid="service directserial interface" msgstr="인터페이스" />
+	<message msgid="service interface0" msgstr="WWAN(대상1)/WAN" />
+	<message msgid="service interface1" msgstr="WWAN(대상2)" />
+	<message msgid="service interface2" msgstr="WWAN(대상3)" />
+	<message msgid="service interface3" msgstr="WWAN(대상4)" />
+	<message msgid="service interface4" msgstr="WWAN(대상5)" />
+	<message msgid="service interface5" msgstr="WWAN(대상6)" />
+	<message msgid="ups title" msgstr="UPS 규칙 설정" />
+	<message msgid="ups introduction" msgstr="전원 차단시 경고 알람을 설정합니다." />
+	<message msgid="ups ups" msgstr="UPS 설정" />
+	<message msgid="ups mode" msgstr="알람 사용설정" />
+	<message msgid="ups alarm" msgstr="알람방법 설정" />
+	<message msgid="ups alarm sms" msgstr="SMS" />
+	<message msgid="ups alarm net" msgstr="Server" />
+	<message msgid="ups alarm mail" msgstr="E-Mail" />
+	<message msgid="ups level" msgstr="레벨  설정" />
+	<message msgid="ups external" msgstr="외부전원 단절" />
+	<message msgid="ups lowbatt" msgstr="저전압" />
+	<message msgid="ups badbatt" msgstr="종료전압" />
+	<message msgid="ups customWarningVoltTitle" msgstr="경고전압" />
+	<message msgid="ups customWarningVoltDes" msgstr="[V](3.6 ~ 4.2)" />
+	<message msgid="ups sms" msgstr="SMS" />
+	<message msgid="ups phone" msgstr="전화번호" />
+	<message msgid="ups network" msgstr="서버" />	
+	<message msgid="ups ext port period" msgstr="발령유예기간" />
+	<message msgid="ups ext port period sec" msgstr="초" />
+	<message msgid="ups sever" msgstr="서버 주소/포트 (대상 1)" />
+	<message msgid="ups sever1" msgstr="서버 주소/포트 (대상 2)" />
+	<message msgid="ups enable" msgstr="사용함" />
+	<message msgid="ups disable" msgstr="사용안함" />
+	
+	<message msgid="ups mail setup" msgstr="메일 설정" />
+	<message msgid="ups mail server" msgstr="서버" />
+	<message msgid="ups mail smtp" msgstr="주소(SMTP)" />
+	<message msgid="ups mail port" msgstr="포트" />
+	<message msgid="ups mail secu" msgstr="보안 설정" />
+	<message msgid="ups mail auth" msgstr="인증사용" />
+	<message msgid="ups mail auth_u" msgstr="사용" />
+	<message msgid="ups mail login" msgstr="계정" />
+	<message msgid="ups mail pw" msgstr="암호" />
+	<message msgid="ups mail sender" msgstr="보내는 사람" />
+	<message msgid="ups mail sendn" msgstr="표시이름" />
+	<message msgid="ups mail sendm" msgstr="Mail 주소" />
+	<message msgid="ups mail receiver" msgstr="수신자" />
+	<message msgid="ups mail receiver1" msgstr="수신자1" />
+	<message msgid="ups mail receiver2" msgstr="수신자2" />
+	<message msgid="ups mail receiver3" msgstr="수신자3" />
+	<message msgid="ups mail receiver4" msgstr="수신자4" />
+	<message msgid="ups mail msg" msgstr="메시지" />
+	<message msgid="ups mail module" msgstr="모듈 이름" />
+	<message msgid="ups mail sub_bat" msgstr="제목(밧데리)" />
+	<message msgid="ups mail sub_off" msgstr="제목(정전)" />
+	<message msgid="ups mail sub_on" msgstr="제목(복귀)" />
+	<message msgid="ups mail context" msgstr="내용" />
+	<message msgid="ups mail release" msgstr="재전송" />
+	<message msgid="ups mail send_r" msgstr="반복 회수" />
+	<message msgid="ups mail send_i" msgstr="재시도 간격" />
+	<message msgid="ups mail log" msgstr="로그" />
+	<message msgid="ups mail view log" msgstr="로그 보기" />
+	<message msgid="ups mail clear log" msgstr="삭제" />
+	
+	<message msgid="ups log title" msgstr="UPS 메일 로그" />
+	<message msgid="ups log intro" msgstr="UPS 로그를 확인할 수 있습니다." />
+	<message msgid="ups log log" msgstr="UPS 로그" />
+	<message msgid="ups log no" msgstr="No." />
+	<message msgid="ups log date" msgstr="시간" />
+	<message msgid="ups log status" msgstr="상태" />
+	<message msgid="ups log mail" msgstr="메일 발송" />    
+	
+	<!-- about port -->
+	<message msgid="port log title" msgstr="Port 메일 로그" />
+	<message msgid="port log intro" msgstr="Port 로그를 확인할 수 있습니다." />
+	<message msgid="port log log" msgstr="Port 로그" />
+	<message msgid="port log no" msgstr="No." />
+	<message msgid="port log date" msgstr="시간" />
+	<message msgid="port log status" msgstr="상태" />
+	<message msgid="port log mail" msgstr="메일 발송" />
+	<message msgid="port mail clear log" msgstr="삭제" />
+	
+	<message msgid="port detect Title" msgstr="포트 감시 규칙 설정" />
+	<message msgid="port detect Introduction" msgstr="포트 삽입/제거시 경고 알람을 설정합니다." />
+	<message msgid="port port" msgstr="포트 감시 설정" />
+	<message msgid="portdetect mode" msgstr="알람 사용설정" />
+	<message msgid="port disable" msgstr="사용안함" />
+	<message msgid="port enable" msgstr="사용함" />
+	<message msgid="port level" msgstr="레벨 설정" />
+	<message msgid="port detectl1" msgstr="경고장" />
+	<message msgid="port detectl2" msgstr="중고장" />
+	<message msgid="port detectl3" msgstr="계통이상" />
+	<message msgid="detect mail setup" msgstr="메일 설정" />
+	<message msgid="port mail server" msgstr="서버" />
+	<message msgid="port mail smtp" msgstr="주소 (SMTP)" />
+	<message msgid="port mail port" msgstr="포트" />
+	<message msgid="port mail secu" msgstr="보안 설정" />
+	<message msgid="port mail auth" msgstr="인증 사용" />
+	<message msgid="port mail auth_u" msgstr="사용" />
+	<message msgid="port mail login" msgstr="계정" />
+	<message msgid="port mail pw" msgstr="암호" />
+	<message msgid="port mail sender" msgstr="보내는 사람" />
+	<message msgid="port mail sendn" msgstr="표시이름" />
+	<message msgid="port mail sendm" msgstr="Mail 주소" />
+	<message msgid="port mail receiver" msgstr="수신자" />
+	<message msgid="port mail receiver1" msgstr="수신자1" />
+	<message msgid="port mail receiver2" msgstr="수신자2" />
+	<message msgid="port mail receiver3" msgstr="수신자3" />
+	<message msgid="port mail receiver4" msgstr="수신자4" />
+	<message msgid="port mail msg" msgstr="메세지" />
+	<message msgid="port mail module" msgstr="모듈 이름" />
+	<message msgid="port mail subject" msgstr="제목(에러)" />
+	<message msgid="port mail subject2" msgstr="제목(복귀)" />
+	<!-- <message msgid="port mail subject3" msgstr="제목(TIOCM_DSR)" /> -->
+	<message msgid="port mail context" msgstr="내용" />
+	<message msgid="port mail subject we" msgstr="경고장발생" />
+	<message msgid="port mail subject wr" msgstr="경고장복귀" />
+	<message msgid="port mail subject fe" msgstr="중고장발생" />
+	<message msgid="port mail subject fr" msgstr="중고장복귀" />
+	<message msgid="port mail subject ce" msgstr="계통이상발생" />
+	<message msgid="port mail subject cr" msgstr="계통이상복귀" />
+	<message msgid="port mail release" msgstr="재전송" />
+	<message msgid="port mail send_r" msgstr="반복 회수" />
+	<message msgid="port mail send_i" msgstr="재시도 간견" />
+	<message msgid="port mail minute" msgstr="분" />
+	<message msgid="port mail log" msgstr="로그" />
+	<message msgid="port mail view log" msgstr="로그 보기" />
+	<message msgid="service nms introduction" msgstr="NMS에서의 관제를 위한 상태 정보 전달 및 관제 설정을 할 수 있습니다." />
+	<message msgid="service nms report setup" msgstr="NMS 설정" />
+	<message msgid="service nms report enable" msgstr="사용 설정 " />
+	<message msgid="service nms report time" msgstr="주기 설정" />
+	<message msgid="service nms report server" msgstr="서버 주소" />
+	<message msgid="service nms report port" msgstr="서버 포트" />
+	<message msgid="service nms remote setup" msgstr="NMS 제어 설정" />
+	<message msgid="service nms remote control" msgstr="사용 설정" />
+	<message msgid="service nms server method" msgstr="S서버 연동 방법" />
+	<message msgid="service nms remote input port" msgstr="수신 포트" />
+	<message msgid="service nms remote user" msgstr="보안 코드 " />
+	<message msgid="service rmtMethod1" msgstr="네트워크 방식" />
+	
+	<message msgid="service emg title" msgstr="긴급 지진 속보" />
+	<message msgid="service emg introduction" msgstr="긴급 지진 속보 기능 설정을 할 수 있습니다." />
+	<message msgid="service emg cap notifier setup" msgstr="긴급 지진 속보" />
+	<message msgid="service emg notifier enable" msgstr="긴급 지진 속보 기능" />
+	<message msgid="service emg notifier count" msgstr="전송 횟수" />
+	<message msgid="service emg notifier cnt 1" msgstr="1 회" />
+	<message msgid="service emg notifier cnt 2" msgstr="2 회" />
+	<message msgid="service emg notifier cnt 3" msgstr="3 회" />
+	<message msgid="service emg notifier interval" msgstr="전송 간격" />
+	<message msgid="service emg notifier code" msgstr="식별 코드 (16 진수 16 자리)" />
+	<message msgid="service emg cap notifier add setup" msgstr="긴급 지진 속보 알림 추가" />
+	<message msgid="service emg notifier interface" msgstr="인터페이스" />
+	<message msgid="service emg notifier ip" msgstr="대상 IP 주소" />
+	<message msgid="service emg notifier port" msgstr="대상 포트" />
+	<message msgid="service emg notifier comment" msgstr="설명" />
+	<message msgid="service emg notifier rules cnt" msgstr="(최대 레코드 수 : 3)" />
+	<message msgid="service emg cap send target" msgstr="긴급 지진 속보 알림 목록" />
+	<message msgid="service emg notifier target no" msgstr="No." />
+	<message msgid="service emg notifier target interface" msgstr="인터페이스" />
+	<message msgid="service emg notifier target address" msgstr="대상 IP 주소" />
+	<message msgid="service emg notifier target port" msgstr="포트" />
+	<message msgid="service emg notifier target comment" msgstr="설멍" />
+	<message msgid="service emg notifier target to" msgstr="대상" />
+	<message msgid="service delete rules" msgstr="삭제" />
+	<message msgid="service cancel rules" msgstr="취소" />
+	<message msgid="service select rule to be delete" msgstr="삭제할 규칙을 선택하세요." />
+	<message msgid="service emg rule number exceeded" msgstr="규칙의 수를 초과합니다. " />
+	<message msgid="service modbus title" msgstr="Modbus 기능" />
+	<message msgid="service modbus subtitle" msgstr="Modbus 기능을 설정 한다." />
+	<message msgid="service modbus setup caption" msgstr="Modbus 설정" />
+	<message msgid="service modbus mode title" msgstr="자동 실행" />
+	<message msgid="service modbus mode bridge" msgstr="자동 실행" />
+	<message msgid="service modbus mode disable" msgstr="끄기" />
+	<message msgid="service modbus timeout" msgstr="타임 아웃" />
+	<message msgid="service modbus port" msgstr="Modbus-TCP 포트" />
+	<message msgid="service modbus boadrate" msgstr="Modbus-RTU Baudrate" />
+	<message msgid="service modbus data" msgstr="Modbus-RTU Data Bit" />
+	<message msgid="service modbus parity" msgstr="Modbus-RTU Parity Bit" />
+	<message msgid="service modbus stop" msgstr="Modbus-RTU Stop Bit" />
+	<message msgid="service modbus flow" msgstr="Modbus-RTU Flow Bit" />
+</po>
+

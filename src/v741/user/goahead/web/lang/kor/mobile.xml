@@ -1,0 +1,178 @@
+﻿<po>
+	<message msgid="mobile apply" msgstr="적용" />
+	<message msgid="mobile cancel" msgstr="취소" />
+	<message msgid="mobile enable" msgstr="사용함" />
+	<message msgid="mobile disable" msgstr="사용안함" />
+	<message msgid="mobile send" msgstr="보내기" />
+	<message msgid="mobile delete" msgstr="삭제" />
+	<message msgid="mobile reset" msgstr="취소" />
+	<message msgid="mobile deleteall" msgstr="전체삭제" />
+	
+	<message msgid="mobile module info" msgstr="모듈 상태" />
+	<message msgid="mobile module band" msgstr="Band 정보" />
+	<message msgid="mobile module service" msgstr="Service 정보" />
+	<message msgid="mobile module cell" msgstr="Cell 정보" />
+	<message msgid="mobile module rssi" msgstr="RSSI 정보" />
+	<message msgid="mobile module rssi2" msgstr="안테나 갯수" />
+	
+	<message msgid="mobile module" msgstr="모듈" />
+	<message msgid="mobile call manager" msgstr="데이타 콜 관리" />
+	<message msgid="mobile cm intro" msgstr="데이타 콜 관리를 수행합니다." />
+	
+	<message msgid="mobile cm control" msgstr="콜 관리" />
+	<message msgid="mobile cm power" msgstr="모듈 동작" />
+	<message msgid="mobile cm connection" msgstr="콜 연결" />
+	<message msgid="mobile cm conmode" msgstr="콜 연결모드" />
+	
+	<message msgid="mobile power on" msgstr="켜기" />
+	<message msgid="mobile power off" msgstr="끄기" />
+	<message msgid="mobile connect on" msgstr="연결" />
+	<message msgid="mobile connect off" msgstr="끊기" />
+	
+	<message msgid="mobile cfg title" msgstr="다이얼업 설정" />
+	<message msgid="mobile cfg introduction" msgstr="무선 네트워크 연결 설정을 할 수 있습니다." />
+	<message msgid="mobile setup" msgstr="연결설정" />
+	<message msgid="mobile user" msgstr="사용자명" />
+	<message msgid="mobile pass" msgstr="암호" />
+	<message msgid="mobile repass" msgstr="암호 재입력" />
+	<message msgid="mobile dial" msgstr="전화번호" />
+	<message msgid="mobile pin" msgstr="PIN 상태" />
+	
+	<message msgid="mobile overview title" msgstr="모듈 상태" />
+	<message msgid="mobile overview intro" msgstr="모듈의 네트워크 상태를 확인 할 수 있습니다." />
+	<message msgid="mobile module title" msgstr="모듈 네트워크 상태" />
+	
+	<message msgid="mobile pref title" msgstr="모뎀 PrefMode 설정" />
+	<message msgid="mobile pref introduction" msgstr="모뎀의 PrefMode를 설정할 수 있습니다. (LTE only, WCDMA only, GSM only or AUTOMATIC)" />
+	<message msgid="mobile pref setup" msgstr="PrefMode 설정" />
+	<message msgid="mobile pref mode" msgstr="PrefMode" />
+	
+	<message msgid="mobile sms recv" msgstr="SMS 수신" />
+	<message msgid="mobile sms recv intro" msgstr="수신된 SMS을 확인 할 수 있습니다." />
+	<message msgid="mobile sms recv list" msgstr="SMS 수신 리스트" />
+	<message msgid="mobile sms send" msgstr="SMS 발신" />
+	<message msgid="mobile sms send intro" msgstr="SMS을 보낼 수 있습니다." />
+	<message msgid="mobile sms send list" msgstr="SMS 발신 리스트" />
+	
+	<message msgid="mobile sms no" msgstr="번호" />
+	<message msgid="mobile sms content" msgstr="내용" />
+	<message msgid="mobile sms phone" msgstr="폰번호" />
+	<message msgid="mobile sms date" msgstr="날짜" />
+	
+	<message msgid="mobile protocol opmode" msgstr="동작 방법" />
+	<message msgid="mobile protocol opmode keepalive" msgstr="연속 연결" />
+	<message msgid="mobile protocol opmode ondemand" msgstr="요청시 연결" />
+	<message msgid="mobile protocol idle" msgstr="대기 시간" />
+	<message msgid="mobile protocol minutes" msgstr="분" />
+	
+	<message msgid="mobile ip assign" msgstr="IP 주소" />
+	<message msgid="mobile ip auto assign" msgstr="자동 IP 할당" />
+	<message msgid="mobile ip fix assign" msgstr="IP 고정" />
+	<message msgid="mobile fixed ip text" msgstr="IP 주소" />
+	<message msgid="mobile ip authentication" msgstr="인증방법" />
+	
+	<message msgid="mobile sms max len" msgstr="160(한글:80)" />
+	
+	<message msgid="mobile uicc title" msgstr="SIM모드 설정" />
+	<message msgid="mobile uicc introduction" msgstr="SIM모드/ PIN코드/PUK코드 설정" />
+	<message msgid="mobile uicc setup" msgstr="SIM모드 설정" />
+	<message msgid="mobile uicc pin status" msgstr="SIM상태" />
+	<message msgid="mobile uicc pin mode" msgstr="SIM모드" />
+	<message msgid="mobile uicc pin setup" msgstr="SIM상태 설정" />
+	<message msgid="mobile uicc cur pin" msgstr="현재 Pin 상태" />
+	<message msgid="mobile uicc remain" msgstr="PIN(PUK)코드 재시도 횟수" />  
+	<message msgid="mobile uicc save" msgstr="저장" />
+	
+	<message msgid="mobile ota title" msgstr="OTA" />
+	<message msgid="mobile ota introduction" msgstr="회선 계약 시작 (OTASP) 및 회선 계약 해제 (OTAPA)를 할 수 있습니다." />	
+	<message msgid="mobile ota statussetup" msgstr="현재 OTA 상태" />
+	<message msgid="mobile ota contactState" msgstr="계약 상태" />
+	<message msgid="mobile ota otastatus" msgstr="처리 상태" />
+	<message msgid="mobile ota otacontractSetup" msgstr="회선 계약 시작 (OTASP)" />
+	<message msgid="mobile ota otacontractotasp" msgstr="회선 계약 시작 (OTASP)" />
+	<message msgid="mobile ota otacontractotasp warning1" msgstr="회선 계약 시작 (OTASP) 과정에서 절대로 전원을 OFF하지 마십시오. " />
+	<message msgid="mobile ota otacontractotasp warning2" msgstr="처리중에 전원을 OFF 한 경우 심각한 장애를 일으킬 수 있습니다. " />
+	<message msgid="mobile ota otacancellationSetup" msgstr="회선 계약 해제 (OTAPA)" />
+	<message msgid="mobile ota otacancellationotapa" msgstr="회선 계약 해제 시작 (OTAPA)" />
+	<message msgid="mobile ota otacancellationotapa warning1" msgstr="회선 계약 해제 시작 (OTAPA) 과정에서 절대로 전원을 OFF하지 마십시오. " />
+	<message msgid="mobile ota otacancellationotapa warning2" msgstr="처리중에 전원을 OFF 한 경우 심각한 장애를 일으킬 수 있습니다. " />
+	<message msgid="mobile ota refresh" msgstr="업데이트" />
+	<message msgid="mobile ota refreshsp" msgstr="OTASP 시작" />
+	<message msgid="mobile ota refreshpa" msgstr="OTAPA 시작" />
+	<message msgid="mobile ota SetOtasp" msgstr="OTASP 처리를 시작하시겠습니까?" />
+	<message msgid="mobile ota SetOtapa" msgstr="OTAPA 처리를 시작하시겠습니까?" />
+	<message msgid="mobile ota currentstatesp" msgstr="OTASP 처리중" />
+	<message msgid="mobile ota currentstatepa" msgstr="OTAPA 처리중" />
+	<message msgid="mobile ota otacontract1" msgstr="미계약" />
+	<message msgid="mobile ota otacontract2" msgstr="계약 시작됨" />
+	<message msgid="mobile ota otacontract3" msgstr="계약 해제 요청됨" />
+	
+	<message msgid="mobile alert password" msgstr="비밀번호를 확인해 주세요." />
+	<message msgid="mobile alert pincode error" msgstr="핀 코드를 입력해 주세요." />
+	<message msgid="mobile alert pincheck error" msgstr="핀 체크 에러" />
+	<message msgid="mobile alert xmlhttp error" msgstr="XMLHTTP 인스턴스를 생성할 수 없습니다." />
+	<message msgid="mobile alert simcard error" msgstr="이 SIM카드는 사용할 수 없습니다." />
+	<message msgid="mobile alert simcard init error" msgstr="SIM카드가 초기화되지 않습니다" />
+	<message msgid="mobile alert simcard verity already" msgstr="이미 인증된 SIM카드입니다." />
+	<message msgid="mobile alert simcard input pin_puk" msgstr="PUK코드와 새로운 PIN코드를 입력해 주세요." />
+	<message msgid="mobile alert ip addr empty" msgstr="IP address값이 없습니다." />
+	<message msgid="mobile alert ip format error" msgstr="P adress 형식이 잘못 되었습니다." />
+	<message msgid="mobile alert digit format error" msgstr="[0-9]까지의 숫자만 입력하세요." />
+	
+	<message msgid="mobile mode domain" msgstr="동작 Domain" />	
+	<message msgid="mobile mode wwan1" msgstr="WWAN1" />
+	<message msgid="mobile mode wwan2" msgstr="WWAN2" />
+	
+	<message msgid="fs title" msgstr="망연결 복원" />
+	<message msgid="fs intro" msgstr="망연결 복원을 위한 설정을 할 수 있습니다." />
+	<message msgid="fs configuration" msgstr="설정" />
+	<message msgid="fs call connection" msgstr="망연결 시도 방법" />
+	<message msgid="fs connnect a" msgstr="항상" />
+	<message msgid="fs connnect 1" msgstr="RSSI 1 이상" />
+	<message msgid="fs connnect 2" msgstr="RSSI 2 이상" />
+	<message msgid="fs connnect 3" msgstr="RSSI 3 이상" />
+	<message msgid="fs connnect 4" msgstr="RSSI 4 이상" />
+	<message msgid="fs data mon" msgstr="데이타 사용량 점검" />
+	<message msgid="fs data up" msgstr="업로드" />
+	<message msgid="fs data dn" msgstr="다운로드" />
+	<message msgid="fs seconds" msgstr="초" />
+	<message msgid="fs con mon" msgstr="서버 연결점검" />
+	<message msgid="fs address" msgstr="주소 :" />
+	<message msgid="fs conn cycle" msgstr="주기 :" />
+	<message msgid="fs reboot" msgstr="주기적 리부팅" />
+	<message msgid="fs hour" msgstr="시간" />
+	<message msgid="fs fs log" msgstr="망연결 복원 로그" />
+	<message msgid="fs kbytes" msgstr="KByte" />
+	<message msgid="fs view log" msgstr="로그 보기" />
+	<message msgid="fs apply" msgstr="적용" />
+	<message msgid="fs cancel" msgstr="취소" />
+	<message msgid="fs log title" msgstr="망연결 복원 로그" />
+	<message msgid="fs log intro" msgstr="망연결 복원 로그를 확인할 수 있습니다." />
+	<message msgid="fs clear log" msgstr="삭제" />
+	<message msgid="fs export log" msgstr="저장" />
+	<message msgid="fs disable" msgstr="사용안함" />
+	<message msgid="fs reboot 1h" msgstr="1 시간" />
+	<message msgid="fs reboot 2h" msgstr="2 시간" />
+	<message msgid="fs reboot 3h" msgstr="3 시간" />
+	<message msgid="fs reboot 4h" msgstr="4 시간" />
+	<message msgid="fs reboot 5h" msgstr="5 시간" />
+	<message msgid="fs reboot 6h" msgstr="6 시간" />
+	<message msgid="fs reboot 7h" msgstr="7 시간" />
+	<message msgid="fs reboot 8h" msgstr="8 시간" />
+	<message msgid="fs reboot 9h" msgstr="9 시간" />
+	<message msgid="fs reboot 10h" msgstr="10 시간" />
+	<message msgid="fs reboot 11h" msgstr="11 시간" />
+	<message msgid="fs reboot 12h" msgstr="12 시간" />
+	<message msgid="fs reboot 13h" msgstr="13 시간" />
+	<message msgid="fs reboot 14h" msgstr="14 시간" />
+	<message msgid="fs reboot 15h" msgstr="15 시간" />
+	<message msgid="fs reboot 16h" msgstr="16 시간" />
+	<message msgid="fs reboot 17h" msgstr="17 시간" />
+	<message msgid="fs reboot 18h" msgstr="18 시간" />
+	<message msgid="fs reboot 19h" msgstr="19 시간" />
+	<message msgid="fs reboot 20h" msgstr="20 시간" />
+	<message msgid="fs reboot 21h" msgstr="21 시간" />
+	<message msgid="fs reboot 22h" msgstr="22 시간" />
+	<message msgid="fs reboot 23h" msgstr="23 시간" />
+	<message msgid="fs reboot 24h" msgstr="24 시간" />
+</po>

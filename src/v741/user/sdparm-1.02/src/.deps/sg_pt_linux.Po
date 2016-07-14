@@ -1,0 +1,152 @@
+sg_pt_linux.o sg_pt_linux.o: ../lib/sg_pt_linux.c \
+  /home/unyou/samba/projects/luffy_prj/gpl/lib/include/stdio.h \
+  /home/unyou/samba/projects/luffy_prj/gpl/lib/include/features.h \
+  /home/unyou/samba/projects/luffy_prj/gpl/lib/include/bits/uClibc_config.h \
+  /home/unyou/samba/projects/luffy_prj/gpl/lib/include/sys/cdefs.h \
+  /opt/buildroot-gcc342/bin/../lib/gcc/mipsel-linux-uclibc/3.4.2/include/stddef.h \
+  /home/unyou/samba/projects/luffy_prj/gpl/lib/include/bits/types.h \
+  /home/unyou/samba/projects/luffy_prj/gpl/lib/include/bits/kernel_types.h \
+  /home/unyou/samba/projects/luffy_prj/gpl/lib/include/bits/wordsize.h \
+  /home/unyou/samba/projects/luffy_prj/gpl/lib/include/bits/pthreadtypes.h \
+  /home/unyou/samba/projects/luffy_prj/gpl/lib/include/bits/sched.h \
+  /home/unyou/samba/projects/luffy_prj/gpl/lib/include/bits/uClibc_stdio.h \
+  /home/unyou/samba/projects/luffy_prj/gpl/lib/include/wchar.h \
+  /home/unyou/samba/projects/luffy_prj/gpl/lib/include/bits/wchar.h \
+  /opt/buildroot-gcc342/bin/../lib/gcc/mipsel-linux-uclibc/3.4.2/include/stdarg.h \
+  /home/unyou/samba/projects/luffy_prj/gpl/lib/include/bits/stdio_lim.h \
+  /home/unyou/samba/projects/luffy_prj/gpl/lib/include/stdlib.h \
+  /home/unyou/samba/projects/luffy_prj/gpl/lib/include/sys/types.h \
+  /home/unyou/samba/projects/luffy_prj/gpl/lib/include/time.h \
+  /home/unyou/samba/projects/luffy_prj/gpl/lib/include/endian.h \
+  /home/unyou/samba/projects/luffy_prj/gpl/lib/include/bits/endian.h \
+  /home/unyou/samba/projects/luffy_prj/gpl/lib/include/sys/select.h \
+  /home/unyou/samba/projects/luffy_prj/gpl/lib/include/bits/select.h \
+  /home/unyou/samba/projects/luffy_prj/gpl/lib/include/bits/sigset.h \
+  /home/unyou/samba/projects/luffy_prj/gpl/lib/include/bits/time.h \
+  /home/unyou/samba/projects/luffy_prj/gpl/lib/include/sys/sysmacros.h \
+  /home/unyou/samba/projects/luffy_prj/gpl/lib/include/alloca.h \
+  /home/unyou/samba/projects/luffy_prj/gpl/lib/include/string.h \
+  /home/unyou/samba/projects/luffy_prj/gpl/lib/include/ctype.h \
+  /home/unyou/samba/projects/luffy_prj/gpl/lib/include/bits/uClibc_touplow.h \
+  /home/unyou/samba/projects/luffy_prj/gpl/lib/include/unistd.h \
+  /home/unyou/samba/projects/luffy_prj/gpl/lib/include/bits/posix_opt.h \
+  /home/unyou/samba/projects/luffy_prj/gpl/lib/include/bits/confname.h \
+  /home/unyou/samba/projects/luffy_prj/gpl/lib/include/bits/getopt.h \
+  /home/unyou/samba/projects/luffy_prj/gpl/lib/include/errno.h \
+  /home/unyou/samba/projects/luffy_prj/gpl/lib/include/bits/errno.h \
+  /home/unyou/samba/projects/luffy_prj/gpl/lib/include/bits/errno_values.h \
+  /home/unyou/samba/projects/luffy_prj/gpl/lib/include/fcntl.h \
+  /home/unyou/samba/projects/luffy_prj/gpl/lib/include/bits/fcntl.h \
+  /home/unyou/samba/projects/luffy_prj/gpl/lib/include/sys/ioctl.h \
+  /home/unyou/samba/projects/luffy_prj/gpl/lib/include/bits/ioctls.h \
+  /home/unyou/samba/projects/luffy_prj/gpl/lib/include/asm/ioctls.h \
+  /home/unyou/samba/projects/luffy_prj/gpl/lib/include/asm/ioctl.h \
+  /home/unyou/samba/projects/luffy_prj/gpl/lib/include/bits/ioctl-types.h \
+  /home/unyou/samba/projects/luffy_prj/gpl/lib/include/sys/ttydefaults.h \
+  /home/unyou/samba/projects/luffy_prj/gpl/lib/include/sys/stat.h \
+  /home/unyou/samba/projects/luffy_prj/gpl/lib/include/bits/stat.h \
+  ../include/sg_pt.h ../include/sg_lib.h ../include/sg_linux_inc.h \
+  /home/unyou/samba/projects/luffy_prj/gpl/lib/include/scsi/sg.h \
+  /home/unyou/samba/projects/luffy_prj/gpl/lib/include/scsi/scsi.h
+
+/home/unyou/samba/projects/luffy_prj/gpl/lib/include/stdio.h:
+
+/home/unyou/samba/projects/luffy_prj/gpl/lib/include/features.h:
+
+/home/unyou/samba/projects/luffy_prj/gpl/lib/include/bits/uClibc_config.h:
+
+/home/unyou/samba/projects/luffy_prj/gpl/lib/include/sys/cdefs.h:
+
+/opt/buildroot-gcc342/bin/../lib/gcc/mipsel-linux-uclibc/3.4.2/include/stddef.h:
+
+/home/unyou/samba/projects/luffy_prj/gpl/lib/include/bits/types.h:
+
+/home/unyou/samba/projects/luffy_prj/gpl/lib/include/bits/kernel_types.h:
+
+/home/unyou/samba/projects/luffy_prj/gpl/lib/include/bits/wordsize.h:
+
+/home/unyou/samba/projects/luffy_prj/gpl/lib/include/bits/pthreadtypes.h:
+
+/home/unyou/samba/projects/luffy_prj/gpl/lib/include/bits/sched.h:
+
+/home/unyou/samba/projects/luffy_prj/gpl/lib/include/bits/uClibc_stdio.h:
+
+/home/unyou/samba/projects/luffy_prj/gpl/lib/include/wchar.h:
+
+/home/unyou/samba/projects/luffy_prj/gpl/lib/include/bits/wchar.h:
+
+/opt/buildroot-gcc342/bin/../lib/gcc/mipsel-linux-uclibc/3.4.2/include/stdarg.h:
+
+/home/unyou/samba/projects/luffy_prj/gpl/lib/include/bits/stdio_lim.h:
+
+/home/unyou/samba/projects/luffy_prj/gpl/lib/include/stdlib.h:
+
+/home/unyou/samba/projects/luffy_prj/gpl/lib/include/sys/types.h:
+
+/home/unyou/samba/projects/luffy_prj/gpl/lib/include/time.h:
+
+/home/unyou/samba/projects/luffy_prj/gpl/lib/include/endian.h:
+
+/home/unyou/samba/projects/luffy_prj/gpl/lib/include/bits/endian.h:
+
+/home/unyou/samba/projects/luffy_prj/gpl/lib/include/sys/select.h:
+
+/home/unyou/samba/projects/luffy_prj/gpl/lib/include/bits/select.h:
+
+/home/unyou/samba/projects/luffy_prj/gpl/lib/include/bits/sigset.h:
+
+/home/unyou/samba/projects/luffy_prj/gpl/lib/include/bits/time.h:
+
+/home/unyou/samba/projects/luffy_prj/gpl/lib/include/sys/sysmacros.h:
+
+/home/unyou/samba/projects/luffy_prj/gpl/lib/include/alloca.h:
+
+/home/unyou/samba/projects/luffy_prj/gpl/lib/include/string.h:
+
+/home/unyou/samba/projects/luffy_prj/gpl/lib/include/ctype.h:
+
+/home/unyou/samba/projects/luffy_prj/gpl/lib/include/bits/uClibc_touplow.h:
+
+/home/unyou/samba/projects/luffy_prj/gpl/lib/include/unistd.h:
+
+/home/unyou/samba/projects/luffy_prj/gpl/lib/include/bits/posix_opt.h:
+
+/home/unyou/samba/projects/luffy_prj/gpl/lib/include/bits/confname.h:
+
+/home/unyou/samba/projects/luffy_prj/gpl/lib/include/bits/getopt.h:
+
+/home/unyou/samba/projects/luffy_prj/gpl/lib/include/errno.h:
+
+/home/unyou/samba/projects/luffy_prj/gpl/lib/include/bits/errno.h:
+
+/home/unyou/samba/projects/luffy_prj/gpl/lib/include/bits/errno_values.h:
+
+/home/unyou/samba/projects/luffy_prj/gpl/lib/include/fcntl.h:
+
+/home/unyou/samba/projects/luffy_prj/gpl/lib/include/bits/fcntl.h:
+
+/home/unyou/samba/projects/luffy_prj/gpl/lib/include/sys/ioctl.h:
+
+/home/unyou/samba/projects/luffy_prj/gpl/lib/include/bits/ioctls.h:
+
+/home/unyou/samba/projects/luffy_prj/gpl/lib/include/asm/ioctls.h:
+
+/home/unyou/samba/projects/luffy_prj/gpl/lib/include/asm/ioctl.h:
+
+/home/unyou/samba/projects/luffy_prj/gpl/lib/include/bits/ioctl-types.h:
+
+/home/unyou/samba/projects/luffy_prj/gpl/lib/include/sys/ttydefaults.h:
+
+/home/unyou/samba/projects/luffy_prj/gpl/lib/include/sys/stat.h:
+
+/home/unyou/samba/projects/luffy_prj/gpl/lib/include/bits/stat.h:
+
+../include/sg_pt.h:
+
+../include/sg_lib.h:
+
+../include/sg_linux_inc.h:
+
+/home/unyou/samba/projects/luffy_prj/gpl/lib/include/scsi/sg.h:
+
+/home/unyou/samba/projects/luffy_prj/gpl/lib/include/scsi/scsi.h:

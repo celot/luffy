@@ -1,0 +1,220 @@
+<po>
+	<message msgid="inet apply" msgstr="Apply" />
+	<message msgid="inet cancel" msgstr="Cancel" />
+	<message msgid="inet enable" msgstr="Enable" />
+	<message msgid="inet disable" msgstr="Disable" />
+
+	<message msgid="inet lan mac" msgstr="MAC address" />
+	<message msgid="inet mac" msgstr="Pseudo MAC address" />
+	<message msgid="inet ip" msgstr="IP Address" />
+	<message msgid="inet server" msgstr="Server IP" />
+	<message msgid="inet netmask" msgstr="Subnet Mask" />
+	<message msgid="inet gateway" msgstr="Default Gateway" />
+	<message msgid="inet pri dns" msgstr="Primary DNS Server" />
+	<message msgid="inet sec dns" msgstr="Secondary DNS Server" />
+	<message msgid="inet user" msgstr="User Name" />
+	<message msgid="inet password" msgstr="Password" />
+	<message msgid="inet pass2" msgstr="Verify Password" />
+	<message msgid="inet hostname" msgstr="Hostname" />
+	<message msgid="inet seconds" msgstr="seconds" />
+	
+	<message msgid="wanmode title2" msgstr="Wan Mode" />
+	<message msgid="wanmode help_0" msgstr="3G, LTE Wireless connection mode only" />
+	<message msgid="wanmode help_1" msgstr="WAN connection mode only" />
+	<message msgid="wanmode help_2" msgstr="Auto connection mode. Main connection: WAN, Backup : WWAN" />
+
+	<message msgid="wan title" msgstr="Wide Area Network (WAN) Settings" />
+	<message msgid="wan introduction" msgstr="Enter information provided to you by your ISP to configure the WAN settings." />
+	<message msgid="wan connection type" msgstr="WAN Connection Type:" />
+	<message msgid="wan connection type static" msgstr="STATIC (fixed IP)" />
+	<message msgid="wan connection type dhcp" msgstr="DHCP (Auto config)" />
+	<message msgid="wan connection type pppoe" msgstr="PPPoE (ADSL)" />
+	<message msgid="wan connection type l2tp" msgstr="L2TP" />
+	<message msgid="wan connection type pptp" msgstr="PPTP" />
+	<message msgid="wan protocol opmode" msgstr="Operation Mode" />
+	<message msgid="wan protocol opmode keepalive" msgstr="Keep Alive" />
+	<message msgid="wan protocol opmode ondemand" msgstr="On Demand" />
+	<message msgid="wan protocol opmode manual" msgstr="Manual" />
+
+	<message msgid="wan static mode" msgstr="Static Mode(WAN)" />
+	<message msgid="wan dhcp mode" msgstr="DHCP Mode" />
+	<message msgid="wan pppoe mode" msgstr="PPPoE Mode" />
+	<message msgid="wan dhcp optional" msgstr="Blank Allowed" />
+	<message msgid="wan l2tp mode" msgstr="L2TP Mode" />
+	<message msgid="wan pptp mode" msgstr="PPTP Mode" />
+	<message msgid="wan 3G mode" msgstr="3G/LTE Mode" />
+	<message msgid="wan 3G user" msgstr="User ID" />
+	<message msgid="wan 3G pass" msgstr="Password" />
+	<message msgid="wan 3G repass" msgstr="Re Password" />
+	<message msgid="wan 3G dial" msgstr="Dial Number" />
+	<message msgid="wan 3G pin" msgstr="Pin Status" />
+	<message msgid="wan address mode" msgstr="Address Mode" />
+	<message msgid="wan address mode static" msgstr="Static" />
+	<message msgid="wan address mode dynamic" msgstr="Dynamic" />
+	<message msgid="wan protocol idle" msgstr="Idle Time" />
+	<message msgid="wan protocol redial" msgstr="Redial Period" />
+	<message msgid="wan protocol minutes" msgstr="minutes" />
+	<message msgid="wan protocol seconds" msgstr="seconds" />
+
+	<message msgid="wan mac clone" msgstr="MAC Clone" />
+	<message msgid="wan enabled" msgstr="Enabled" />
+	<message msgid="wan fillmac" msgstr="Fill my MAC" />
+
+	<message msgid="lan title1" msgstr="Local Area Network (LAN1) Settings" />
+	<message msgid="lan1 introduction" msgstr="You can set the Lan Speed." />
+	<message msgid="lan1 setup" msgstr="Internal network (LAN1) setting" />
+	<message msgid="lan communication setting" msgstr="Network communication speed setting" />
+	<message msgid="lan communication speed" msgstr="LAN communication speed" />
+	<message msgid="wan communication speed" msgstr="Communication speed" />
+	<message msgid="lan communication speed" msgstr="LAN communication speed" />
+	<message msgid="lan title" msgstr="Local Area Network (LAN) Settings" />  
+	<message msgid="lan introduction" msgstr="You may enable/disable networking functions and configure their parameters as your wish." />
+	<message msgid="lan setup" msgstr="LAN Setup" />
+	<message msgid="lan dhcp type" msgstr="DHCP Type" />
+	<message msgid="lan dhcp type server" msgstr="Server" />
+	<message msgid="lan dhcp start" msgstr="Start IP Address" />
+	<message msgid="lan dhcp end" msgstr="End IP Address" />
+	<message msgid="lan dhcp lease" msgstr="Lease Time" />
+	<message msgid="lan dhcp static" msgstr="Statically Assigned" />
+	<message msgid="lan option feature" msgstr="Option Feature" />
+	<message msgid="lan stp" msgstr="802.1d Spanning Tree" />
+	<message msgid="lan lltd" msgstr="LLTD" />
+	<message msgid="lan igmpp" msgstr="IGMP Proxy" />
+	<message msgid="lan upnp" msgstr="UPnP" />
+	<message msgid="lan radvd" msgstr="Router Advertisement" />
+	<message msgid="lan pppoer" msgstr="PPPoE Relay" />
+	<message msgid="lan dnsp" msgstr="DNS Proxy" />
+
+	<message msgid="dhcp title" msgstr="DHCP Client List" />
+	<message msgid="dhcp introduction" msgstr="You could monitor DHCP clients here." />
+	<message msgid="dhcp clients" msgstr="DHCP Clients" />
+	<message msgid="dhcp expire" msgstr="Expires in" />
+
+	<message msgid="vpn title" msgstr="VPN Passthrough" />
+	<message msgid="vpn introduction" msgstr="VPN passthrought configurations including: L2TP, IPSec, and PPTP passthrough." />
+	<message msgid="vpn pass thru" msgstr="VPN Pass Through" />
+	<message msgid="vpn l2tp pass thru" msgstr="L2TP Passthrough" />
+	<message msgid="vpn ipsec pass thru" msgstr="IPSec Passthrough" />
+	<message msgid="vpn pptp pass thru" msgstr="PPTP Passthrough" />
+
+	<message msgid="routing title" msgstr="Advanced Routing Settings" />
+	<message msgid="routing Introduction" msgstr="You may add and remote custom Internet routing rules, and/or enable dynamic routing exchange protocol here." />
+	<message msgid="routing add rule" msgstr="Add a routing rule" />
+	<message msgid="routing routing dest" msgstr="Destination" />
+	<message msgid="routing range" msgstr="Range" />
+	<message msgid="routing netmask" msgstr="Netmask" />
+	<message msgid="routing gateway" msgstr="Gateway" />
+	<message msgid="routing interface" msgstr="Interface" />
+	<message msgid="routing wwan1" msgstr="WWAN(Domain 1) /WAN" />
+	<message msgid="routing wwan2" msgstr="WWAN(Domain 2)" />  
+	<message msgid="routing custom" msgstr="Custom" />
+	<message msgid="routing comment" msgstr="Comment" />
+	<message msgid="routing submit" msgstr="Apply" />
+	<message msgid="routing reset" msgstr="Cancel" />
+	<message msgid="routing Number" msgstr="No." />
+	<message msgid="routing del title" msgstr="Current Routing table in the system:" />
+	<message msgid="routing del dest" msgstr="Destination" />
+	<message msgid="routing del netmask" msgstr="Netmask" />
+	<message msgid="routing del gateway" msgstr="Gateway" />
+	<message msgid="routing del flags" msgstr="Flags" />
+	<message msgid="routing del metric" msgstr="Metric" />
+	<message msgid="routing del ref" msgstr="Ref" />
+	<message msgid="routing del use" msgstr="Use" />
+	<message msgid="routing del interface" msgstr="Interface" />
+	<message msgid="routing del comment" msgstr="Comment" />
+	<message msgid="routing del" msgstr="Delete" />
+	<message msgid="routing del reset" msgstr="Reset" />
+	<message msgid="routing host" msgstr="Host" />
+	<message msgid="routing net" msgstr="Net" />
+	<message msgid="routing LAN" msgstr="LAN" />
+	<message msgid="routing WAN" msgstr="WAN" />
+
+	<message msgid="routing dynamic Title" msgstr="Dynamic Routing Settings" />
+	<message msgid="routing dynamic Title2" msgstr="Dynamic Routing Protocol" />
+	<message msgid="routing dynamic rip disable" msgstr="Disable" />
+	<message msgid="routing dynamic rip enable" msgstr="Enable" />
+	<message msgid="routing dynamic rip apply" msgstr="Apply" />
+	<message msgid="routing dynamic rip reset" msgstr="Reset" />
+
+	<message msgid="vpn title" msgstr="Virtual Private Network (VPN) Settings" />
+	<message msgid="vpn intro" msgstr="Enter information to configure the VPN settings." />
+	<message msgid="vpn mode" msgstr="VPN Mode" />
+	<message msgid="vpn type" msgstr="Mode" />
+	<message msgid="vpn l2tp" msgstr="L2TP" />
+	<message msgid="vpn pptp" msgstr="PPTP" />
+	<message msgid="vpn l2tp mode" msgstr="L2TP Mode" />
+	<message msgid="vpn l2tp server" msgstr="L2TP Server IP Address" />
+	<message msgid="vpn l2tp user" msgstr="User Name" />
+	<message msgid="vpn l2tp pw" msgstr="Password" />
+	<message msgid="vpn l2tp opmode" msgstr="Operation Mode" />
+	<message msgid="vpn l2tp keepalive" msgstr="Keep Alive" />
+	<message msgid="vpn l2tp demand" msgstr="On Demand" />
+	<message msgid="vpn l2tp manual" msgstr="Manual" />
+	<message msgid="vpn pptp mode" msgstr="PPTP Mode" />
+	<message msgid="vpn pptp server" msgstr="PPTP Server IP Address" />
+	<message msgid="vpn pptp user" msgstr="User Name" />
+	<message msgid="vpn pptp pw" msgstr="Password" />
+	<message msgid="vpn pptp opmode" msgstr="Operation Mode" />
+	<message msgid="vpn pptp keepalive" msgstr="Keep Alive" />
+	<message msgid="vpn pptp demand" msgstr="On Demand" />
+	<message msgid="vpn pptp manual" msgstr="Manual" />
+
+	<message msgid="wan ping title" msgstr="Wan Connection checking address" />
+	<message msgid="wan ping addr" msgstr="Ping Address" />
+	<message msgid="wan ping button" msgstr="Save" />
+	<message msgid="alert lease input time" msgstr="Enter the lease time." />
+	<message msgid="alert select item to delete" msgstr="Please select an item to delete. " />
+	<message msgid="alert cannot get mac address" msgstr="Can\'t get the mac address." />
+	<message msgid="alert specify media server name" msgstr="Please specify Media Server Name." />
+	<message msgid="alert ip address format err" msgstr="IP address format error" />
+	<message msgid="alert mac address empty" msgstr="MAC Address should not be empty" />
+	<message msgid="alert password are different" msgstr="Twin input password are different" />
+	<message msgid="alert blank space in this field" msgstr="Don\'t enter Blank Space in this feild" />
+	<message msgid="alert the destination" msgstr="Please input the destination." />
+	<message msgid="alert for engineer only" msgstr="This is for engineer only. Are u sure?" />
+	<message msgid="alert specify a file" msgstr="Please specify a file." />
+	<message msgid="alert specify a command" msgstr="Please specify a command" />
+	<message msgid="alert input digit num in port" msgstr="Input digit num in Port.(1~65535)" />
+	<message msgid="alert email settings are not corrent" msgstr="E-Mail settings are not correct" />
+	<message msgid="jquery msg invalid input" msgstr="Check the highlighted value." />	
+	<message msgid="hitachi test diagnosis title" msgstr="Diagnosis and EMG test" />
+	<message msgid="hitachi test diagnosis introduction" msgstr="If you check the entry of diagnostic tests for simulation this item will fail. In addition, you can proceed with the EMG test." />
+	<message msgid="hitachi test diagnosis caption" msgstr="Diagnosis" />	
+	<message msgid="hitachi test diagnosis ram info" msgstr="Ram Information" />
+	<message msgid="hitachi test diagnosis ram total" msgstr="Ram total" />
+	<message msgid="hitachi test diagnosis ram left" msgstr="Ram left" />
+	<message msgid="hitachi test diagnosis ram read" msgstr="Ram reading" />	
+	<message msgid="hitachi test diagnosis rom info" msgstr="Rom Information" />
+	<message msgid="hitachi test diagnosis rom total" msgstr="Rom total" />	
+	<message msgid="hitachi test diagnosis interface info" msgstr="Interface infomation" />
+	<message msgid="hitachi test diagnosis all nic statics" msgstr="All Nic Statics" />
+	<message msgid="hitachi test diagnosis ethernet status" msgstr="Ethernet Status" />
+	<message msgid="hitachi test diagnosis wan lan name ip" msgstr="Wan(lan) name, ip" />
+	<message msgid="hitachi test diagnosis ping result" msgstr="Ping result" />	
+	<message msgid="hitachi test diagnosis firmware info" msgstr="Firmware infomation" />
+	<message msgid="hitachi test diagnosis os" msgstr="OS" />
+	<message msgid="hitachi test diagnosis cpu" msgstr="CPU" />
+	<message msgid="hitachi test diagnosis device" msgstr="Device" />
+	<message msgid="hitachi test diagnosis external power status" msgstr="External power status" />
+	<message msgid="hitachi test diagnosis serial" msgstr="Serial" />
+	<message msgid="hitachi test diagnosis usb serial" msgstr="Usb serial" />
+	<message msgid="hitachi test diagnosis host name" msgstr="Host name" />
+	<message msgid="hitachi test diagnosis domain name" msgstr="Domain name" />
+	<message msgid="hitachi test diagnosis partions" msgstr="Partions" />
+	<message msgid="hitachi test diagnosis uptime" msgstr="Uptime" />
+	<message msgid="hitachi test diagnosis major process" msgstr="Major Process" />	
+	<message msgid="hitachi test diagnosis module info" msgstr="Moudle infomation" />
+	<message msgid="hitachi test diagnosis module status" msgstr="Status" />
+	<message msgid="hitachi test diagnosis module sys info" msgstr="System info" />
+	<message msgid="hitachi test diagnosis phone number" msgstr="Phone number" />
+	<message msgid="hitachi test diagnosis pin status" msgstr="Pin status" />
+	<message msgid="hitachi test diagnosis call status" msgstr="Call status" />
+	<message msgid="hitachi test diagnosis ota status" msgstr="OTA status" />
+	<message msgid="hitachi test diagnosis imei" msgstr="Imei" />	
+	<message msgid="hitachi test diagnosis iccid" msgstr="Iccid" />	
+	<message msgid="hitachi test emg caption" msgstr="EMG test" />
+	<message msgid="hitachi test emg value" msgstr="Test Value" />
+	<message msgid="hitachi test emg start btn" msgstr="Start" />	
+	<message msgid="hitachi test diagnosis test start" msgstr="Start" />
+	<message msgid="hitachi test diagnosis test end" msgstr="End" />	
+</po>

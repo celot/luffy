@@ -1,0 +1,79 @@
+﻿<po>
+	<message msgid="main disable" msgstr="無効にする" />
+	<message msgid="main enable" msgstr="有効にする" />
+	<message msgid="main apply" msgstr="適用" />
+	<message msgid="main cancel" msgstr="キャンセル" />	
+	<message msgid="main current wwan1" msgstr="WWAN (接続先1)" />
+	<message msgid="main current wwan2" msgstr="WWAN (接続先2)" />
+	<message msgid="treeapp wan" msgstr="WAN設定" />
+	<message msgid="treeapp lan1" msgstr="LAN1設定" />
+	<message msgid="treeapp lan" msgstr="LAN設定" />
+	<message msgid="treeapp dhcp clients" msgstr="DHCP割当情報" />
+	<message msgid="treeapp vpn passthrough" msgstr="VPN Passthrough" />
+	<message msgid="treeapp routing" msgstr="ルーティング情報設定" />
+	<message msgid="treeapp wifi statistics" msgstr="AP無線ステータス" />
+	<message msgid="treeapp statistics" msgstr="ネットワークデータ情報" />
+	<message msgid="treeapp wds" msgstr="WDS" />
+	<message msgid="treeapp wps" msgstr="WPS" />
+	<message msgid="treeapp basic" msgstr="無線基本設定" />
+	<message msgid="treeapp advanced" msgstr="無線高級設定" />
+	<message msgid="treeapp security" msgstr="無線セキュリティー設定" />
+	<message msgid="treeapp ap client" msgstr="AP クライアント" />
+	<message msgid="treeapp station list" msgstr="Station リスト" />
+	<message msgid="treeapp ip/port filtering" msgstr="MAC/IP/Port規則設定" />
+	<message msgid="treeapp port forwarding" msgstr="NAT/NAPT設定" />
+	<message msgid="treeapp dmz" msgstr="DMZ設定" />
+	<message msgid="treeapp content filtering" msgstr="コンテンツフィルタ設定" />
+	<message msgid="treeapp management" msgstr="環境設定" />
+	<message msgid="treeapp upload firmware" msgstr="ファームウェアアップグレード" />
+	<message msgid="treeapp settings management" msgstr="設定情報管理" />
+	<message msgid="treeapp reboot" msgstr="リブート設定" />
+	<message msgid="treeapp status" msgstr="システム情報" />
+	<message msgid="treeapp system command" msgstr="コマンド入力" />
+	<message msgid="treeapp system log" msgstr="システムログ" />
+	<message msgid="treeapp system firewall" msgstr="ファイアウォール設定" />
+
+	<message msgid="treeapp overview" msgstr="ステータス表示" />
+	<message msgid="treeapp mobile" msgstr="モバイル" />
+	<message msgid="treeapp internet" msgstr="インターネット設定" />
+	<message msgid="treeapp wireless" msgstr="無線LAN設定" />
+	<message msgid="treeapp firewall" msgstr="セキュリティー設定" />
+	<message msgid="treeapp admin" msgstr="管理者" />
+	<message msgid="treeapp sntp" msgstr="SNTP" />
+	<message msgid="treeapp ddns" msgstr="DDNS" />
+	<message msgid="treeapp service" msgstr="追加機能" />
+	<message msgid="treeapp directserial" msgstr="ダイレクトシリアル" />
+	<message msgid="treeapp serialmodem" msgstr="シリアルモデム" />       
+	<message msgid="treeapp ups" msgstr="UPS" />
+	<message msgid="treeapp nms" msgstr="NMS" />       
+	<message msgid="treeapp power_controller" msgstr="外部電源装置" />       
+	<message msgid="main sw ver" msgstr="ソフトウェアバージョン : " />
+	<message msgid="main save title" msgstr="再設定中" />
+	<message msgid="main save saved" msgstr="保存されました。" />
+	<message msgid="main save waiting" msgstr="しばらくお待ちください。" />
+	<message msgid="main save sec" msgstr="秒" />
+	<message msgid="main save newfirm" msgstr="ニュー ファームウェアイメージを アップグレードしました。" />
+	<message msgid="main save newboot" msgstr="ニュー ブートイメージを アップグレードしました。" />
+	<message msgid="main save newsys" msgstr="ニュー ユーザー イマージュを アップグレードされた。" />
+
+	<message msgid="treeapp mobile config" msgstr="ダイアルアップ設定" />
+	<message msgid="treeapp mobile status" msgstr="モジュール状態" />
+	<message msgid="treeapp mobile failsafe" msgstr="フェールセーフ機能" />
+
+	<message msgid="treeapp vpn" msgstr="VPN" />
+	<message msgid="treeapp port detect" msgstr="ポート監視"/>
+	<message msgid="treeapp kddi title" msgstr = "KDDI OTA" />
+
+	<message msgid="Error saving setup" msgstr="設定保存エラー" />
+	<message msgid="Firmware upgrading..." msgstr="ファームウェアのアップグレード" />
+	<message msgid="Error Firmware upgrading" msgstr="アップグレードに失敗し" />
+	<message msgid="Unmached model name" msgstr="別のモデル名" />
+	<message msgid="Not a valid firmware" msgstr="無効なファームウェア" />
+	<message msgid="Error file size" msgstr="エラーファイルサイズ" />
+	<message msgid="file format mismatch" msgstr="ファイルフォーマットが正しくありません。" />
+	<message msgid="treeapp emg_notifier" msgstr="緊急地震速報" />	
+	<message msgid="treeapp modbus" msgstr="Modbus機能" />
+	<message msgid="treeapp center push" msgstr="センタープッシュ設定" />
+	<message msgid="treeapp gps function" msgstr="GPS 機能" />
+</po>
+

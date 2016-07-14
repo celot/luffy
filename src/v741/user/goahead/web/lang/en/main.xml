@@ -1,0 +1,81 @@
+﻿<po>
+	<message msgid="main disable" msgstr="Disable" />
+	<message msgid="main enable" msgstr="Enable" />
+	<message msgid="main apply" msgstr="Apply" />
+	<message msgid="main cancel" msgstr="Cancel" />	
+	<message msgid="main current wwan1" msgstr="WWAN (Domain 1)" />
+	<message msgid="main current wwan2" msgstr="WWAN (Domain 2)" />
+	<message msgid="treeapp wan mode" msgstr="WAN Mode" />
+	<message msgid="treeapp wan" msgstr="WAN" />
+	<message msgid="treeapp lan1" msgstr="LAN1" />
+	<message msgid="treeapp lan" msgstr="LAN" />
+	<message msgid="treeapp dhcp clients" msgstr="DHCP clients" />
+	<message msgid="treeapp vpn passthrough" msgstr="VPN Passthrough" />
+	<message msgid="treeapp routing" msgstr="Advanced Routing" />
+	<message msgid="treeapp wifi statistics" msgstr="AP Wireless Statistics" />
+	<message msgid="treeapp statistics" msgstr="Statistics" />
+	<message msgid="treeapp wds" msgstr="WDS" />
+	<message msgid="treeapp wps" msgstr="WPS" />
+	<message msgid="treeapp basic" msgstr="Basic" />
+	<message msgid="treeapp advanced" msgstr="Advanced" />
+	<message msgid="treeapp security" msgstr="Security" />
+	<message msgid="treeapp ap client" msgstr="AP Client" />
+	<message msgid="treeapp station list" msgstr="Station List" />
+	<message msgid="treeapp ip/port filtering" msgstr="MAC/IP/Port Filtering" />
+	<message msgid="treeapp port forwarding" msgstr="NAT / NAPT Settings" />
+	<message msgid="treeapp dmz" msgstr="DMZ" />
+	<message msgid="treeapp content filtering" msgstr="Content Filtering" />
+	<message msgid="treeapp management" msgstr="Management" />
+	<message msgid="treeapp upload firmware" msgstr="Upload Firmware" />
+	<message msgid="treeapp settings management" msgstr="Settings Management" />
+	<message msgid="treeapp reboot" msgstr="Reboot" />
+	<message msgid="treeapp status" msgstr="Status" />
+	<message msgid="treeapp system command" msgstr="System Command" />
+	<message msgid="treeapp system log" msgstr="System Log" />
+	<message msgid="treeapp system firewall" msgstr="System Security" />
+
+	<message msgid="treeapp overview" msgstr="OverView" />
+	<message msgid="treeapp mobile" msgstr="Mobile" />
+	<message msgid="treeapp internet" msgstr="Internet" />
+	<message msgid="treeapp wireless" msgstr="Wireless" />
+	<message msgid="treeapp firewall" msgstr="Firewall" />
+	<message msgid="treeapp admin" msgstr="Administration" />
+	<message msgid="treeapp sntp" msgstr="SNTP" />
+	<message msgid="treeapp ddns" msgstr="DDNS" />
+	<message msgid="treeapp power" msgstr="Power" />
+	<message msgid="treeapp service" msgstr="Service" />
+	<message msgid="treeapp directserial" msgstr="Direct Serial" />
+	<message msgid="treeapp serialmodem" msgstr="Serial Modem" />
+	<message msgid="treeapp ups" msgstr="UPS" />
+	<message msgid="treeapp nms" msgstr="NMS" />
+	<message msgid="treeapp power_controller" msgstr="Power Controller" />
+	<message msgid="main sw ver" msgstr="SW VER : " />
+	<message msgid="main save title" msgstr="Reconfiguration" />
+	<message msgid="main save saved" msgstr="New settings are saved." />
+	<message msgid="main save waiting" msgstr="Please wait..." />
+	<message msgid="main save sec" msgstr="seconds" />
+	<message msgid="main save newfirm" msgstr="New Firmware upgraded." />
+	<message msgid="main save newboot" msgstr="New Bootloader upgraded." />
+	<message msgid="main save newsys" msgstr="New System upgraded." />
+
+	<message msgid="treeapp mobile config" msgstr="DialUp" />
+	<message msgid="treeapp mobile status" msgstr="Status" />
+	<message msgid="treeapp mobile failsafe" msgstr="Fail Safe" />
+
+	<message msgid="treeapp vpn" msgstr="VPN" />
+	<message msgid="treeapp port detect" msgstr="Port Detect" />
+	<message msgid="treeapp kddi title" msgstr = "KDDI OTA" />  
+
+	<message msgid="Error saving setup" msgstr="Error saving setup" />
+	<message msgid="Firmware upgrading..." msgstr="Firmware upgrading..." />
+	<message msgid="Error Firmware upgrading" msgstr="Error Firmware upgrading" />
+	<message msgid="Unmached model name" msgstr="Unmached model name" />
+	<message msgid="Not a valid firmware" msgstr="Not a valid firmware" />
+	<message msgid="Error file size" msgstr="Error file size" />
+	<message msgid="file format mismatch" msgstr="File Format Mismatch.." />
+	<message msgid="treeapp emg_notifier" msgstr="EMG Notification" />
+	<message msgid="treeapp modbus" msgstr="Modbus" />
+	<message msgid="treeapp center push" msgstr="Center Push Setting" />
+	<message msgid="treeapp gps function" msgstr="GPS" />
+</po>
+

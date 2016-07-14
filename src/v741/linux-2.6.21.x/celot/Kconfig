@@ -1,0 +1,36 @@
+menu "Celot Configuration"
+
+config  CELOT
+        bool "Celot config"
+        default y
+
+config CELOT_MTD
+        bool "Use System MTD"
+        default y if CELOT
+
+choice
+	 prompt "Flash size" if CELOT_MTD
+        default CELOT_MTD_8M
+        depends on CELOT_MTD
+        
+	config  CELOT_MTD_8M
+	bool "8M Flash"
+
+	config  CELOT_MTD_16M
+	bool "16M Flash"
+endchoice	
+
+config CELOT_GPIO
+        bool "Use GPIO Control"
+        default y if CELOT
+
+config CELOT_USB
+        bool "Use Celot USB"
+        default y if CELOT
+
+config CELOT_SERIAL
+        bool "Use Celot SERIAL"
+        default y if CELOT
+
+endmenu
+

@@ -1,0 +1,267 @@
+﻿<po>
+	<message msgid="admin disable" msgstr="Disable" />
+	<message msgid="admin enable" msgstr="Enable" />
+	<message msgid="admin apply" msgstr="Apply" />
+	<message msgid="admin cancel" msgstr="Cancel" />
+	<message msgid="admin reset" msgstr="Reset" />
+	
+	<message msgid="man title" msgstr="Management" />
+	<message msgid="man introduction" msgstr="You may configure administrator account and password, NTP settings, and Dynamic DNS settings here." />
+	<message msgid="man select language" msgstr="Select Language" />
+	<message msgid="man language" msgstr="Language" />
+	<message msgid="man admin setting" msgstr="Adminstrator Settings" />
+	<message msgid="man admin account" msgstr="Account" />
+	<message msgid="man admin passwd" msgstr="Password" />
+	<message msgid="man admin watchdog" msgstr="WatchDog" />
+	<message msgid="man admin alert request problem" msgstr="There was a problem with the request." />
+	<message msgid="man admin alert specify account" msgstr="Please Specify the administrator account." />
+	<message msgid="man admin alert specify password" msgstr="Please Specify the administrator password." />
+	<message msgid="man admin alert ntp specify sync" msgstr="Please specify a value for the interval of synchroniztion." />
+	<message msgid="man admin alert ntp invalid sync" msgstr="Invalid NTP synchronization value." />
+	<message msgid="man admin alert ntp too big sync" msgstr="The synchronization value is too big.(1~300)" />
+	<message msgid="man admin ddns value" msgstr="DDNS" />
+	<message msgid="man ntp setting" msgstr="NTP Settings" />
+	<message msgid="man ntp timezone" msgstr="Time Zone:" />
+	<message msgid="man ntp mid island" msgstr="(GMT-11:00) Midway Island, Samoa" />
+	<message msgid="man ntp hawaii" msgstr="(GMT-10:00) Hawaii" />
+	<message msgid="man ntp alaska" msgstr="(GMT-09:00) Alaska" />
+	<message msgid="man ntp pacific" msgstr="(GMT-08:00) Pacific Time" />
+	<message msgid="man ntp mountain" msgstr="(GMT-07:00) Mountain Time" />
+	<message msgid="man ntp arizona" msgstr="(GMT-07:00) Arizona" />
+	<message msgid="man ntp central" msgstr="(GMT-06:00) Central Time" />
+	<message msgid="man ntp mid us" msgstr="(GMT-06:00) Middle America" />
+	<message msgid="man ntp indiana east" msgstr="(GMT-05:00) Indiana East, Colombia" />
+	<message msgid="man ntp eastern" msgstr="(GMT-05:00) Eastern Time" />
+	<message msgid="man ntp atlantic" msgstr="(GMT-04:00) Atlantic Time, Brazil West" />
+	<message msgid="man ntp bolivia" msgstr="(GMT-04:00) Bolivia, Venezuela" />
+	<message msgid="man ntp guyana" msgstr="(GMT-03:00) Guyana" />
+	<message msgid="man ntp brazil east" msgstr="(GMT-03:00) Brazil East, Greenland" />
+	<message msgid="man ntp mid atlantic" msgstr="(GMT-02:00) Mid-Atlantic" />
+	<message msgid="man ntp azores islands" msgstr="(GMT-01:00) Azores Islands" />
+	<message msgid="man ntp gambia" msgstr="(GMT) Gambia, Liberia, Morocco" />
+	<message msgid="man ntp england" msgstr="(GMT) England" />
+	<message msgid="man ntp czech republic" msgstr="(GMT+01:00) Czech Republic, N" />
+	<message msgid="man ntp germany" msgstr="(GMT+01:00) Germany" />
+	<message msgid="man ntp poland" msgstr="(GMT+01:00) Poland" />
+	<message msgid="man ntp tunisia" msgstr="(GMT+01:00) Tunisia" />
+	<message msgid="man ntp greece" msgstr="(GMT+02:00) Greece, Ukraine, Turkey" />
+	<message msgid="man ntp south africa" msgstr="(GMT+02:00) South Africa" />
+	<message msgid="man ntp iraq" msgstr="(GMT+03:00) Iraq, Jordan, Kuwait" />
+	<message msgid="man ntp moscow winter" msgstr="(GMT+03:00) Moscow Winter Time" />
+	<message msgid="man ntp armenia" msgstr="(GMT+04:00) Armenia" />
+	<message msgid="man ntp pakistan" msgstr="(GMT+05:00) Pakistan, Russia" />
+	<message msgid="man ntp bangladesh" msgstr="(GMT+06:00) Bangladesh, Russia" />
+	<message msgid="man ntp thailand" msgstr="(GMT+07:00) Thailand, Russia" />
+	<message msgid="man ntp chinacoast" msgstr="(GMT+08:00) China Coast, Hong Kong" />
+	<message msgid="man ntp taipei" msgstr="(GMT+08:00) Taipei" />
+	<message msgid="man ntp singapore" msgstr="(GMT+08:00) Singapore" />
+	<message msgid="man ntp australia wa" msgstr="(GMT+08:00) Australia (WA)" />
+	<message msgid="man ntp japan" msgstr="(GMT+09:00) Japan, Korea" />
+	<message msgid="man ntp korean" msgstr="(GMT+09:00) Korean" />
+	<message msgid="man ntp guam" msgstr="(GMT+10:00) Guam, Russia" />
+	<message msgid="man ntp australia qld" msgstr="(GMT+10:00) Australia (QLD, TAS,NSW,ACT,VIC)" />
+	<message msgid="man ntp solomon islands" msgstr="(GMT+11:00) Solomon Islands" />
+	<message msgid="man ntp fiji" msgstr="(GMT+12:00) Fiji" />
+	<message msgid="man ntp newzealand" msgstr="(GMT+12:00) New Zealand" />
+	<message msgid="man ntp server" msgstr="NTP Server" />
+	<message msgid="man ntp ex" msgstr="ex :" />
+	<message msgid="man ntp sync" msgstr="NTP synchronization(hours)" />
+	<message msgid="man ntp current time" msgstr="Current Time" />
+	<message msgid="man ntp sync with host" msgstr="Sync with host" />
+	<message msgid="man ddns setting" msgstr="DDNS Settings" />
+	<message msgid="man ddns provider" msgstr="Dynamic DNS Provider" />
+	<message msgid="man ddns none" msgstr="None" />
+	<message msgid="man ddns account" msgstr="Account" />
+	<message msgid="man ddns passwd" msgstr="Password" />
+	<message msgid="man ddns" msgstr="DDNS" />
+	<message msgid="man custom" msgstr="Custom" />
+	<message msgid="man ddns ddnsServer" msgstr="DDNS Server" />
+	
+	<message msgid="upload title" msgstr="Upgrade Firmware" />
+	<message msgid="upload introduction1" msgstr="Upgrade firmware to obtain new functionality. " />
+	<message msgid="upload introduction2" msgstr="It takes about 2 minute to upload. upgrade flash and be patient please. Caution! A corrupted image will hang up the system." />
+	<message msgid="upload firmware" msgstr="Update Firmware" />
+	<message msgid="upload firmware location" msgstr="Location:" />
+	<message msgid="upload system" msgstr="Update UserImage" />
+	<message msgid="upload system location" msgstr="Location:" />
+	<message msgid="upload bootloader" msgstr="Update Bootloader" />
+	<message msgid="upload bootloader location" msgstr="Location:" />
+	
+	<message msgid="setman title" msgstr="Settings Default" />
+	<message msgid="setman introduction" msgstr="Save the value set by the user to the PC File, and you can be restored." />
+	<message msgid="setman introduction2" msgstr="You can return to the factory default value." />
+	<message msgid="setman export setting" msgstr="Export Settings" />
+	<message msgid="setman export setting button" msgstr="Export Button" />
+	<message msgid="setman export setting export" msgstr="Export" />
+	<message msgid="setman import setting" msgstr="Import Settings" />
+	<message msgid="setman import setting file location" msgstr="Settings file location" />
+	<message msgid="setman import setting import" msgstr="Import" />
+	<message msgid="setman load factory default" msgstr="Load Factory Defaults" />
+	<message msgid="setman load factory default button" msgstr="Load Default Button" />
+	<message msgid="setman load default" msgstr="Load Default" />
+	
+	<message msgid="setman load default quest" msgstr="Load Default Setting?" />  
+	<message msgid="status title" msgstr="Status" />
+	<message msgid="status introduction" msgstr="Let's take a look at the status of Router." />
+	<message msgid="status system information" msgstr="System Info" />
+	<message msgid="status sdk version" msgstr="SDK Version" />
+	<message msgid="status system up time" msgstr="System Time" />
+	<message msgid="status system platform" msgstr="System Platform" />
+	<message msgid="status operate mode" msgstr="Operation Mode" />
+	<message msgid="status internet config" msgstr="Internet Configurations" />
+	<message msgid="status connect type" msgstr="Connected Type" />
+	<message msgid="status current wan" msgstr="Current WAN" />
+	<message msgid="status apn" msgstr="Current APN" />
+	<message msgid="status Plmm Name" msgstr="Network Name" />
+	<message msgid="status Phone number" msgstr="Phone Number" />
+	<message msgid="status wan ipaddr" msgstr="WAN IP Address" />
+	<message msgid="status subnet mask" msgstr="Subnet Mask" />
+	<message msgid="status default gateway" msgstr="Default Gateway" />
+	<message msgid="status primary dns" msgstr="Primary Domain Name Server" />
+	<message msgid="status secondary dns" msgstr="Secondary Domain Name Server" />
+	<message msgid="status local network" msgstr="Local Network" />
+	<message msgid="status lan ipaddr" msgstr="Local IP Address" />
+	<message msgid="status lan ipaddr2" msgstr="LAN IP" />  
+	<message msgid="status local netmask" msgstr="Local Netmask" />
+	<message msgid="status mac" msgstr="MAC Address" />
+	<message msgid="status wan mode" msgstr="WAN Mode" />
+	
+	<message msgid="statistic title" msgstr="Statistic" />
+	<message msgid="statistic introduction" msgstr=" Take a look at the Router statistics " />
+	<message msgid="statistic memory" msgstr="Memory" />
+	<message msgid="statistic memory total" msgstr="Memory total: " />
+	<message msgid="statistic memory left" msgstr="Memory left: " />
+	<message msgid="statistic wanlan" msgstr="WAN/LAN" />
+	<message msgid="statistic wan rx pkt" msgstr="WAN Rx packets: " />
+	<message msgid="statistic wan rx bytes" msgstr="WAN Rx bytes: " />
+	<message msgid="statistic wan tx pkt" msgstr="WAN Tx packets: " />
+	<message msgid="statistic wan tx bytes" msgstr="WAN Tx bytes: " />
+	<message msgid="statistic lan rx pkt" msgstr="LAN Rx packets: " />
+	<message msgid="statistic lan rx bytes" msgstr="LAN Rx bytes: " />
+	<message msgid="statistic lan tx pkt" msgstr="LAN Tx packets: " />
+	<message msgid="statistic lan tx bytes" msgstr="LAN Tx bytes: " />
+	<message msgid="statistic all interface" msgstr="All interfaces" />
+	
+	<message msgid="syscommand title" msgstr="System Command" />
+	<message msgid="syscommand introduction" msgstr=" Run a system command as root: " />
+	<message msgid="syscommand system command" msgstr="System command " />
+	<message msgid="syscommand command" msgstr="Command:" />
+	
+	<message msgid="syslog title" msgstr="System Log" />
+	<message msgid="syslog introduction" msgstr=" Syslog: " />
+	<message msgid="syslog system log" msgstr="System Log" />
+	<message msgid="syslog clear" msgstr="Clear" />
+	<message msgid="syslog refresh" msgstr="Refresh" />
+	
+	<message msgid="reboot title" msgstr="Reboot Settings" />
+	<message msgid="reboot introduction" msgstr="System reboot management." />
+	<message msgid="reboot settings" msgstr="Reboot Settings" />
+	<message msgid="reboot settings2" msgstr="Reboot Settings" />
+	<message msgid="reboot dayOfWeek" msgstr="Day of Week" />
+	<message msgid="reboot powerreboot" msgstr="System Reboot" />
+	<message msgid="reboot rebootNow" msgstr="Reboot Now" />
+	<message msgid="reboot rebootNow button" msgstr="Do you do reboot this product?" />
+	<message msgid="reboot autoReboot" msgstr="Auto Reboot" />
+	<message msgid="reboot autoEnable" msgstr="Enable" />
+	<message msgid="reboot autoDisable" msgstr="Disable" />
+	<message msgid="reboot schedule" msgstr="Schedule" />
+	<message msgid="reboot autoTime" msgstr="Time" />
+	<message msgid="reboot autoDay" msgstr="Day" />
+	<message msgid="reboot everyDay" msgstr="Every Day" />
+	<message msgid="reboot Sun" msgstr="Sun" />
+	<message msgid="reboot Mon" msgstr="Mon" />
+	<message msgid="reboot Tue" msgstr="Tue" />
+	<message msgid="reboot Wed" msgstr="Wed" />
+	<message msgid="reboot Thu" msgstr="Thu" />
+	<message msgid="reboot Fri" msgstr="Fri" />
+	<message msgid="reboot Sat" msgstr="Sat" />
+	<message msgid="reboot log" msgstr="Reboot Log" />
+	<message msgid="reboot Log list" msgstr="Reboot Time Log List" />
+	<message msgid="reboot Log list empty" msgstr="There is no Log List" />
+	
+	<message msgid="reboot max Log List" msgstr="The maximum List : 30" />
+	
+	<message msgid="ota kddi title" msgstr="KDDI OTA" />
+	<message msgid="ota title" msgstr="OTA" />
+	<message msgid="ota introduction" msgstr=" start the contract (OTASP) and start termination of contact (OTAPA)." />
+	<message msgid="ota statussetup" msgstr="current OTA state" />
+	<message msgid="ota contactState" msgstr="contract status" />
+	<message msgid="ota otastatus" msgstr="Processing Status" />
+	<message msgid="ota otacontractSetup" msgstr="start contract (OTASP)" />
+	<message msgid="ota otacontractotasp" msgstr="start contract (OTASP)" />
+	<message msgid="ota otacontractotasp warning1" msgstr="during process of the contact, do not power off (OTASP)." />
+	<message msgid="ota otacontractotasp warning2" msgstr="If you turn OFF the power supply during the process, it can cause severe disability." />
+	<message msgid="ota otacancellationSetup" msgstr="termination of the contract (OTAPA)" />
+	<message msgid="ota otacancellationotapa" msgstr="start termination of the contract (OTAPA)" />
+	<message msgid="ota otacancellationotapa warning1" msgstr="during the termination of contact (OTAPA), Do not turn OFF power " />
+	<message msgid="ota otacancellationotapa warning2" msgstr="If you turn OFF the power supply during the process, it can cause severe disability." />
+	<message msgid="ota refresh" msgstr="Update" />
+	<message msgid="ota refreshsp" msgstr="OTASP start" />
+	<message msgid="ota refreshpa" msgstr="OTAPA start" />
+	<message msgid="ota SetOtasp" msgstr="Are you sure that you want to start OTASP process?" />
+	<message msgid="ota SetOtapa" msgstr="Are you sure that you want to start OTAPA process?" />
+	<message msgid="ota currentstatesp" msgstr="OTASP Processing" />
+	<message msgid="ota currentstatepa" msgstr="OTAPA Processing" />
+	<message msgid="ota otacontract0" msgstr="Checking Contract" />
+	<message msgid="ota otacontract1" msgstr="Incomplete Contract" />
+	<message msgid="ota otacontract2" msgstr="Contract Started" />
+	<message msgid="ota otacontract3" msgstr="Termination of Contract Requested" />
+	<message msgid="ota OTAsimtypesetup" msgstr="SIM Type" />
+	<message msgid="ota OTAsimtypesetupth" msgstr="SIM Type" />
+	<message msgid="ota OTAsimtypeIN" msgstr="Internel SIM" />
+	<message msgid="ota OTAsimtypeEX" msgstr="Externel SIM" />
+	<message msgid="man web port" msgstr="Web Server Port" />
+	<message msgid="man cli port" msgstr="CLI Connect Port" />
+	<message msgid="man ntp current time" msgstr="Current time" />
+	<message msgid="admin alert http" msgstr="Giving up :( Cannot create an XMLHTTP instance)" />
+	<message msgid="admin alert request" msgstr="Invalid request" />
+	<message msgid="admin alert profile name" msgstr="Duplicated profile name" />
+	<message msgid="admin alert input Profile" msgstr="Please input the Profile Name" />
+	<message msgid="man alert check server account pw ddns" msgstr="Please enter server, account, password, DDNS. " />
+	<message msgid="man alert check account pw ddns" msgstr="Please enter account, password, DDNS. " />
+	<message msgid="alert specify a file" msgstr="Please specify a file." />
+	<message msgid="alert for engineer only" msgstr="This is for engineer only. Are u sure?" />
+	<message msgid="alert specify a command" msgstr="Please specify a command" />
+	<message msgid="man ntp sync status" msgstr="Time Sync. Status" />  
+	<message msgid="NTP Sycn Succeed." msgstr="Time Sync. succeed." />
+	<message msgid="NTP Sycn :" msgstr="Sync time :" />
+	<message msgid="NTP NTP Sycn Atempted." msgstr="Time Sync. atempted but not succeed." />
+	<message msgid="NTP SycnA :" msgstr="Atempt time :" />	
+	<message msgid="NTP Sycn Failed." msgstr="Time Sync. Failed." />
+
+	<message msgid="kddi traffic title" msgstr="Network data information" />
+	<message msgid="kddi traffic introduction1" msgstr="You can check the network data usage." />
+	<message msgid="kddi traffic table" msgstr="Cumulative amount of communication" />
+	<message msgid="kddi traffic introduction2" msgstr="Since the terminal is started, you can check the cumulative traffic today." />
+	<message msgid="kddi traffic introduction3" msgstr="If the power to the terminal is OFF cumulative traffic will be discarded." />
+	<message msgid="kddi traffic wwan1" msgstr="Cumulative traffic (WWAN (Domain 1))" />
+	<message msgid="kddi traffic wwan2" msgstr="Cumulative traffic (WWAN (Domain 2))" />
+	<message msgid="kddi traffic send" msgstr="send" />
+	<message msgid="kddi traffic receive" msgstr="receive" />
+	<message msgid="kddi traffic clear" msgstr="Clear" />
+	<message msgid="jquery message enter less than or equal to 300" msgstr="Please enter a value less than or equal to 300. " />
+	
+	<message msgid="alert rule filesize limit 4MB exceeded" msgstr="The file must be less than 4MB." />
+	<message msgid="alert rule filesize limit 7MB exceeded" msgstr="The file must be less than 7MB." />
+	<message msgid="alert rule filesize exceeded" msgstr="No file." />
+		
+	<message msgid="ntt hidden config" msgstr="NTT Config" />
+	<message msgid="ntt hidden config introduction" msgstr="You can change the NTT property." />
+	<message msgid="ntt hidden communication speed" msgstr="Communication speed" />
+	<message msgid="ntt hidden change communication speed" msgstr="Change communication speed" />
+	<message msgid="ntt hidden change subnet" msgstr="Subnet changes" />
+	<message msgid="ntt hidden interface" msgstr="Interface" />
+	<message msgid="ntt hidden ip address" msgstr="IP addresses" />
+	<message msgid="ntt hidden broardcast address" msgstr="Broadcast address" />
+	<message msgid="ntt hidden subnet mask" msgstr="Subnet Mask" />
+	<message msgid="ntt hidden change subnet mask" msgstr="Mask changes" />
+	<message msgid="ntt hidden wwan1" msgstr="WWAN(Domain. 1)/WAN" />
+	<message msgid="ntt hidden wwan2" msgstr="WWAN(Domain. 2)" />
+	
+	<message msgid="dwl title" msgstr="Domain White List" />
+	<message msgid="dwl introduction" msgstr="You can restrict to connect no match apn in list." />
+	<message msgid="dwl fucnc cap" msgstr="Domain White List" />
+	<message msgid="dwl fucnc" msgstr="Domain White List" />
+	<message msgid="dwl rec1" msgstr="Record 1" />
+	<message msgid="dwl rec2" msgstr="Record 2" />	
+</po>

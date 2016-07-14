@@ -1,0 +1,198 @@
+﻿<po>
+	<message msgid="mobile apply" msgstr="Apply" />
+	<message msgid="mobile cancel" msgstr="Cancel" />
+	<message msgid="mobile enable" msgstr="Enable" />
+	<message msgid="mobile disable" msgstr="Disable" />
+	<message msgid="mobile send" msgstr="Send" />
+	<message msgid="mobile delete" msgstr="Delete" />
+	<message msgid="mobile reset" msgstr="Reset" />
+	<message msgid="mobile deleteall" msgstr="DeleteAll" />
+	
+	<message msgid="mobile module info" msgstr="Module Infomation" />
+	
+	<message msgid="mobile module band" msgstr="Band Info." />
+	<message msgid="mobile module service" msgstr="Service Info." />
+	<message msgid="mobile module cell" msgstr="Cell Info." />
+	<message msgid="mobile module rssi" msgstr="RSSI Info." />
+	<message msgid="mobile module rssi2" msgstr="Antena Cnt." />
+	
+	<message msgid="mobile module" msgstr="Module" />
+	<message msgid="mobile call manager" msgstr="Data Call Control" />
+	<message msgid="mobile cm intro" msgstr="Control data connecton." />
+	
+	<message msgid="mobile cm control" msgstr="Call Control" />
+	<message msgid="mobile cm power" msgstr="Power" />
+	<message msgid="mobile cm connection" msgstr="Connection" />
+	<message msgid="mobile cm conmode" msgstr="Connection Mode" />
+	
+	<message msgid="mobile power on" msgstr="On" />
+	<message msgid="mobile power off" msgstr="Off" />
+	<message msgid="mobile connect on" msgstr="Connect" />
+	<message msgid="mobile connect off" msgstr="Disconnect" />
+	
+	<message msgid="mobile cfg title" msgstr="Mobile Configuration" />
+	<message msgid="mobile cfg introduction" msgstr="Setup Dialup configurations." />
+	<message msgid="mobile setup" msgstr="Connection settings (common)" />
+	<message msgid="mobile setup1" msgstr="Connection settings (Domain 1)" />
+	<message msgid="mobile setup_d2" msgstr="Connection settings (Domain 2)" />
+	<message msgid="mobile trans standard" msgstr="Communication speed" />
+	<message msgid="mobile user" msgstr="User ID" />
+	<message msgid="mobile pass" msgstr="Password" />
+	<message msgid="mobile repass" msgstr="Re Password" />
+	<message msgid="mobile dial" msgstr="Dial Number" />
+	<message msgid="mobile pin" msgstr="Pin Status" />
+	
+	<message msgid="mobile overview title" msgstr="Module Status" />
+	<message msgid="mobile overview intro" msgstr="Show Brief Module Status" />
+	<message msgid="mobile module title" msgstr="Module Informations" />
+	
+	<message msgid="mobile pref title" msgstr="Modem PrefMode Setup" />
+	<message msgid="mobile pref introduction" msgstr="Set Modem PrefMode(LTE only, WCDMA only, GSM only or AUTOMATIC)" />
+	<message msgid="mobile pref setup" msgstr="Set PrefMode" />
+	<message msgid="mobile pref mode" msgstr="PrefMode" />
+	
+	<message msgid="mobile sms recv" msgstr="SMS Recived" />
+	<message msgid="mobile sms recv intro" msgstr="Show Sms Recvied Messsages" />
+	<message msgid="mobile sms recv list" msgstr="Sms Message List" />
+	<message msgid="mobile sms send" msgstr="SMS Send" />
+	<message msgid="mobile sms send intro" msgstr="Send Sms Messages" />
+	<message msgid="mobile sms send list" msgstr="SMS Send List" />
+	
+	<message msgid="mobile sms no" msgstr="No." />
+	<message msgid="mobile sms content" msgstr="Content" />
+	<message msgid="mobile sms phone" msgstr="Phone" />
+	<message msgid="mobile sms date" msgstr="Date" />
+	
+	<message msgid="mobile protocol opmode" msgstr="Operation Mode" />
+	<message msgid="mobile protocol opmode keepalive" msgstr="Keep Alive" />
+	<message msgid="mobile protocol opmode ondemand" msgstr="On Demand" />
+	<message msgid="mobile protocol idle" msgstr="Idle Time" />
+	<message msgid="mobile protocol minutes" msgstr="minutes" />
+	
+	<message msgid="mobile ip assign" msgstr="IP address" />
+	<message msgid="mobile ip auto assign" msgstr="Automatic acquisition" />
+	<message msgid="mobile ip fix assign" msgstr="IP fixed" />
+	<message msgid="mobile fixed ip text" msgstr="IP address" />
+	<message msgid="mobile ip authentication" msgstr="Authentication" />
+	
+	<message msgid="mobile sms max len" msgstr="160" />
+	
+	<message msgid="mobile uicc title" msgstr="SIM" />
+	<message msgid="mobile uicc introduction" msgstr="It could be changed SIM Status" />
+	<message msgid="mobile uicc setup" msgstr="SIM Status" />
+	<message msgid="mobile uicc pin status" msgstr="SIM Status" />
+	<message msgid="mobile uicc pin mode" msgstr="SIM Mode" />
+	<message msgid="mobile uicc cur pin" msgstr="Current SIM Status" />
+	<message msgid="mobile uicc remain" msgstr="PIN(PUK) Code Remain" />
+	<message msgid="mobile uicc save" msgstr="SAVE" />
+	<message msgid="mobile uicc pin setup" msgstr="SIM Status Setup" />
+	
+	<message msgid = "mobile ota title" msgstr = "OTA" />
+	<message msgid = "mobile ota introduction" msgstr = " start the contract (OTASP) and start termination of contact (OTAPA)." />
+	<message msgid = "mobile ota statussetup" msgstr = "current OTA state" />
+	<message msgid = "mobile ota contactState" msgstr = "contract status" />
+	<message msgid = "mobile ota otastatus" msgstr = "Processing Status" />
+	<message msgid = "mobile ota otacontractSetup" msgstr = "start contract (OTASP)" />
+	<message msgid = "mobile ota otacontractotasp" msgstr = "start contract (OTASP)" />
+	<message msgid = "mobile ota otacontractotasp warning1" msgstr = "during process of the contact, do not power off (OTASP)." />
+	<message msgid = "mobile ota otacontractotasp warning2" msgstr = "If you turn OFF the power supply during the process, it can cause severe disability." />
+	<message msgid = "mobile ota otacancellationSetup" msgstr = "termination of the contract (OTAPA)" />
+	<message msgid = "mobile ota otacancellationotapa" msgstr = "start termination of the contract (OTAPA)" />
+	<message msgid = "mobile ota otacancellationotapa warning1" msgstr = "during the termination of contact (OTAPA), Do not turn OFF power " />
+	<message msgid = "mobile ota otacancellationotapa warning2" msgstr = "If you turn OFF the power supply during the process, it can cause severe disability." />
+	<message msgid = "mobile ota refresh" msgstr = "Update" />
+	<message msgid = "mobile ota refreshsp" msgstr = "OTASP start" />
+	<message msgid = "mobile ota refreshpa" msgstr = "OTAPA start" />
+	<message msgid = "mobile ota SetOtasp" msgstr = "Are you sure that you want to start OTASP process?" />
+	<message msgid = "mobile ota SetOtapa" msgstr = "Are you sure that you want to start OTAPA process?" />
+	<message msgid = "mobile ota currentstatesp" msgstr = "OTASP Processing" />
+	<message msgid = "mobile ota currentstatepa" msgstr = "OTAPA Processing" />
+	<message msgid = "mobile ota otacontract1" msgstr = "Incomplete Contract" />
+	<message msgid = "mobile ota otacontract2" msgstr = "Contract Started" />
+	<message msgid = "mobile ota otacontract3" msgstr = "Termination of Contract Requested" />
+	
+	<message msgid="mobile alert password" msgstr="Please confirm the password." />
+	<message msgid="mobile alert pincode error" msgstr="PIN Code is empty" />
+	<message msgid="mobile alert pincheck error" msgstr="Pin Check Error" />
+	<message msgid="mobile alert xmlhttp error" msgstr="Cannot create an XMLHTTP instance" />
+	<message msgid="mobile alert simcard error" msgstr="This SIM Card cannot be used" />
+	<message msgid="mobile alert simcard init error" msgstr="The Simcard does not initialized now" />
+	<message msgid="mobile alert simcard verity already" msgstr="It has been verified already" />
+	<message msgid="mobile alert simcard input pin_puk" msgstr="Please Input the PUK Code and new PIN Code" />
+	<message msgid="mobile alert ip addr empty" msgstr="The IP address is empty" />  
+	<message msgid="mobile alert ip format error" msgstr="The IP adress format error" />
+	<message msgid="mobile alert digit format error" msgstr="It should be a [0-9] number" />
+	<message msgid="mobile alert select rule to be delete" msgstr="Please select the rule to be deleted." />
+
+	<message msgid="mobile mode domain" msgstr="Domain" />	
+	<message msgid="mobile mode wwan1" msgstr="WWAN(Domain. 1)/WAN" />
+	<message msgid="mobile mode wwan2" msgstr="WWAN(Domain. 2)" />
+	
+	<message msgid="mobile center push title" msgstr="Center Push Setting" />
+	<message msgid="mobile center push inst" msgstr="For setting the function to perform the connection to the wireless network as a trigger remote operation from the outside (center push)." />
+	<message msgid="mobile center push set" msgstr="Center Push" />
+	<message msgid="mobile center push disable" msgstr="Disable" />
+	<message msgid="mobile center push enable" msgstr="Enable" />
+	<message msgid="mobile center push add phone number" msgstr="Center push-enabled telephone number added" />
+	<message msgid="mobile center push interface" msgstr="Interface" />
+	<message msgid="mobile center push phone number" msgstr="Phone Number" />
+	<message msgid="mobile center push designate" msgstr="Designate" />
+	<message msgid="mobile center push not specified" msgstr="Not specified" />
+	<message msgid="mobile center push comment" msgstr="Comment" />
+	<message msgid="mobile center push phone list" msgstr="Center push-enabled phone number list" />
+	<message msgid="mobile center push phone list order" msgstr="No." />
+
+	<message msgid="fs title" msgstr="Connection Fail Safe " />
+	<message msgid="fs intro" msgstr="You can configure the settings for call connection fail safe." />
+	<message msgid="fs configuration" msgstr="Configuration" />
+	<message msgid="fs call connection" msgstr="Call Connection Attempt" />
+	<message msgid="fs connnect a" msgstr="Always" />
+	<message msgid="fs connnect 1" msgstr="RSSI 1" />
+	<message msgid="fs connnect 2" msgstr="RSSI 2" />
+	<message msgid="fs connnect 3" msgstr="RSSI 3" />
+	<message msgid="fs connnect 4" msgstr="RSSI 4" />
+	<message msgid="fs data mon" msgstr="Data Usage Monitor" />
+	<message msgid="fs data up" msgstr="Upload" />
+	<message msgid="fs data dn" msgstr="Download" />
+	<message msgid="fs seconds" msgstr="Seconds" />
+	<message msgid="fs con mon" msgstr="Connection Monitor" />
+	<message msgid="fs address" msgstr="Address :" />
+	<message msgid="fs conn cycle" msgstr="Cycle :" />
+	<message msgid="fs reboot" msgstr="Periodic Reboot" />
+	<message msgid="fs hour" msgstr="Hour" />
+	<message msgid="fs fs log" msgstr="Fail Safe Log" />
+	<message msgid="fs kbytes" msgstr="KBytes" />
+	<message msgid="fs view log" msgstr="View Log" />
+	<message msgid="fs apply" msgstr="Apply" />
+	<message msgid="fs cancel" msgstr="Cancel" />
+	<message msgid="fs log title" msgstr="Fail Safe Log" />
+	<message msgid="fs log intro" msgstr="Show Fail Safe Logs" />
+	<message msgid="fs clear log" msgstr="Clear" />
+	<message msgid="fs export log" msgstr="Export" />
+	<message msgid="fs disable" msgstr="Disable" />
+	<message msgid="fs reboot 1h" msgstr="1 Hour" />
+	<message msgid="fs reboot 2h" msgstr="2 Hour" />
+	<message msgid="fs reboot 3h" msgstr="3 Hour" />
+	<message msgid="fs reboot 4h" msgstr="4 Hour" />
+	<message msgid="fs reboot 5h" msgstr="5 Hour" />
+	<message msgid="fs reboot 6h" msgstr="6 Hour" />
+	<message msgid="fs reboot 7h" msgstr="7 Hour" />
+	<message msgid="fs reboot 8h" msgstr="8 Hour" />
+	<message msgid="fs reboot 9h" msgstr="9 Hour" />
+	<message msgid="fs reboot 10h" msgstr="10 Hour" />
+	<message msgid="fs reboot 11h" msgstr="11 Hour" />
+	<message msgid="fs reboot 12h" msgstr="12 Hour" />
+	<message msgid="fs reboot 13h" msgstr="13 Hour" />
+	<message msgid="fs reboot 14h" msgstr="14 Hour" />
+	<message msgid="fs reboot 15h" msgstr="15 Hour" />
+	<message msgid="fs reboot 16h" msgstr="16 Hour" />
+	<message msgid="fs reboot 17h" msgstr="17 Hour" />
+	<message msgid="fs reboot 18h" msgstr="18 Hour" />
+	<message msgid="fs reboot 19h" msgstr="19 Hour" />
+	<message msgid="fs reboot 20h" msgstr="20 Hour" />
+	<message msgid="fs reboot 21h" msgstr="21 Hour" />
+	<message msgid="fs reboot 22h" msgstr="22 Hour" />
+	<message msgid="fs reboot 23h" msgstr="23 Hour" />
+	<message msgid="fs reboot 24h" msgstr="24 Hour" />
+	
+</po>

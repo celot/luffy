@@ -1,0 +1,268 @@
+﻿<po> 
+	<message msgid="service apply" msgstr="適用" />
+	<message msgid="service cancel" msgstr="キャンセル" />
+	<message msgid="service enable" msgstr="有効にする" />
+	<message msgid="service disable" msgstr="無効にする" />
+	<message msgid="service refresh" msgstr="更新" />
+	<message msgid="service directserial title" msgstr="ダイレクト シリアル" />
+	<message msgid="service directserial introduction" msgstr="シリアルインターフェースからの入力データを、IP通信データに変換してネットワークへ転送します。" />
+	<message msgid="service directserial devicesetup" msgstr="シリアル通信設定" />
+	<message msgid="service directserial serial" msgstr="シリアルインターフェース" />
+	<message msgid="service directserial baud" msgstr="ボーレート" />
+	<message msgid="service directserial data" msgstr="データ" />
+	<message msgid="service directserial parity" msgstr="パリティ" />
+	<message msgid="service directserial stop" msgstr="ストップビット" />
+	<message msgid="service directserial flow" msgstr="フロー制御" />
+	<message msgid="service directserial serversetup" msgstr="動作設定" />
+	<message msgid="service directserial server" msgstr="サーバー名" />
+	<message msgid="service directserial port" msgstr="ポート" />
+	<message msgid="service directserial listenport" msgstr="受付ポート" />
+	<message msgid="service directserial connectProtocol" msgstr="接続方法" />
+	<message msgid="service directserial connectMode" msgstr="接続モード" />
+	<message msgid="service directserial connectionClient" msgstr="クライアント" />
+	<message msgid="service directserial connectionServer" msgstr="サーバー" />
+	<message msgid="service directserial tdirectSerialModeUDP" msgstr="接続モード" />
+	<message msgid="service directserial connectionStatic" msgstr="スタティック" />
+	<message msgid="service directserial connectionDynamic" msgstr="ダイナミック" />
+	<message msgid="service directserial thdirectSerialDefInterface" msgstr="デフォルト転送先インターフェース" />
+	<message msgid="service directserial thdirectSerialDefServer" msgstr="デフォルト転送先サーバー名" />
+	<message msgid="service directserial thdirectSerialDefPort" msgstr="デフォルト転送先ポート" />
+	<message msgid="service directserial directSerialGuardTime" msgstr="転送先変更ガードタイム" />
+	<message msgid="service directserial directSerialGuardTimeSec" msgstr="秒" />
+	<message msgid="service directserial thdirectSerialInitFlag" msgstr="WWAN切断時の転送先初期化" />
+	<message msgid="service directserial directSerialInitFlag0" msgstr="しない" />
+	<message msgid="service directserial directSerialInitFlag1" msgstr="する" />
+	<message msgid="service directserial statussetup" msgstr="基本設定" />
+	<message msgid="service directserial currentstatus" msgstr="ダイレクトシリアルモード" />
+	<message msgid="service directserial curStatus" msgstr="ステータス" />
+	<message msgid="service directserial currentstatus" msgstr="ダイレクトシリアルモード" />
+	<message msgid="service directserial bufsize" msgstr="バッファサイズ" />
+	<message msgid="service directserial buftimeout" msgstr="バッファのタイムアウト" />
+	<message msgid="service serialmodem currentstatus" msgstr="シリアルモデム" />
+	<message msgid="service serialmodem title" msgstr="シリアル モデム" />
+	<message msgid="service serialmodem introduction" msgstr="モデムと同じデバイスとしてご使用できます。" />
+	<message msgid="service serialmodem serialIP" msgstr="シリアル IP" />   
+	<message msgid="service directserial interface" msgstr="インターフェース" />
+	<message msgid="service interface0" msgstr="WWAN(接続先1)/WAN" />
+	<message msgid="service interface1" msgstr="WWAN(接続先2)" />
+	<message msgid="service interface2" msgstr="WWAN(接続先3)" />
+	<message msgid="service interface3" msgstr="WWAN(接続先4)" />
+	<message msgid="service interface4" msgstr="WWAN(接続先5)" />
+	<message msgid="service interface5" msgstr="WWAN(接続先6)" />
+	<message msgid="ups title" msgstr="UPS" />
+	<message msgid="ups introduction" msgstr="電源遮断時のアラートを設定します。" />
+	<message msgid="ups ups" msgstr="UPS設定" />
+	<message msgid="ups mode" msgstr="アラーム設定" />
+	<message msgid="ups alarm" msgstr="アラーム方法設定" />
+	<message msgid="ups alarm sms" msgstr="SMS" />
+	<message msgid="ups alarm net" msgstr="network" />
+	<message msgid="ups alarm mail" msgstr="E-Mail" /> 
+	<message msgid="ups level" msgstr="電圧レベル設定" />
+	<message msgid="ups external" msgstr="外部電源遮断" />
+	<message msgid="ups lowbatt" msgstr="低電圧" />
+	<message msgid="ups badbatt" msgstr="終了電圧" />
+	<message msgid="ups customWarningVoltTitle" msgstr="警告電圧" />
+	<message msgid="ups customWarningVoltDes" msgstr="[V]" />
+	<message msgid="ups sms" msgstr="SMS" />
+	<message msgid="ups phone" msgstr="電話番号" />
+	<message msgid="ups network" msgstr="サーバー設定" /> 
+	<message msgid="ups ext port period" msgstr="発報猶予期間" />
+	<message msgid="ups ext port period sec" msgstr="秒" />
+	<message msgid="ups sever" msgstr="サーバ名／ポート（接続先1）" />
+	<message msgid="ups sever1" msgstr="サーバ名／ポート（接続先2）" />
+	<message msgid="ups enable" msgstr="有効にする" />
+	<message msgid="ups disable" msgstr="無効にする" />   
+	
+	<message msgid="ups mail setup" msgstr="メール設定" />
+	<message msgid="ups mail server" msgstr="サーバー" />
+	<message msgid="ups mail smtp" msgstr="サーバー(SMTP)" />
+	<message msgid="ups mail port" msgstr="ポート" />
+	<message msgid="ups mail secu" msgstr="セキュリティー設定" />
+	<message msgid="ups mail auth" msgstr="認証" />
+	<message msgid="ups mail auth_u" msgstr="認証を行う" />
+	<message msgid="ups mail login" msgstr="アカウント" />
+	<message msgid="ups mail pw" msgstr="パスワード" />
+	<message msgid="ups mail sender" msgstr="差出人" />
+	<message msgid="ups mail sendn" msgstr="名前" />
+	<message msgid="ups mail sendm" msgstr="アドレス" />
+	<message msgid="ups mail receiver" msgstr="宛先" />
+	<message msgid="ups mail receiver1" msgstr="宛先1" />
+	<message msgid="ups mail receiver2" msgstr="宛先2" />
+	<message msgid="ups mail receiver3" msgstr="宛先3" />
+	<message msgid="ups mail receiver4" msgstr="宛先4" />
+	<message msgid="ups mail msg" msgstr="メッセージ" />
+	<message msgid="ups mail module" msgstr="モジュール名" />
+	<message msgid="ups mail sub_bat" msgstr="件名（電池）" />
+	<message msgid="ups mail sub_off" msgstr="件名（停電）" />
+	<message msgid="ups mail sub_on" msgstr="件名（複電）" />
+	<message msgid="ups mail context" msgstr="本文" />
+	<message msgid="ups mail release" msgstr="再送信" />
+	<message msgid="ups mail send_r" msgstr="リトライ回数" />
+	<message msgid="ups mail send_i" msgstr="リトライ間隔" />
+	<message msgid="ups mail log" msgstr="ログ" />
+	<message msgid="ups mail view log" msgstr="ログ確認" />
+	<message msgid="ups mail clear log" msgstr="削除" />
+	<message msgid="ups mail minute" msgstr="分" />
+	
+	<message msgid="ups log title" msgstr="UPSメールログ" />
+	<message msgid="ups log intro" msgstr="UPSログが確認できます。" />
+	<message msgid="ups log log" msgstr="UPSログ" />
+	<message msgid="ups log no" msgstr="NO." />
+	<message msgid="ups log date" msgstr="時間" />
+	<message msgid="ups log status" msgstr="ステータス" />
+	<message msgid="ups log mail" msgstr="メール送信" />   
+	
+	<!-- about port -->
+	<message msgid="port log title" msgstr="ポート メールログ"  />
+	<message msgid="port log intro" msgstr="ポート ログが確認できます。"  />
+	<message msgid="port log log" msgstr="ポート ログ" />
+	<message msgid="port log no" msgstr="No." />
+	<message msgid="port log date" msgstr="時間" />
+	<message msgid="port log status" msgstr="ステータス" />
+	<message msgid="port log mail" msgstr="メール送信" />
+	<message msgid="port mail clear log" msgstr="削除" />
+	
+	<message msgid="port detect Title" msgstr="ポート 監視 規則設定" />
+	<message msgid="port detect Introduction" msgstr="ポート 挿入/削除時の警告アラームを設定します." />
+	<message msgid="port port" msgstr="ポート 監視 設定" />
+	<message msgid="portdetect mode" msgstr="アラーム設定" />
+	<message msgid="port disable" msgstr="無効にする" />
+	<message msgid="port enable" msgstr="有効にする" />
+	<message msgid="port level" msgstr="電圧レベル設定" />
+	<message msgid="port detectl1" msgstr="接点1" />
+	<message msgid="port detectl2" msgstr="接点2" />
+	<message msgid="port detectl3" msgstr="接点3" />
+	<message msgid="detect mail setup" msgstr="メール設定" />
+	<message msgid="port mail server" msgstr="サーバー" />
+	<message msgid="port mail smtp" msgstr="サーバー(SMTP)" />
+	<message msgid="port mail port" msgstr="ポート" />
+	<message msgid="port mail secu" msgstr="セキュリティー設定" />
+	<message msgid="port mail auth" msgstr="認証" />
+	<message msgid="port mail auth_u" msgstr="使用認証" />
+	<message msgid="port mail login" msgstr="アカウント" />
+	<message msgid="port mail pw" msgstr="パスワード" />
+	<message msgid="port mail sender" msgstr="差出人" />
+	<message msgid="port mail sendn" msgstr="名前" />
+	<message msgid="port mail sendm" msgstr="アドレス" />
+	<message msgid="port mail receiver" msgstr="宛先" />
+	<message msgid="port mail receiver1" msgstr="宛先1" />
+	<message msgid="port mail receiver2" msgstr="宛先2" />
+	<message msgid="port mail receiver3" msgstr="宛先3" />
+	<message msgid="port mail receiver4" msgstr="宛先4" />
+	<message msgid="port mail msg" msgstr="メッセージ" />
+	<message msgid="port mail module" msgstr="モジュール名" />
+	<message msgid="port mail subject" msgstr="件名(エラー)" />
+	<message msgid="port mail subject2" msgstr="件名(復帰)" />
+	<!-- <message msgid="port mail subject3" msgstr="件名(TIOCM_DSR)" /> -->
+	<message msgid="port mail context" msgstr="本文" />
+	<message msgid="port mail subject we" msgstr="接点1(エラー)" />
+	<message msgid="port mail subject wr" msgstr="接点1(復帰)" />
+	<message msgid="port mail subject fe" msgstr="接点2(エラー)" />
+	<message msgid="port mail subject fr" msgstr="接点2(復帰)" />
+	<message msgid="port mail subject ce" msgstr="接点3(エラー)" />
+	<message msgid="port mail subject cr" msgstr="接点3(復帰)" />  
+	<message msgid="port mail release" msgstr="再送信" />
+	<message msgid="port mail send_r" msgstr="リトライ回数" />
+	<message msgid="port mail send_i" msgstr="リトライ間隔" />
+	<message msgid="port mail minute" msgstr="分" />
+	<message msgid="port mail log" msgstr="ログ" />
+	<message msgid="port mail view log" msgstr="ログ確認" />
+	<message msgid="service nms title" msgstr="NMS" />
+	<message msgid="service nms introduction" msgstr="NMS（Network Management System）によるレポート、および遠隔制御の設定を行います。" />
+	<message msgid="service nms report setup" msgstr="NMSレポート設定" />
+	<message msgid="service nms report enable" msgstr="NMSレポート" />
+	<message msgid="service nms report time" msgstr="レポート周期(分)" />
+	<message msgid="service nms report server" msgstr="サーバー名" />
+	<message msgid="service nms report port" msgstr="ポート" />
+	<message msgid="service nms remote setup" msgstr="NMS制御設定" />
+	<message msgid="service nms remote control" msgstr="NMS制御" />
+	<message msgid="service nms server method" msgstr="サーバ動作方式" />
+	<message msgid="service nms remote input port" msgstr="入力ポート" />
+	<message msgid="service nms remote user" msgstr="セキュリティコード(8桁)" />
+	<message msgid="service power_controller title" msgstr="外部電源装置" />
+	<message msgid="service power_controller introduction" msgstr="外部デバイスの電源を管理します。" />
+	<message msgid="service power_controller statussetup" msgstr="電源管理の設定" />
+	<message msgid="service power_controller currentstatus" msgstr="状態 " />
+	<message msgid="service power_controller execute" msgstr="コマンド実行" />
+	<message msgid="service power_controller deviceSetup" msgstr="デバイスパス" />
+	<message msgid="service power_controller workSetup" msgstr="実行" />
+	<message msgid="jquery msg invalid input" msgstr="ハイライトされた値を確認してください。" />
+	<message msgid="service rmtMethod1" msgstr="ネットワーク 動作方式" />
+	
+	<message msgid="service emg title" msgstr="緊急地震速報" />
+	<message msgid="service emg introduction" msgstr="緊急地震速報機能の設定を行います。" />
+	<message msgid="service emg cap notifier setup" msgstr="緊急地震速報" />
+	<message msgid="service emg notifier enable" msgstr="緊急地震速報機能" />
+	<message msgid="service emg notifier count" msgstr="送信回数" />
+	<message msgid="service emg notifier cnt 1" msgstr="1回" />
+	<message msgid="service emg notifier cnt 2" msgstr="2回" />
+	<message msgid="service emg notifier cnt 3" msgstr="3回" />
+	<message msgid="service emg notifier interval" msgstr="送信間隔" />
+	<message msgid="service emg notifier code" msgstr="識別コード(16進数16桁)" />
+	<message msgid="service emg cap notifier add setup" msgstr="緊急地震速報通知先追加" />
+	<message msgid="service emg notifier interface" msgstr="インターフェース" />
+	<message msgid="service emg notifier ip" msgstr="宛先IPアドレス" />
+	<message msgid="service emg notifier port" msgstr="宛先ポート" />
+	<message msgid="service emg notifier comment" msgstr="コメント" />
+	<message msgid="service emg notifier rules cnt" msgstr="（最大レコード数 : 3）" />
+	<message msgid="service emg cap send target" msgstr="緊急地震速報通知先リスト" />
+	<message msgid="service emg notifier target no" msgstr="No." />
+	<message msgid="service emg notifier target interface" msgstr="インターフェース" />
+	<message msgid="service emg notifier target address" msgstr="宛先IPアドレス" />
+	<message msgid="service emg notifier target port" msgstr="ポート" />
+	<message msgid="service emg notifier target comment" msgstr="コメント" />
+	<message msgid="service emg notifier target to" msgstr="接続先" />
+	<message msgid="service delete rules" msgstr="削除" />
+	<message msgid="service cancel rules" msgstr="キャンセル" />
+	<message msgid="service select rule to be delete" msgstr="ルールを選択して削除するために。" />
+	<message msgid="service emg rule number exceeded" msgstr="ルール数を超えている。 " />
+	<message msgid="service modbus title" msgstr="Modbus機能" />
+	<message msgid="service modbus subtitle" msgstr="Modbus通信機能に関する設定を行います。" />
+	<message msgid="service modbus setup caption" msgstr="Modbusゲートウェイ機能" />
+	<message msgid="service modbus mode title" msgstr="自動起動" />
+	<message msgid="service modbus mode bridge" msgstr="自動起動する" />
+	<message msgid="service modbus mode disable" msgstr="自動起動しない" />
+	<message msgid="service modbus timeout" msgstr="受信タイムアウト時間" />
+	<message msgid="service modbus port" msgstr="Modbus-TCP受付ポート" />
+	<message msgid="service modbus boadrate" msgstr="Modbus-RTU通信速度" />
+	<message msgid="service modbus data" msgstr="Modbus-RTUパリティ" />
+	<message msgid="service modbus parity" msgstr="Modbus-RTUデータビット" />
+	<message msgid="service modbus stop" msgstr="Modbus-RTUストップビット" />
+	<message msgid="service modbus flow" msgstr="Modbus-RTUフロー制御" />
+	
+	<message msgid="gps function title" msgstr="GPS 機能" />
+	<message msgid="gps function introduction" msgstr="位置情報を計測・送信する機能に関する設定を行います。" />
+	<message msgid="gps function" msgstr="GPS 機能" />
+	<message msgid="gps function" msgstr="GPS 機能" />
+	<message msgid="gps function disable" msgstr="無効にする" />
+	<message msgid="gps function enable" msgstr="有効にする" />
+	<message msgid="gps info form" msgstr="GPS情報の書式" />
+	<message msgid="gps info form klw" msgstr="CPRN-KLW標準" />
+	<message msgid="gps info form nmea" msgstr="NMEA方式" />
+	<message msgid="gps measuring cycle" msgstr="計測周期" />
+	<message msgid="gps lan output mode caption" msgstr="出力モード (LAN)" />
+	<message msgid="gps wan output mode caption" msgstr="出力モード (WAN)" />
+	<message msgid="gps lan output mode" msgstr="出力モード" />
+	<message msgid="gps lan output disable" msgstr="出力しない" />
+	<message msgid="gps tcp client" msgstr="TCPクライアント" />
+	<message msgid="gps tcp server" msgstr="TCPサーバ" />
+	<message msgid="gps udp" msgstr="UDP" />
+	<message msgid="gps cut expectation" msgstr="TCP切断待ち時間" />
+	<message msgid="gps wating time" msgstr="GPS情報消去待ち時間" />
+	<message msgid="gps interface" msgstr="インターフェース" />
+	<message msgid="gps object ip" msgstr="宛先IPアドレス" />
+	<message msgid="gps object ip or host" msgstr="宛先IPアドレス/ホスト名" />
+	<message msgid="gps object port" msgstr="宛先ポート" />
+	<message msgid="gps object receipt port" msgstr="受付ポート" />
+	<message msgid="gps set seconds" msgstr="秒" />	
+	<message msgid="gps type" msgstr="測位方式" />
+	<message msgid="gps datum" msgstr="測地系" />
+	<message msgid="gps position unit" msgstr="緯度・経度の書式" />
+	<message msgid="gps ppp auth id" msgstr="PPP認証ID" />
+	<message msgid="gps ppp password" msgstr="PPPパスワード" />	
+	<message msgid="gps degree" msgstr="実数 (単位：度)" />
+	<message msgid="gps dms" msgstr="度・分・秒" />
+	<message msgid="gps password text" msgstr="テキスト" />
+	<message msgid="gps password binary" msgstr="バイナリ" />	
+</po>
+

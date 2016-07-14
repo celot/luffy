@@ -1,0 +1,185 @@
+<po>
+	<message msgid="firewall disable" msgstr="Disable" />
+	<message msgid="firewall enable" msgstr="Enable" />
+	<message msgid="firewall apply" msgstr="Apply" />
+	<message msgid="firewall reset" msgstr="Reset" />
+	<message msgid="firewall cancel" msgstr="Cancel" />
+	<message msgid="firewall del select" msgstr="Delete" />
+	<message msgid="firewall no" msgstr=" No." />
+	<message msgid="firewall protocol" msgstr="Protocol" />
+	<message msgid="firewall comment" msgstr="Comment" />
+	<message msgid="firewall default drop" msgstr="Others would be dropped" />
+	<message msgid="firewall default accept" msgstr="Others would be accepted" />
+	<message msgid="firewall max rule" msgstr="The maximum rule : " />
+	<message msgid="port title" msgstr="MAC/IP/Port Filtering Settings " />
+	<message msgid="port introduction" msgstr=" You may setup firewall rules to protect your network from virus,worm and malicious activity on the Internet." />
+	<message msgid="port basic setting" msgstr="Basic Settings" />
+	<message msgid="port basic filter" msgstr="MAC/IP/Port Filtering" />
+	<message msgid="port basic default policy" msgstr="Default Policy -- The packet that don't match with any rules would be:" />
+	<message msgid="port basic default policy accepted" msgstr="Accepted." />
+	<message msgid="port basic default policy dropped" msgstr="Dropped." />
+	<message msgid="port filter setting" msgstr="MAC/IP/Port Filter Settings" />  
+	<message msgid="port filter macaddr" msgstr="Source MAC address" />
+	<message msgid="port filter ipaddr" msgstr="Source IP address" />
+	<message msgid="port filter destipaddr" msgstr="Dest IP address" />
+	
+	<message msgid="port forward interface" msgstr="Interface" />
+	<message msgid="port filter interface" msgstr="Interface" />
+	<message msgid="port filter wwan1" msgstr="WWAN(Domain. 1)/WAN" />
+	<message msgid="port filter wwan2" msgstr="WWAN(Domain. 2)" />
+	<message msgid="port forward snat" msgstr="Policy-based NAT" />  
+	<message msgid="port snat enable" msgstr="Policy-based NAT" />
+	<message msgid="port snat public ip addr" msgstr="Public IP address" />
+	<message msgid="port snat private ip addr" msgstr="Private IP address" />
+	<message msgid="port snat comment" msgstr="Comment" />
+	<message msgid="port snat delete" msgstr="Policy-based NAT list" />  
+	<message msgid="snat delete interface" msgstr="Interface" />
+	<message msgid="snat delete public address" msgstr="Public IP address" />
+	<message msgid="snat delete private address" msgstr="Private IP address" />
+	<message msgid="snat delete comment" msgstr="Comment" />  
+	<message msgid="port dnat" msgstr="Dynamic NAT" />
+	<message msgid="port dnat enable" msgstr="Dynamic NAT" />  
+	<message msgid="port filter source ipaddr" msgstr="Source IP Address" />
+	<message msgid="port filter port range" msgstr="Port Range" />
+	<message msgid="port filter dest ipaddr" msgstr="Dest IP Address" />
+	<message msgid="port filter action" msgstr="Action" />
+	<message msgid="port filter action drop" msgstr="Drop" />
+	<message msgid="port filter action accept" msgstr="Accept" />
+	<message msgid="port current filter" msgstr="Current MAC/IP/Port filtering rules in system: " />
+	<message msgid="port filter source port range" msgstr="Source Port Range" />
+	<message msgid="port filter dest port range" msgstr="Dest Port Range" />
+	<message msgid="port filter packetcount" msgstr="Pkt Cnt" />
+	<message msgid="forward title" msgstr="NAT/NAPT Settings " />
+	<message msgid="forward introduction" msgstr="You may setup Port Forwarding to provide services on Internet." />
+	<message msgid="forward virtual server" msgstr="Port Forwarding" />
+	<message msgid="forward virtual server setting" msgstr="Port Forwarding" />
+	<message msgid="forward virtual server ipaddr" msgstr="IP Address" />
+	<message msgid="forward virtual server port range" msgstr="Port Range" />
+	<message msgid="forward virtual server public port" msgstr="Public Port" />
+	<message msgid="forward virtual server private port" msgstr="Private Port" />
+	<message msgid="forward single port virtual server" msgstr="Virtual Server" />
+	<message msgid="forward single port virtual server setting" msgstr="Virtual Server" />
+	<message msgid="forward current virtual server" msgstr="Current Port Forwarding in system: " />
+	<message msgid="forward current single port virtual server" msgstr="Current Virtual Servers in system: " />	
+	<message msgid="forward rc corn disable" msgstr="Disable" />
+	<message msgid="forward rc corn enable" msgstr="Enable" />	
+	<message msgid="forward public ip this is not list" msgstr="Public IP address that is not in the list" />
+	<message msgid="forward rc corn not trans" msgstr="Don't transfer" />
+	<message msgid="forward rc corn wwan1" msgstr="WWAN(Domain. 1)/WAN" />
+	<message msgid="forward rc corn wwan2" msgstr="WWAN(Domain. 2)" />
+	<message msgid="forward rc corn interface" msgstr="Interface" />
+	<message msgid="forward rc corn public ip range" msgstr="Public IP address range" />
+	<message msgid="forward rc corn comment" msgstr="Comment" />
+	<message msgid="forward rc corn public ip target" msgstr="Public IP target" />
+	<message msgid="forward rc corn public ip addr" msgstr="Public IP Address" />
+	<message msgid="forward rc corn nat delete" msgstr="Port restricted corn NAT Target List" />
+	<message msgid="virtual title" msgstr="Virtual Server Settings " />
+	<message msgid="virtual introduction" msgstr="You may setup Virtual Servers to provide services on Internet." />
+	<message msgid="dmz title" msgstr=" DMZ Settings " />
+	<message msgid="dmz introduction" msgstr=" You may setup a De-militarized Zone(DMZ) to separate internal network and Internet." />
+	<message msgid="dmz setting" msgstr="DMZ Settings" />
+	<message msgid="dmz ipaddr" msgstr="DMZ IP Address" />
+	<message msgid="dmz macaddr" msgstr="DMZ MAC Address" />
+	<message msgid="dmz tcpport80" msgstr="Except Management port" />
+	<message msgid="content filter title" msgstr="Content Filter Settings" />
+	<message msgid="content filter introduction" msgstr="You can setup Content Filter to restrict the improper content access." />
+	<message msgid="content filter webs content filter" msgstr="Webs Content Filter" />
+	<message msgid="content filter webs content filter filter" msgstr="Filters: WWAN (Domain 1)" />
+	<message msgid="content filter webs content filter filter_d2" msgstr="Filters: WWAN (Domain 2)" />
+	<message msgid="content filter webs content filter apply" msgstr="Apply" />
+	<message msgid="content filter webs content filter reset" msgstr="Reset" />
+	<message msgid="content filter webs URL filter title" msgstr="Webs URL Filter Settings" />
+	<message msgid="content filter webs url filter current" msgstr="Current Webs URL Filters:" />
+	<message msgid="content filter webs url fitler No" msgstr="No" />
+	<message msgid="content filter webs url fitler url" msgstr="URL" />
+	<message msgid="content filter webs url fitler del" msgstr="Delete" />
+	<message msgid="content filter webs url fitler reset" msgstr="Reset" />
+	<message msgid="content filter webs url fitler add title" msgstr="Add a URL filter:" />
+	<message msgid="content filter webs url fitler add" msgstr="Add" />
+	<message msgid="content filter webs url fitler reset" msgstr="Reset" />
+	<message msgid="content filter webs host fitler title" msgstr="Webs Host Filter Settings" />
+	<message msgid="content filter webs host fitler current" msgstr="Current Website Host Filters:" />
+	<message msgid="content filter webs host fitler no" msgstr="No" />
+	<message msgid="content filter webs host fitler host" msgstr="Host(Keyword)" />
+	<message msgid="content filter webs host fitler del" msgstr="Delete" />
+	<message msgid="content filter webs host fitler reset" msgstr="Reset" />
+	<message msgid="content filter webs host fitler add title" msgstr="Add a Host(keyword) Filter:" />
+	<message msgid="content filter webs host fitler keyword" msgstr="Keyword" />
+	<message msgid="content filter webs host fitler add" msgstr="Add" />
+	<message msgid="content filter webs host fitler reset" msgstr="Reset" />
+	<message msgid="sysfw title" msgstr="System Security Settings" />
+	<message msgid="sysfw introduction" msgstr="You may configure the system firewall to protect AP/Router itself from attacking." />
+	<message msgid="sysfw remote management title" msgstr="Firewall settings (WWAN (Domain 1))" />
+	<message msgid="sysfw remote management title_d2" msgstr="Firewall settings (WWAN (Domain 2))" />
+	<message msgid="sysfw remote management head" msgstr="Remote management (via WAN)" />
+	<message msgid="sysfw allow" msgstr="Allow" />
+	<message msgid="sysfw deny" msgstr="Deny" />
+	<message msgid="sysfw wanping title" msgstr="Ping form WAN Filter" />
+	<message msgid="sysfw wanping head" msgstr="Ping form WAN Filter" />
+	<message msgid="sysfw spi title" msgstr="Stateful Packet Inspection (SPI)" />
+	<message msgid="sysfw spi head" msgstr="SPI Firewall" />
+	<message msgid="sysfw bps title" msgstr="Block Port Scan" />
+	<message msgid="sysfw bps head" msgstr="Block port scan" />
+	<message msgid="sysfw bsf title" msgstr="Block SYN Flood" />
+	<message msgid="sysfw bsf head" msgstr="Block SYN Flood" />
+	<message msgid="sysfw apply" msgstr="Apply" />
+	<message msgid="sysfw reset" msgstr="Reset" />
+	<message msgid="secuwiz title" msgstr="SecuWiz Vpn" />
+	<message msgid="secuwiz intro" msgstr="SecuWiz VPN Configuration" />
+	<message msgid="secuwiz vpn" msgstr="VPN Mode" />
+	<message msgid="secuwiz mode" msgstr="VPN Mode" />
+	<message msgid="secuwiz vpnsetup" msgstr="VPN Setup" />
+	<message msgid="secuwiz id" msgstr="User ID" />
+	<message msgid="secuwiz pw" msgstr="User PW" />
+	<message msgid="secuwiz ip" msgstr="VPN IP" />
+	<message msgid="secuwiz port" msgstr="User Port" />
+	<message msgid="secuwiz crypto" msgstr="Crypto" />
+	<message msgid="secuwiz yes" msgstr="Yes" />
+	<message msgid="secuwiz no" msgstr="No" />
+	<message msgid="secuwiz logsize" msgstr="Log Size" />
+	<message msgid="secuwiz ver3" msgstr="Version 3" />
+	<message msgid="secuwiz sts" msgstr="Site-To-Site" />
+	<message msgid="secuwiz enable" msgstr="Enable" />
+	<message msgid="secuwiz disable" msgstr="Disable" />
+    <message msgid="vpn clear log" msgstr="Clear" />
+	<message msgid="vpn view log" msgstr="View Log" />
+	<message msgid="vpn log title" msgstr="VPN Log" />
+	<message msgid="vpn log intro" msgstr="Show VPN Logs" />
+	<message msgid="vpn log log" msgstr="VPN Log" />
+	<message msgid="vpn log no" msgstr="No." />
+	<message msgid="vpn log date" msgstr="Date" />
+	<message msgid="vpn log status" msgstr="Status" />
+	
+	<!-- alert message -->
+	<message msgid="alert rule number exceeded" msgstr="The rule number is exceeded. " />
+	<message msgid="alert input any mac value" msgstr="Please input any mac value." />
+	<message msgid="alert input ip mac or dest ip" msgstr="Please input source IP/MAC  or destination IP address." />
+	<message msgid="alert mac address format error" msgstr="Source Mac address format error." />
+	<message msgid="alert input mac address" msgstr="Please input Mac address" />
+	<message msgid="alert ip address format error" msgstr="A Source IP address format error" />
+	<message msgid="alert port number source port" msgstr="Invalid port number: source port." />
+	<message msgid="alert invalid source port number" msgstr="A Invalid source port number" />
+	<message msgid="alert invalid source port range" msgstr="A Invalid source port range setting" />
+	<message msgid="alert invalid port num dest port" msgstr="Invalid port number: dest port" />
+	<message msgid="alert dest port number" msgstr="Invalid dest port number" />
+	<message msgid="alert dest port range" msgstr="Invalid dest port range setting" />
+	<message msgid="alert action would be same policy" msgstr="The action of this rule would be the same with default policy." />
+	<message msgid="alert error ip address empty" msgstr="Error. IP address is empty." />
+	<message msgid="alert should be number" msgstr="It should be a [0-9] number." />
+	<message msgid="alert ip format error" msgstr="IP format error." />
+	<message msgid="alert input ip or port value" msgstr="Please input any IP or/and port value" />
+	<message msgid="alert not set ip address" msgstr="Not set a ip address." />
+	<message msgid="alert ip address format error2" msgstr="The IP address format error." />
+	<message msgid="alert invalid ip address" msgstr="Invalid ip address." />
+	<message msgid="alert not set port" msgstr="Not set a port range." />
+	<message msgid="alert invalid port number" msgstr="Invalid port number." />
+	<message msgid="alert not set public port" msgstr="Not set a public port." />
+	<message msgid="alert assign an address" msgstr="Please assign an address" />
+	<message msgid="alert mac address format error" msgstr="The MAC address format error" />
+	<message msgid="alert select rule to be delete" msgstr="Please select the rule to be deleted." />
+	<message msgid="alert enter a url filter" msgstr="Please enter a URL filter." />
+	<message msgid="alert enter a host filter" msgstr="Please enter a host filter." />
+	<message msgid="alert give up xmlhttp instance" msgstr="Giving up :( Cannot create an XMLHTTP instance)" />
+	<message msgid="alert problem with the request" msgstr="There was a problem with the request." />
+	<message msgid="alert can not add" msgstr="You can not add any more." />
+</po>

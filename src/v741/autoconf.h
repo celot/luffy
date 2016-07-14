@@ -1,0 +1,64 @@
+/*
+ * Automatically generated C config: don't edit
+ */
+#define AUTOCONF_INCLUDED
+#define CONFIG_JP_DEALER_HITACHI 1
+
+/*
+ * Select Model
+ */
+#undef  CONFIG_CPRN_KLW
+#undef  CONFIG_CPRW_KLW
+#define CONFIG_CPRN_NLW 1
+#undef  CONFIG_CPRW_NLW
+#undef  CONFIG_CPRN_NLW2
+#undef  CONFIG_CPRW_NLW2
+#define CONFIG_MODEM_PANTECH 1
+
+/*
+ * Select Service
+ */
+#define CONFIG_SERVICE_GPS 1
+#define CONFIG_SERVICE_MODBUS 1
+#define CONFIG_SERVICE_FAILSAFE 1
+#define CONFIG_SERVICE_APN_DWL 1
+#define CONFIG_SERVICE_WIFI_HOTSPOT 1
+
+/*
+ *     Auth
+ */
+#undef  CONFIG_SERVICE_WIFI_HOTSPOT_LOCAL
+
+/*
+ * Additional Features
+ */
+#undef  CONFIG_USE_REMOTE_SYSLOG
+
+/*
+ * Select the Product you wish to target
+ */
+#undef  CONFIG_DEFAULTS_RALINK_RT2880
+#undef  CONFIG_DEFAULTS_RALINK_RT3052
+#define CONFIG_DEFAULTS_RALINK_RT3352 1
+#undef  CONFIG_DEFAULTS_RALINK_RT3883
+#undef  CONFIG_DEFAULTS_RALINK_RT5350
+#undef  CONFIG_DEFAULTS_RALINK_RT6855A
+#define CONFIG_DEFSETTING_2M16M 1
+#undef  CONFIG_DEFSETTING_4M32M
+
+/*
+ * Kernel/Library/Defaults Selection
+ */
+#define CONFIG_DEFAULTS_KERNEL_2_6_21 1
+#define CONFIG_CROSS_COMPILER_PATH "/opt/buildroot-gcc342/bin"
+
+/*
+ *  
+ */
+#undef  CONFIG_DEFAULTS_OVERRIDE
+#define CONFIG_DEFAULTS_KERNEL 1
+#undef  CONFIG_DEFAULTS_VENDOR
+#define CONFIG_DEFAULTS_BUSYBOX 1
+#define CONFIG_DEFAULTS_UCLIBC 1
+#define CONFIG_DEFAULTS_UCLIBC_PLUS_PLUS 1
+#undef  CONFIG_DEFAULTS_VENDOR_UPDATE

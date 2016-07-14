@@ -1,0 +1,217 @@
+﻿<po>
+   <message msgid="wireless apply" msgstr="適用" />
+   <message msgid="wireless cancel" msgstr="キャンセル" />
+   <message msgid="wireless close" msgstr="クローズ" />
+   <message msgid="wireless enable" msgstr="有効にする" />
+   <message msgid="wireless disable" msgstr="無効にする" />
+   <message msgid="wireless allow" msgstr="ホワイトリスト" />
+   <message msgid="wireless reject" msgstr="ブラックリスト" />
+   <message msgid="wireless auto" msgstr="自動" />
+   <message msgid="wireless long" msgstr="長く" />
+   <message msgid="wireless on" msgstr="オン" />
+   <message msgid="wireless off" msgstr="オフ" />
+   <message msgid="wireless none" msgstr="無し" />
+   <message msgid="basic title" msgstr="無線基本設定" />
+   <message msgid="basic introduction" msgstr="無線LAN機能の基本設定を行います。" />
+   <message msgid="basic wireless network" msgstr="無線ネットワーク" />
+   <message msgid="basic radio button" msgstr="Radio オン/オフ" />
+   <message msgid="basic wifi button" msgstr="無線LAN オン/オフ" />
+   <message msgid="basic network mode" msgstr="無線LANネットワークモード" />
+   <message msgid="basic ssid" msgstr="SSID名" />
+   <message msgid="basic multiple ssid" msgstr="マルチSSID" />
+   <message msgid="basic hssid" msgstr="隠す" />
+   <message msgid="basic isolated" msgstr="Isolated" />
+   <message msgid="basic broadcast ssid" msgstr="ネットワーク名(SSID)" />
+   <message msgid="basic apisolated" msgstr="AP Isolation" />
+   <message msgid="basic mbssidapisolated" msgstr="MBSSID AP Isolation" />
+   <message msgid="basic bssid" msgstr="BSSID" />
+   <message msgid="basic frequency" msgstr="チャンネル" />
+   <message msgid="basic frequency auto" msgstr="自動設定" />
+   <message msgid="basic rate" msgstr="比率" />
+   <message msgid="basic ht phy mode" msgstr="HT Physicalモード" />
+   <message msgid="basic ht op mode" msgstr="動作モード" />
+   <message msgid="basic ht op mixed" msgstr="Mixedモード" />
+   <message msgid="basic ht channel bandwidth" msgstr="チャンネルBandWidth" />
+   <message msgid="basic ht guard interval" msgstr="Guard Interval" />
+   <message msgid="basic ht rdg" msgstr="Reverse Direction Grant(RDG)" />
+   <message msgid="basic ht extension channel" msgstr="Extension Channel" />
+   <message msgid="basic ht stbc" msgstr="Space Time Block Coding(STBC)" />
+   <message msgid="basic ht amsdu" msgstr="Aggregation MSDU(A-MSDU)" />
+   <message msgid="basic ht addba" msgstr="Auto Block ACK" />
+   <message msgid="basic ht delba" msgstr="Decline BA Request" />
+   <message msgid="basic other" msgstr="その他" />
+   <message msgid="basic ht txstream" msgstr="HT TxStream" />
+   <message msgid="basic ht rxstream" msgstr="HT RxStream" />
+   <message msgid="basic wifi status" msgstr="現状 :" />
+   <message msgid="basic wifi on" msgstr="オン" />
+   <message msgid="basic wifi off" msgstr="オフ" />
+   <message msgid="basic btn WiFi ON" msgstr="無線LANオン" />
+   <message msgid="basic btn WiFi OFF" msgstr="無線LANオフ" />
+     
+   <message msgid="adv title" msgstr="無線拡張設定" />
+   <message msgid="adv introduction" msgstr="無線情報の詳細設定ができます。" />
+   <message msgid="adv wireless" msgstr="高級無線設定" />
+   <message msgid="adv bgpro" msgstr="BGプロテクトモード" />
+   <message msgid="adv beacon interval" msgstr="Beacon Interval" />
+   <message msgid="adv beacon interval range" msgstr="(range 20 - 999, default 100)" />
+   <message msgid="adv dtim" msgstr="Data Beacon Rate (DTIM)" />
+   <message msgid="adv dtim range" msgstr="(range 1 - 255, default 1)" />
+   <message msgid="adv fragment threshold" msgstr="Fragment Threshold" />
+   <message msgid="adv fragment threshold range" msgstr="(range 256 - 2346, default 2346)" />
+   <message msgid="adv rts threshold" msgstr="RTS Threshold" />
+   <message msgid="adv rts threshold range" msgstr="(range 1 - 2347, default 2347)" />
+   <message msgid="adv tx power" msgstr="TX Power" />
+   <message msgid="adv tx power range" msgstr="(range 1 - 100, default 100)" />
+   <message msgid="adv short preamble" msgstr="Short Preamble" />
+   <message msgid="adv short slot" msgstr="Short Slot" />
+   <message msgid="adv tx burst" msgstr="Tx Burst" />
+   <message msgid="adv pkt aggregate" msgstr="Pkt_Aggregate" />
+   <message msgid="adv auto provision" msgstr="Auto Provision" />
+   <message msgid="adv 80211h" msgstr="IEEE 802.11H Support" />
+   <message msgid="adv 80211h disable describe" msgstr="(only in A band)" />
+   <message msgid="adv rdregion" msgstr="DFS RDRegion" />
+   <message msgid="adv country code" msgstr="国名コード" />
+	 <message msgid="adv country code kr" msgstr="KR (韓國)" />   
+   <message msgid="adv country code us" msgstr="US (アメリカ)" />
+   <message msgid="adv country code jp" msgstr="JP (日本)" />
+   <message msgid="adv country code fr" msgstr="FR (フランス)" />
+   <message msgid="adv country code tw" msgstr="TW (台湾)" />
+   <message msgid="adv country code ie" msgstr="IE (アイルランド)" />
+   <message msgid="adv country code hk" msgstr="HK (ホンコン)" />
+   <message msgid="adv country code pl" msgstr="PL (ポーランド)" />
+   <message msgid="adv carrier" msgstr="Carrier Detect" />
+   <message msgid="adv wmm" msgstr="Wi-Fi Multimedia" />
+   <message msgid="adv wmm capable" msgstr="WMM Capable" />
+   <message msgid="adv apds capable" msgstr="APSD Capable" />
+   <message msgid="adv dls capable" msgstr="DLS Capable" />
+   <message msgid="adv wmm parameter" msgstr="WMM Parameters" />
+   <message msgid="adv wmm configuration" msgstr="WMM Configuration" />
+   <message msgid="adv multicast2unicast converter" msgstr="Multicast-to-Unicast Converter" />
+   <message msgid="adv multicast2unicast" msgstr="Multicast-to-Unicast" />
+   <message msgid="wmm ap parameter" msgstr="WMM Parameters of Access Point" />
+   <message msgid="wmm sta parameter" msgstr="WMM Parameters of Station" />
+   <message msgid="secure select ssid" msgstr="SSID" />
+   <message msgid="secure ssid title" msgstr="無線セキュリティー設定" />
+   <message msgid="secure ssid introduction" msgstr="無線LANの認証、暗号化等のセキュリティーに関する設定を行います。" />
+   <message msgid="secure ssid choice" msgstr="SSID選択" />
+   <message msgid="secure security policy" msgstr="セキュリティーポリシー" />
+   <message msgid="secure security mode" msgstr="セキュリティーモード" />
+   <message msgid="secure encryp type" msgstr="暗号化方式" />
+   <message msgid="secure wep" msgstr="Wire Equivalence Protection (WEP)" />
+   <message msgid="secure wep default key" msgstr="デフォルトキー" />
+   <message msgid="secure wep default key1" msgstr="キー 1" />
+   <message msgid="secure wep default key2" msgstr="キー 2" />
+   <message msgid="secure wep default key3" msgstr="キー 3" />
+   <message msgid="secure wep default key4" msgstr="キー 4" />
+   <message msgid="secure wep key" msgstr="WEPキー" />
+   <message msgid="secure wep key1" msgstr="WEPキー 1 :" />
+   <message msgid="secure wep key2" msgstr="WEPキー 2 :" />
+   <message msgid="secure wep key3" msgstr="WEPキー 3 :" />
+   <message msgid="secure wep key4" msgstr="WEPキー 4 :" />
+   <message msgid="secure wpa" msgstr="WPA" />
+   <message msgid="secure wpa algorithm" msgstr="WPAアルゴリズム" />
+   <message msgid="secure wpa pass phrase" msgstr="パスフレーズ" />
+   <message msgid="secure wpa key renew interval" msgstr="キー 更新 週期" />
+   <message msgid="secure wpa pmk cache period" msgstr="PMKキャッシュ期間" />
+   <message msgid="secure wpa preauth" msgstr="事前認証" />
+   <message msgid="secure 8021x wep" msgstr="802.1x WEP" />
+   <message msgid="secure 1x wep" msgstr="WEP" />
+   <message msgid="secure radius" msgstr="Radius サーバー" />
+   <message msgid="secure radius ipaddr" msgstr="IPアドレス" />
+   <message msgid="secure radius port" msgstr="ポート" />
+   <message msgid="secure radius shared secret" msgstr="共有鍵" />
+   <message msgid="secure radius session timeout" msgstr="セッション タイムアウト" />
+   <message msgid="secure radius idle timeout" msgstr="Idle タイムアウト" />
+   <message msgid="secure access policy" msgstr="アクセスポリシー" />
+   <message msgid="secure access policy capable" msgstr="ポリシー" />
+   <message msgid="secure access policy new" msgstr="ステーション Mac追加" />
+   <message msgid="secure access policy del" msgstr="削除" />
+   <message msgid="secure pass phrase" msgstr="パスフレーズ" />
+   
+   <message msgid="secure minutes" msgstr="分" />
+   <message msgid="secure seconds" msgstr="秒" />
+   
+   <message msgid="wps title" msgstr="WPS(Wi-Fi Protected Setup)" />
+   <message msgid="wps introduction" msgstr="簡単にWIFI設定ができます。" />
+   <message msgid="wps config" msgstr="WPS設定" />
+   <message msgid="wps wps" msgstr="WPS:" />
+   <message msgid="wps summary" msgstr="WPSサマリー" />
+   <message msgid="wps current status" msgstr="WPSステータス:" />
+   <message msgid="wps configured" msgstr="WPS設定:" />
+   <message msgid="wps ssid" msgstr="WPS SSID:" />
+   <message msgid="wps auth mode" msgstr="WPS Auth モード:" />
+   <message msgid="wps encryp type" msgstr="WPS Encrypタイプ:" />
+   <message msgid="wps default key index" msgstr="WPSデフォルトキー番号:" />
+   <message msgid="wps ap pin" msgstr="AP PIN:" />
+   <message msgid="wps reset oob" msgstr="更新OOB" />
+   <message msgid="wps progress" msgstr="WPSプログレス" />
+   <message msgid="wps mode" msgstr="WPSモード" />
+   <message msgid="wps pin mode" msgstr="PIN" />
+   <message msgid="wps pbc mode" msgstr="PBC" />
+   <message msgid="wps pin num" msgstr="PIN" />
+   <message msgid="wps status" msgstr="WPSステータス:" />
+   <message msgid="wireless refresh" msgstr="更新" />		
+   <message msgid="stalist title" msgstr="Stationリスト" />	
+   <message msgid="stalist introduction" msgstr="本製品に接続している無線LAN stationの一覧を表示します。" />	
+   <message msgid="stalist wireless network" msgstr="Stationリスト" />	
+   <message msgid="stalist macaddr" msgstr="MACアドレス" />		
+   <message msgid="stalist connect time" msgstr="接続時間" />		
+   
+   <message msgid="statistic title" msgstr="AP無線ステータス" />	
+   <message msgid="statistic introduction" msgstr="無線ネットワークの送受信データに関するステータスを表示します。" />	
+   <message msgid="statistic tx" msgstr="送信状態" />	
+   <message msgid="statistic rx" msgstr="受信状態" />	
+   <message msgid="statistic reset counter" msgstr="初期化" />
+   <message msgid="statistic read failed" msgstr="情報がありません。" />
+   
+   <message msgid="statistic tx success" msgstr="送信成功回数" />
+   <message msgid="statistic retry cnt" msgstr="送信リトライ発生回数" />
+   <message msgid="statistic fail after cnt" msgstr="送信リトライアウト発生回数" />
+   <message msgid="statistic rts success" msgstr="RTSに対するCTS受信成功回数" />
+   <message msgid="statistic rts fail" msgstr="RTSに対するCTS受信失敗回数" />
+   
+   <message msgid="statistic rx success" msgstr="受信フレーム数 (正常)" />
+   <message msgid="statistic rx fcs" msgstr="受信フレーム数 (CRCエラー)" />
+   
+   <message msgid="apcli opmode" msgstr="動作モード" />
+   <message msgid="apcli title" msgstr="AP クライアント" />
+   <message msgid="apcli introduction" msgstr="他のAPに接続して無線ネットワークを構成するための設定を行います。" />
+   <message msgid="apcli basic setting" msgstr="基本設定" />
+   <message msgid="apcli modea" msgstr="AP クライアント" />
+   <message msgid="apcli ip" msgstr="APクライアントIPアドレス" />
+   <message msgid="apcli params" msgstr="AP クライアント 設定" />
+   <message msgid="apci disconnected" msgstr="接続されていません。" />
+   
+   <message msgid="secure ap list" msgstr="アクセスポリシー リスト" />
+	<message msgid="secure ap no" msgstr="No." />
+	<message msgid="secure ap mac" msgstr="MAC" />
+	<message msgid="Length :" msgstr="文字長 :"/>
+	<message msgid="wireless delete :" msgstr="削除"/>
+	<message msgid="jquery input valid hexacode" msgstr="[0〜9], [a〜f], [A〜F]の間の文字"/>
+	<message msgid="jquery must be 5 or 13" msgstr="文字長 : 5または13"/>
+	<message msgid="jquery must be 10 or 26" msgstr="文字長 : 10または26"/>
+	<message msgid="jquery apcli invalid char" msgstr="不可能 : '、' ';'"/>
+
+	<message msgid="wireless tkip warning message1" msgstr="TKIPは11Nモードでは動作されないように設定されています。" />	
+	<message msgid="wireless tkip warning message2" msgstr="11N率がオフになります" />		
+
+	<message msgid="wireless TKIP" msgstr="HTモードでのTHIP使用を拒否" />
+	<message msgid="wireless band width title" msgstr="チャンネル帯域幅" />	
+	<message msgid="wireless guard interval title" msgstr="ガードインターバル" />	
+	<message msgid="wireless isolation title" msgstr="Station間のアクセスを禁止" />	
+	<message msgid="wireless max station title" msgstr="Station最大接続台数" />	
+	
+	<message msgid="wireless hotspot title" msgstr="ホットスポットの設定" />	
+	<message msgid="wireless hotspot enable" msgstr="使用" />	
+	<message msgid="wireless hotspot out interface" msgstr="インターフェース" />	
+	<message msgid="wireless hotspot radius server 1" msgstr="ラディウスサーバー" />	
+	<message msgid="wireless hotspot radius server 2" msgstr="ラディウスサーバー" />	
+	<message msgid="wireless hotspot radius secret" msgstr="ラディウスサーバー認証番号" />	
+	<message msgid="wireless hotspot uam server" msgstr="接続ページ" />			
+	<message msgid="wireless hotspot uam secret" msgstr="接続ページ認証パスワード" />	
+	<message msgid="wireless hotspot dns 1" msgstr="DNS" />	
+	<message msgid="wireless hotspot dns 2" msgstr="DNS" />	
+	<message msgid="wireless hotspot adv url" msgstr="広告 URL" />	
+	<message msgid="wireless hotspot default url" msgstr="デフォルトのURL" />	
+	<message msgid="wireless hotspot timeout" msgstr="接続保持時間" />		
+</po>

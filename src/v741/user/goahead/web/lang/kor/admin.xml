@@ -1,0 +1,223 @@
+﻿<po>
+	<message msgid="admin disable" msgstr="사용안함" />
+	<message msgid="admin enable" msgstr="사용함" />
+	<message msgid="admin apply" msgstr="적용" />
+	<message msgid="admin cancel" msgstr="취소" />
+	<message msgid="man title" msgstr="환경설정" />
+	<message msgid="man introduction" msgstr="설정메뉴에 접속하기 위한 관리자 계정, 암호를 설정할 수 있습니다. NTP, DDNS 설정을 할 수 있습니다." />
+	<message msgid="man select language" msgstr="언어 선택" />
+	<message msgid="man language" msgstr="언어" />
+	<message msgid="man admin setting" msgstr="관리자 설정" />
+	<message msgid="man admin account" msgstr="아이디" />
+	<message msgid="man admin passwd" msgstr="암호" />
+	<message msgid="man admin watchdog" msgstr="와치도그" />	
+	<message msgid="man admin alert request problem" msgstr="요청에 문제가 있습니다. " />
+	<message msgid="man admin alert specify account" msgstr="관리자 계정을 지정하십시오. " />
+	<message msgid="man admin alert specify password" msgstr="관리자 암호를 지정하십시오. " />
+	<message msgid="man admin alert ntp specify sync" msgstr="동기 간격에 대한 값을 지정하십시오. " />
+	<message msgid="man admin alert ntp invalid sync" msgstr="잘못된 NTP 동기화 값입니다. " />
+	<message msgid="man admin alert ntp too big sync" msgstr="동기화 값이 너무 큽니다. (1 ~ 300)" />
+	<message msgid="man ntp setting" msgstr="NTP 설정" />
+	<message msgid="man ntp timezone" msgstr="표준 시간대" />
+	<message msgid="man ntp mid island" msgstr="(GMT-11:00) Midway Island, Samoa" />
+	<message msgid="man ntp hawaii" msgstr="(GMT-10:00) Hawaii" />
+	<message msgid="man ntp alaska" msgstr="(GMT-09:00) Alaska" />
+	<message msgid="man ntp pacific" msgstr="(GMT-08:00) Pacific Time" />
+	<message msgid="man ntp mountain" msgstr="(GMT-07:00) Mountain Time" />
+	<message msgid="man ntp arizona" msgstr="(GMT-07:00) Arizona" />
+	<message msgid="man ntp central" msgstr="(GMT-06:00) Central Time" />
+	<message msgid="man ntp mid us" msgstr="(GMT-06:00) Middle America" />
+	<message msgid="man ntp indiana east" msgstr="(GMT-05:00) Indiana East, Colombia" />
+	<message msgid="man ntp eastern" msgstr="(GMT-05:00) Eastern Time" />
+	<message msgid="man ntp atlantic" msgstr="(GMT-04:00) Atlantic Time, Brazil West" />
+	<message msgid="man ntp bolivia" msgstr="(GMT-04:00) Bolivia, Venezuela" />
+	<message msgid="man ntp guyana" msgstr="(GMT-03:00) Guyana" />
+	<message msgid="man ntp brazil east" msgstr="(GMT-03:00) Brazil East, Greenland" />
+	<message msgid="man ntp mid atlantic" msgstr="(GMT-02:00) Mid-Atlantic" />
+	<message msgid="man ntp azores islands" msgstr="(GMT-01:00) Azores Islands" />
+	<message msgid="man ntp gambia" msgstr="(GMT) Gambia, Liberia, Morocco" />
+	<message msgid="man ntp england" msgstr="(GMT) England" />
+	<message msgid="man ntp czech republic" msgstr="(GMT+01:00) Czech Republic, N" />
+	<message msgid="man ntp germany" msgstr="(GMT+01:00) Germany" />
+	<message msgid="man ntp poland" msgstr="(GMT+01:00) Poland" />
+	<message msgid="man ntp tunisia" msgstr="(GMT+01:00) Tunisia" />
+	<message msgid="man ntp greece" msgstr="(GMT+02:00) Greece, Ukraine, Turkey" />
+	<message msgid="man ntp south africa" msgstr="(GMT+02:00) South Africa" />
+	<message msgid="man ntp iraq" msgstr="(GMT+03:00) Iraq, Jordan, Kuwait" />
+	<message msgid="man ntp moscow winter" msgstr="(GMT+03:00) Moscow Winter Time" />
+	<message msgid="man ntp armenia" msgstr="(GMT+04:00) Armenia" />
+	<message msgid="man ntp pakistan" msgstr="(GMT+05:00) Pakistan, Russia" />
+	<message msgid="man ntp bangladesh" msgstr="(GMT+06:00) Bangladesh, Russia" />
+	<message msgid="man ntp thailand" msgstr="(GMT+07:00) Thailand, Russia" />
+	<message msgid="man ntp chinacoast" msgstr="(GMT+08:00) China Coast, Hong Kong" />
+	<message msgid="man ntp taipei" msgstr="(GMT+08:00) Taipei" />
+	<message msgid="man ntp singapore" msgstr="(GMT+08:00) Singapore" />
+	<message msgid="man ntp australia wa" msgstr="(GMT+08:00) Australia (WA)" />
+	<message msgid="man ntp japan" msgstr="(GMT+09:00) Japan, Korea" />
+	<message msgid="man ntp korean" msgstr="(GMT+09:00) Korean" />
+	<message msgid="man ntp guam" msgstr="(GMT+10:00) Guam, Russia" />
+	<message msgid="man ntp australia qld" msgstr="(GMT+10:00) Australia (QLD, TAS,NSW,ACT,VIC)" />
+	<message msgid="man ntp solomon islands" msgstr="(GMT+11:00) Solomon Islands" />
+	<message msgid="man ntp fiji" msgstr="(GMT+12:00) Fiji" />
+	<message msgid="man ntp newzealand" msgstr="(GMT+12:00) New Zealand" />
+	<message msgid="man ntp server" msgstr="Time 서버 종류" />
+	<message msgid="man ntp ex" msgstr="ex :" />
+	<message msgid="man ntp sync" msgstr="동기화 간격(시간)" />
+	<message msgid="man ntp current time" msgstr="현재 시간" />
+	<message msgid="man ntp sync with host" msgstr="서버 동기화" />
+	<message msgid="man ddns setting" msgstr="DDNS 설정" />
+	<message msgid="man ddns provider" msgstr="DDNS 서비스" />
+	<message msgid="man ddns none" msgstr="없음" />
+	<message msgid="man ddns account" msgstr="계정" />
+	<message msgid="man ddns passwd" msgstr="암호" />
+	<message msgid="man ddns" msgstr="DDNS" />
+	<message msgid="man custom" msgstr="사용자 지정" />
+	<message msgid="man ddns ddnsServer" msgstr="DDNS 서버" />
+	<message msgid="upload title" msgstr="펌웨어 업그레이드" />
+	<message msgid="upload introduction1" msgstr="펌웨어 업그레이드를 통해 신규 기능을 추가/변경할수 있습니다." />
+	<message msgid="upload introduction2" msgstr="업그레이드 되는 동안 전원을 끄지 마십시요. 약 2분정도의 소요됩니다." />
+	<message msgid="upload firmware" msgstr="펌웨어 업그레이드" />
+	<message msgid="upload firmware location" msgstr="파일 위치:" />
+	<message msgid="upload system" msgstr="사용자 영역 업그레이드" />
+	<message msgid="upload system location" msgstr="파일 위치:" />
+	<message msgid="upload bootloader" msgstr="부트로드 업그레이드" />
+	<message msgid="upload bootloader location" msgstr="파일 위치:" />
+	<message msgid="setman title" msgstr="설정 정보 관리" />
+	<message msgid="setman introduction" msgstr="사용자가 설정한 값을 PC에 파일로 저장 후 복원 할 수 있습니다. 공장 초기화 값으로 초기화 할 수 있습니다." />
+	<message msgid="setman export setting" msgstr="설정 저장" />
+	<message msgid="setman export setting button" msgstr="설정 내보내기" />
+	<message msgid="setman export setting export" msgstr="저장" />
+	<message msgid="setman import setting" msgstr="설정 복원" />
+	<message msgid="setman import setting file location" msgstr="설정 파일 위치:" />
+	<message msgid="setman import setting import" msgstr="복원" />
+	<message msgid="setman load factory default" msgstr="공장 초기화" />
+	<message msgid="setman load factory default button" msgstr="초기화 실행" />
+	<message msgid="setman load default" msgstr="초기화" />
+	<message msgid="setman load default quest" msgstr="공장 초기화 하시겠습니까?" />
+	<message msgid="status title" msgstr="상태 정보" />
+	<message msgid="status introduction" msgstr="라우터의 상태를 확인 할 수 있습니다." />
+	<message msgid="status system information" msgstr="시스템 정보" />
+	<message msgid="status sdk version" msgstr="SDK 버전" />
+	<message msgid="status system up time" msgstr="시스템 시간" />
+	<message msgid="status system platform" msgstr="시스템 플렛폼" />
+	<message msgid="status operate mode" msgstr="동작 모드" />
+	<message msgid="status internet config" msgstr="인터넷 설정" />
+	<message msgid="status connect type" msgstr="연결 방법" />
+	<message msgid="status current wan" msgstr="사용중인 WAN" />
+	<message msgid="status apn" msgstr="APN 설정값" />
+	<message msgid="status wan ipaddr" msgstr="WAN IP 주소" />
+	<message msgid="status mac" msgstr="MAC 주소" />
+	<message msgid="status Plmm Name" msgstr="서비스 사업자" />
+	<message msgid="status Phone number" msgstr="전화 번호" />
+	<message msgid="status subnet mask" msgstr="서브넷 마스크" />
+	<message msgid="status default gateway" msgstr="디폴트 게이트웨이" />
+	<message msgid="status primary dns" msgstr="DNS 서버" />
+	<message msgid="status secondary dns" msgstr="보조 DNS 서버" />
+	<message msgid="status local network" msgstr="내부 네트워크" />
+	<message msgid="status lan ipaddr" msgstr="IP 주소" />
+	<message msgid="status lan ipaddr2" msgstr="LAN IP" />	
+	<message msgid="status local netmask" msgstr="넷마스크" />
+	<message msgid="status wan mode" msgstr="WAN 모드" />
+	<message msgid="statistic title" msgstr="네트워크 데이터 정보" />
+	<message msgid="statistic introduction" msgstr="네트워크 테이타 사용량 정보를 확인 할 수 있습니다." />
+	<message msgid="statistic memory" msgstr="메모리" />
+	<message msgid="statistic memory total" msgstr="전체 크기:" />
+	<message msgid="statistic memory left" msgstr="남은 량:" />
+	<message msgid="statistic wanlan" msgstr="WAN/LAN" />
+	<message msgid="statistic wan rx pkt" msgstr="WAN Rx packets:" />
+	<message msgid="statistic wan rx bytes" msgstr="WAN Rx bytes:" />
+	<message msgid="statistic wan tx pkt" msgstr="WAN Tx packets:" />
+	<message msgid="statistic wan tx bytes" msgstr="WAN Tx bytes:" />
+	<message msgid="statistic lan rx pkt" msgstr="LAN Rx packets:" />
+	<message msgid="statistic lan rx bytes" msgstr="LAN Rx bytes:" />
+	<message msgid="statistic lan tx pkt" msgstr="LAN Tx packets:" />
+	<message msgid="statistic lan tx bytes" msgstr="LAN Tx bytes:" />
+	<message msgid="statistic all interface" msgstr="전체 데이터 정보" />
+	<message msgid="syscommand title" msgstr="특수 명령어" />
+	<message msgid="syscommand introduction" msgstr="Run a system command as root:" />
+	<message msgid="syscommand system command" msgstr="시스템 커멘드" />
+	<message msgid="syscommand command" msgstr="Command:" />
+	<message msgid="syslog title" msgstr="시스템 로그" />
+	<message msgid="syslog introduction" msgstr="로그:" />
+	<message msgid="syslog system log" msgstr="시스템 로그" />
+	<message msgid="syslog clear" msgstr="지우기" />
+	<message msgid="syslog refresh" msgstr="갱신" />	
+	<message msgid="reboot title" msgstr="재부팅 설정" />
+	<message msgid="reboot introduction" msgstr="반복적인 재부팅 설정을 할 수 있습니다." />
+	<message msgid="reboot settings" msgstr="재부팅 설정" />
+	<message msgid="reboot powerreboot" msgstr="재부팅" />
+	<message msgid="reboot rebootNow" msgstr="재부팅" />
+	<message msgid="reboot autoReboot" msgstr="자동 설정" />
+	<message msgid="reboot autoEnable" msgstr="사용함" />
+	<message msgid="reboot autoDisable" msgstr="사용안함" />
+	<message msgid="reboot schedule" msgstr="반복설정" />
+	<message msgid="reboot autoTime" msgstr="시간" />
+	<message msgid="reboot autoDay" msgstr="날짜" />
+	<message msgid="reboot everyDay" msgstr="매일" />
+	<message msgid="reboot Sun" msgstr="일" />
+	<message msgid="reboot Mon" msgstr="월" />
+	<message msgid="reboot Tue" msgstr="화" />
+	<message msgid="reboot Wed" msgstr="수" />
+	<message msgid="reboot Thu" msgstr="목" />
+	<message msgid="reboot Fri" msgstr="금" />
+	<message msgid="reboot Sat" msgstr="토" />
+	<message msgid="reboot log" msgstr="재부팅 로그" />
+	<message msgid="reboot Log list" msgstr="재부팅 로그 리스트" />
+	<message msgid="reboot Log list empty" msgstr="재부팅 로그가 없습니다." />
+	<message msgid="reboot max Log List" msgstr="재부팅 로그리스트 : 30" />
+	
+	<message msgid="ota kddi title" msgstr = "KDDI OTA" />
+	<message msgid="ota title" msgstr="OTA" />
+	<message msgid="ota introduction" msgstr="회선 계약 시작 (OTASP) 및 회선 계약 해제 (OTAPA)를 할 수 있습니다." />	
+	<message msgid="ota statussetup" msgstr="현재 OTA 상태" />
+	<message msgid="ota contactState" msgstr="계약 상태" />
+	<message msgid="ota otastatus" msgstr="처리 상태" />
+	<message msgid="ota otacontractSetup" msgstr="회선 계약 시작 (OTASP)" />
+	<message msgid="ota otacontractotasp" msgstr="회선 계약 시작 (OTASP)" />
+	<message msgid="ota otacontractotasp warning1" msgstr="회선 계약 시작 (OTASP) 과정에서 절대로 전원을 OFF하지 마십시오. " />
+	<message msgid="ota otacontractotasp warning2" msgstr="처리중에 전원을 OFF 한 경우 심각한 장애를 일으킬 수 있습니다. " />
+	<message msgid="ota otacancellationSetup" msgstr="회선 계약 해제 (OTAPA)" />
+	<message msgid="ota otacancellationotapa" msgstr="회선 계약 해제 시작 (OTAPA)" />
+	<message msgid="ota otacancellationotapa warning1" msgstr="회선 계약 해제 시작 (OTAPA) 과정에서 절대로 전원을 OFF하지 마십시오. " />
+	<message msgid="ota otacancellationotapa warning2" msgstr="처리중에 전원을 OFF 한 경우 심각한 장애를 일으킬 수 있습니다. " />
+	<message msgid="ota refresh" msgstr="업데이트" />
+	<message msgid="ota refreshsp" msgstr="OTASP 시작" />
+	<message msgid="ota refreshpa" msgstr="OTAPA 시작" />
+	<message msgid="ota SetOtasp" msgstr="OTASP 처리를 시작하시겠습니까?" />
+	<message msgid="ota SetOtapa" msgstr="OTAPA 처리를 시작하시겠습니까?" />
+	<message msgid="ota currentstatesp" msgstr="OTASP 처리중" />
+	<message msgid="ota currentstatepa" msgstr="OTAPA 처리중" />
+	<message msgid="ota otacontract0" msgstr="계약 확인중" />
+	<message msgid="ota otacontract1" msgstr="미계약" />
+	<message msgid="ota otacontract2" msgstr="계약 시작됨" />
+	<message msgid="ota otacontract3" msgstr="계약 해제 요청됨" />
+	<message msgid="ota OTAsimtypesetup" msgstr="SIM 종류" />
+	<message msgid="ota OTAsimtypesetupth" msgstr="SIM 종류" />
+	<message msgid="ota OTAsimtypeIN" msgstr="내장 SIM" />
+	<message msgid="ota OTAsimtypeEX" msgstr="외부 SIM" />
+	<message msgid="man web port" msgstr="웹 서버 포트" />
+	<message msgid="man cli port" msgstr="CLI 연결 포트" />
+	<message msgid="man alert check server account pw ddns" msgstr="서버, 계정, 비밀번호, DDNS를 입력해주세요." />
+	<message msgid="man alert check account pw ddns" msgstr="계정, 비밀번호, DDNS를 입력해주세요." />
+	<message msgid="alert specify a file" msgstr="파일을 지정하십시오." />
+	<message msgid="alert for engineer only" msgstr="엔지니어 전용입니다. 진행하시겠습니까?" />
+	<message msgid="alert specify a command" msgstr="실행할 명령을 입력해주세요" /> 
+	<message msgid="man ntp sync status" msgstr="동기화 상태" />
+	<message msgid="NTP Sycn Succeed." msgstr="동기화에 성공하였습니다." />
+	<message msgid="NTP Sycn :" msgstr="동기화 시간 :" />
+	<message msgid="NTP NTP Sycn Atempted." msgstr="동기화를 시도하였으나 성공하지 못하였습니다." />
+	<message msgid="NTP SycnA :" msgstr="동기화 시도 시간 :" />
+	<message msgid="NTP Sycn Failed." msgstr="동기화를 하지 못했습니다." />
+	<message msgid="jquery message enter less than or equal to 300" msgstr="300이하의 값을 입력하세요." />
+	
+	<message msgid="alert rule filesize limit 4MB exceeded" msgstr="적용 가능한 최대 파일 사이즈는 4MB 입니다." />
+	<message msgid="alert rule filesize limit 7MB exceeded" msgstr="적용 가능한 최대 파일 사이즈는 7MB 입니다." />
+	<message msgid="alert rule filesize exceeded" msgstr="파일이 없습니다." />
+	
+	<message msgid="dwl title" msgstr="도메인 화이트 리스트" />
+	<message msgid="dwl introduction" msgstr="설정하지 않는 APN에 접속을 차단할 수 있습니다." />
+	<message msgid="dwl fucnc cap" msgstr="도메인 화이트 리스트 기능" />
+	<message msgid="dwl fucnc" msgstr="도메인 화이트 리스트 기능" />
+	<message msgid="dwl rec1" msgstr="레코드 1" />
+	<message msgid="dwl rec2" msgstr="레코드 2" />	
+</po>

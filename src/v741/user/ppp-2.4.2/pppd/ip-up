@@ -1,0 +1,82 @@
+#!/bin/sh
+#       $1      the interface name used by pppd (e.g. ppp3)
+#       $2      the tty device name
+#       $3      the tty device speed
+#       $4      the local IP address for the interface
+#       $5      the remote IP address
+#       $6      the parameter specified by the 'ipparam' option to pppd
+#
+
+echo "ip-up:do_something"
+
+if [ "$2" = "/dev/ttyS0" -o "$2" = "/dev/ttyS1" ]; then
+    exit 0
+fi
+
+exist_address()
+{
+    while read type address
+    do
+        if [ "$address" = "$2" ]; then
+            return 1
+        fi
+    done < $1
+    return  0
+}
+
+aquire_lock()
+{
+    while [ -f "/var/run/resolv.lock" ]
+    do
+        sleep 1
+    done
+    echo "lock : ip-up" > /var/run/resolv.lock
+}
+
+release_lock()
+{
+    [ -f "/var/run/resolv.lock" ] && rm -rf /var/run/resolv.lock
+}
+
+
+RESOLV_CONF="/etc/resolv.conf"
+PPP_RESOLV_CONF="/etc_ro/resolv.conf"
+
+PPP_IFACE=$1
+route add default dev $PPP_IFACE
+
+aquire_lock              
+[ ! -f $RESOLV_CONF ] && echo -n > $RESOLV_CONF
+if [ -f $RESOLV_CONF.wan ]; then
+    while read name addr
+    do
+        exist_address $RESOLV_CONF $addr
+        if [ $? -eq 0 ]; then
+            echo adding $name $addr
+            echo $name $addr >> $RESOLV_CONF
+        fi
+    done < $RESOLV_CONF.wan
+fi
+
+if [ -f $PPP_RESOLV_CONF ]; then
+    while read name addr
+    do
+       exist_address $RESOLV_CONF $addr
+       if [ $? -eq 0 ]; then
+            echo adding $name $addr
+            echo $name $addr >> $RESOLV_CONF
+       fi
+   done < $PPP_RESOLV_CONF
+fi
+release_lock
+              
+# Start the news server
+killall -SIGTSTP goahead
+
+iptables -t nat -D POSTROUTING -o $PPP_IFACE -j MASQUERADE
+iptables -t nat -A POSTROUTING -o $PPP_IFACE -j MASQUERADE
+echo "iptables -t nat -A POSTROUTING -o $1 -j MASQUERADE"
+
+module route refresh
+
+exit 0

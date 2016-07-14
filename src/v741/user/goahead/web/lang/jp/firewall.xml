@@ -1,0 +1,184 @@
+﻿<po>
+	<message msgid="firewall disable" msgstr="無効にする" />
+	<message msgid="firewall enable" msgstr="有効にする" />
+	<message msgid="firewall apply" msgstr="適用" />
+	<message msgid="firewall reset" msgstr="リセット" />
+	<message msgid="firewall cancel" msgstr="キャンセル" />
+  <message msgid="firewall del select" msgstr="削除" />
+	<message msgid="firewall no" msgstr="No." />
+	<message msgid="firewall protocol" msgstr="プロトコル" />
+	<message msgid="firewall comment" msgstr="コメント" />
+	<message msgid="firewall default drop" msgstr="規則に合致するパケットを通過させ、それ以外を遮断します。" />
+	<message msgid="firewall default accept" msgstr="規則に合致するパケットを遮断し、それ以外を通過させます。" />
+	<message msgid="firewall max rule" msgstr="最大規則数 : " />
+	<message msgid="port title" msgstr="MAC/IP/Port規則設定" />
+	<message msgid="port introduction" msgstr="ウィルス、ワーム等による不正アクセスを遮断するための、フィルタリング規則を設定します。" />
+	<message msgid="port basic setting" msgstr="基本設定" />
+	<message msgid="port basic filter" msgstr="MAC/IP/Port規則" />
+	<message msgid="port basic default policy" msgstr="フィルタリング規則の形式" />
+	<message msgid="port basic default policy accepted" msgstr="ブラックリスト" />
+	<message msgid="port basic default policy dropped" msgstr="ホワイトリスト" />
+	<message msgid="port filter setting" msgstr="MAC/IP/Port規則追加" />
+	<message msgid="port filter macaddr" msgstr="ソースMACアドレス" />
+	<message msgid="port filter ipaddr" msgstr="ソースIPアドレス" />
+	<message msgid="port filter destipaddr" msgstr="デスティネーションIPアドレス" />
+
+	<message msgid="port forward interface" msgstr="インターフェース" />
+	<message msgid="port filter interface" msgstr="インターフェース" />
+	<message msgid="port filter wwan1" msgstr="WWAN(接続先1) / WAN" />
+	<message msgid="port filter wwan2" msgstr="WWAN(接続先2)" />
+	<message msgid="port forward snat" msgstr="ポリシーベースNAT" />   
+	<message msgid="port snat enable" msgstr="ポリシーベースNAT" />
+	<message msgid="port snat public ip addr" msgstr="パブリックIPアドレス" />
+	<message msgid="port snat private ip addr" msgstr="プライベートIPアドレス" />
+	<message msgid="port snat comment" msgstr="コメント" />
+	<message msgid="port snat delete" msgstr="ポリシーベースNATリスト" />   
+	<message msgid="snat delete interface" msgstr="インターフェース" />
+	<message msgid="snat delete public address" msgstr="パブリックIPアドレス" />
+	<message msgid="snat delete private address" msgstr="プライベートIPアドレス" />
+	<message msgid="snat delete comment" msgstr="コメント" />   
+	<message msgid="port dnat" msgstr="動的NAT" />
+	<message msgid="port dnat enable" msgstr="動的NAT" />   
+	<message msgid="port filter source ipaddr" msgstr="送信元 &#60;br&#62;IPアドレス、&#60;br&#62;ポート範囲" />
+	<message msgid="port filter port range" msgstr="ポート範囲" />
+	<message msgid="port filter dest ipaddr" msgstr="宛先 &#60;br&#62;IPアドレス、&#60;br&#62; ポート範囲" />
+	<message msgid="port filter action" msgstr="アクション" />
+	<message msgid="port filter action drop" msgstr="遮断" />
+	<message msgid="port filter action accept" msgstr="許可" />
+	<message msgid="port current filter" msgstr="MAC/IP/Port規則リスト" />
+	<message msgid="port filter source port range" msgstr="ソースポート範囲" />
+	<message msgid="port filter dest port range" msgstr="デスティネーションポート範囲" />
+	<message msgid="port filter packetcount" msgstr="Pkt Cnt" />
+	<message msgid="forward title" msgstr="NAT/NAPT設定" />
+	<message msgid="forward introduction" msgstr="パケット転送機能（ポートフォワーディング、バーチャルサーバ、ポリシーベースNAT、動的NAT）に関する設定を行います。" />
+	<message msgid="forward virtual server" msgstr="ポートフォワーディング" />
+	<message msgid="forward virtual server setting" msgstr="ポートフォワーディング" />
+	<message msgid="forward virtual server ipaddr" msgstr="IPアドレス" />
+	<message msgid="forward virtual server port range" msgstr="ポート範囲" />
+	<message msgid="forward virtual server public port" msgstr="パブリック ポート" />
+	<message msgid="forward virtual server private port" msgstr="プライベート ポート" />
+	<message msgid="forward single port virtual server" msgstr="バーチャルサーバ" />
+	<message msgid="forward single port virtual server setting" msgstr="バーチャルサーバ" />
+	<message msgid="forward current virtual server" msgstr="ポートフォワーディングリスト" />
+	<message msgid="forward current single port virtual server" msgstr="バーチャルサーバーリスト" />
+	<message msgid="forward rc corn disable" msgstr="無効にする" />
+	<message msgid="forward rc corn enable" msgstr="有効にする" />	
+	<message msgid="forward public ip this is not list" msgstr="リストに無いパブリックIPアドレスの転送先" />
+	<message msgid="forward rc corn not trans" msgstr="転送しない" />
+	<message msgid="forward rc corn wwan1" msgstr="WWAN (接続先1)/WAN" />
+	<message msgid="forward rc corn wwan2" msgstr="WWAN (接続先2)" />
+	<message msgid="forward rc corn interface" msgstr="インターフェース" />
+	<message msgid="forward rc corn public ip range" msgstr="パブリックIPアドレス範囲" />
+	<message msgid="forward rc corn comment" msgstr="コメント" />
+	<message msgid="forward rc corn public ip target" msgstr="公開IP宛先" />
+	<message msgid="forward rc corn public ip addr" msgstr="パブリックIPアドレス" />
+	<message msgid="forward rc corn nat delete" msgstr="Port restricted corn NAT転送先リスト" />
+	<message msgid="virtual title" msgstr="バーチャルサーバー設定" />
+	<message msgid="dmz title" msgstr="DMZ設定" />
+	<message msgid="dmz introduction" msgstr="DMZ(De-Militarized Zone)の設定を行います。" />
+	<message msgid="dmz setting" msgstr="DMZ設定" />
+	<message msgid="dmz ipaddr" msgstr="DMZ IPアドレス" />
+	<message msgid="dmz macaddr" msgstr="DMZ MACアドレス" />
+	<message msgid="dmz tcpport80" msgstr="管理用のポートを除外する" />
+	<message msgid="content filter title" msgstr="コンテンツフィルタ設定" />
+	<message msgid="content filter introduction" msgstr="Webコンテンツに対するセキュリティーの設定を行います。" />
+	<message msgid="content filter webs content filter" msgstr="Webコンテンツフィルタ" />
+	<message msgid="content filter webs content filter filter" msgstr="フィルタ：WWAN (接続先1)/WAN" />
+	<message msgid="content filter webs content filter filter_d2" msgstr="フィルタ：WWAN (接続先2)" />
+	<message msgid="content filter webs content filter apply" msgstr="適用" />
+	<message msgid="content filter webs content filter reset" msgstr="キャンセル" />
+	<message msgid="content filter webs URL filter title" msgstr="URLフィルタ設定" />
+	<message msgid="content filter webs url filter current" msgstr="URLフィルタ情報" />
+	<message msgid="content filter webs url fitler No" msgstr="No." />
+	<message msgid="content filter webs url fitler url" msgstr="URL" />
+	<message msgid="content filter webs url fitler del" msgstr="削除" />
+	<message msgid="content filter webs url fitler reset" msgstr="キャンセル" />
+	<message msgid="content filter webs url fitler add title" msgstr="URLフィルタ追加" />
+	<message msgid="content filter webs url fitler add" msgstr="追加" />
+	<message msgid="content filter webs url fitler reset" msgstr="キャンセル" />
+	<message msgid="content filter webs host fitler title" msgstr="ホスト 名フィルタ設定" />
+	<message msgid="content filter webs host fitler current" msgstr="ホスト 名フィルタ情報" />
+	<message msgid="content filter webs host fitler no" msgstr="No." />
+	<message msgid="content filter webs host fitler host" msgstr="ホスト名(キーワード)" />
+	<message msgid="content filter webs host fitler del" msgstr="削除" />
+	<message msgid="content filter webs host fitler reset" msgstr="キャンセル" />
+	<message msgid="content filter webs host fitler add title" msgstr="ホスト 名フィルタ追加" />
+	<message msgid="content filter webs host fitler keyword" msgstr="キーワード" />
+	<message msgid="content filter webs host fitler add" msgstr="追加" />
+	<message msgid="content filter webs host fitler reset" msgstr="キャンセル" />
+	<message msgid="sysfw title" msgstr="ファイアウォール設定" />
+	<message msgid="sysfw introduction" msgstr="システムファイアウォール動作の設定を行います。" />
+	<message msgid="sysfw remote management title" msgstr="ファイアウォール設定（WWAN（接続先1））" />
+	<message msgid="sysfw remote management title_d2" msgstr="ファイアウォール設定（WWAN（接続先2））" />
+	<message msgid="sysfw remote management head" msgstr="インターネットからの遠隔管理" />
+	<message msgid="sysfw allow" msgstr="許可" />
+	<message msgid="sysfw deny" msgstr="拒否" />
+	<message msgid="sysfw wanping title" msgstr="インターネットから来るPINGを遮断" />
+	<message msgid="sysfw wanping head" msgstr="インターネットから来るPINGを遮断" />
+	<message msgid="sysfw spi title" msgstr="Stateful Packet Inspection (SPI)" />
+	<message msgid="sysfw spi head" msgstr="SPI Firewall" />
+	<message msgid="sysfw bps title" msgstr="ポート Scan遮断" />
+	<message msgid="sysfw bps head" msgstr="Port Scan遮断" />
+	<message msgid="sysfw bsf title" msgstr="SYN Flood遮断" />
+	<message msgid="sysfw bsf head" msgstr="SYN Flood遮断" />
+	<message msgid="sysfw apply" msgstr="適用" />
+	<message msgid="sysfw reset" msgstr="キャンセル	" />
+	<message msgid="secuwiz title" msgstr="SecuWiz Vpn" />
+	<message msgid="secuwiz intro" msgstr="SecuWiz VPN設定" />
+	<message msgid="secuwiz vpn" msgstr="VPNモード" />
+	<message msgid="secuwiz mode" msgstr="VPNモード" />
+	<message msgid="secuwiz vpnsetup" msgstr="VPN 設定" />
+	<message msgid="secuwiz id" msgstr="ユーザーID" />
+	<message msgid="secuwiz pw" msgstr="ユーザーPW" />
+	<message msgid="secuwiz ip" msgstr="VPN IP" />
+	<message msgid="secuwiz port" msgstr="ユーザー ポート" />
+	<message msgid="secuwiz crypto" msgstr="暗号化" />
+	<message msgid="secuwiz yes" msgstr="はい" />
+	<message msgid="secuwiz no" msgstr="いいえ" />
+	<message msgid="secuwiz logsize" msgstr="ログサイズ" />
+	<message msgid="secuwiz ver3" msgstr="バージョン3" />
+	<message msgid="secuwiz sts" msgstr="Site-To-Site" />
+	<message msgid="secuwiz enable" msgstr="有効にする" />
+	<message msgid="secuwiz disable" msgstr="無効にする" />
+	<message msgid="vpn clear log" msgstr="削除" />
+	<message msgid="vpn view log" msgstr="VPNログ" />
+	<message msgid="vpn log title" msgstr="VPNログが確認できます。" />
+	<message msgid="vpn log intro" msgstr="Show VPN Logs" />
+	<message msgid="vpn log log" msgstr="VPNログ" />
+	<message msgid="vpn log no" msgstr="No." />
+	<message msgid="vpn log date" msgstr="時間" />
+	<message msgid="vpn log status" msgstr="ステータス" />
+	
+	<!-- alert message -->
+	<message msgid="alert rule number exceeded" msgstr="ルール数を超えている。 " />
+	<message msgid="alert input any mac value" msgstr="MAC値を入力してください。" />
+	<message msgid="alert input ip mac or dest ip" msgstr="IP/ MACまたは宛先IPアドレスを入力してください。" />
+	<message msgid="alert mac address format error" msgstr="MACアドレスのフォーマットが正しくありません。" />
+	<message msgid="alert input mac address" msgstr="入力MACアドレス。" />
+	<message msgid="alert ip address format error" msgstr="発信元IPアドレス形式のエラー" />
+	<message msgid="alert port number source port" msgstr="無効なポート番号：送信元ポート" />
+	<message msgid="alert invalid source port number" msgstr="無効な送信元ポート番号" />
+	<message msgid="alert invalid source port range" msgstr="無効な送信元ポート範囲の設定" />
+	<message msgid="alert invalid port num dest port" msgstr="無効なポート番号：宛先ポート" />
+	<message msgid="alert dest port number" msgstr="無効な宛先ポート番号" />
+	<message msgid="alert dest port range" msgstr="無効な送信先ポート範囲の設定" />
+	<message msgid="alert action would be same policy" msgstr="このルールの動作は、基本ポリシーと同じものです。" />
+	<message msgid="alert error ip address empty" msgstr="エラー。 IPアドレスが空白になっています。" />
+	<message msgid="alert should be number" msgstr="[0-9]の間の数値を入力してください。" />
+	<message msgid="alert ip format error" msgstr="IP型​​エラー" />
+	<message msgid="alert input ip or port value" msgstr="任意のIPまたは/およびポートの値を入力。" />
+	<message msgid="alert not set ip address" msgstr="IPアドレスを設定していません。" />
+	<message msgid="alert ip address format error2" msgstr="IPアドレスが空である" />
+	<message msgid="alert invalid ip address" msgstr="不適切なIPアドレスです。" />
+	<message msgid="alert not set port" msgstr="ポートを設定していない。" />
+	<message msgid="alert invalid port number" msgstr="無効なポート番号です。" />
+	<message msgid="alert not set public port" msgstr="パブリックポートを設定していません。" />
+	<message msgid="alert assign an address" msgstr="アドレスを割り当ててください。" />
+	<message msgid="alert mac address format error" msgstr="MACアドレス形式のエラー" />
+	<message msgid="alert select rule to be delete" msgstr="ルールを選択して削除するために。" />
+	<message msgid="alert enter a url filter" msgstr="URLフィルタを入力します。" />
+	<message msgid="alert enter a host filter" msgstr="ホストフィルタを入力。" />
+	<message msgid="alert give up xmlhttp instance" msgstr="XMLHTTPインスタンスを作成できません。" />
+	<message msgid="alert problem with the request" msgstr="リクエストに問題が発生しました。" />
+	<message msgid="alert can not add" msgstr="これ以上追加することができません。" />
+</po>

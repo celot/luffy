@@ -1,0 +1,72 @@
+﻿<po>
+	<message msgid="main disable" msgstr="사용안함" />
+	<message msgid="main enable" msgstr="사용함" />
+	<message msgid="main apply" msgstr="적용" />
+	<message msgid="main cancel" msgstr="취소" />
+	
+	<message msgid="treeapp wan" msgstr="WAN" />
+	<message msgid="treeapp lan" msgstr="LAN" />
+	<message msgid="treeapp dhcp clients" msgstr="DHCP 할당 정보" />
+	<message msgid="treeapp vpn passthrough" msgstr="VPN Passthrough" />
+	<message msgid="treeapp routing" msgstr="라우팅 설정" />
+	<message msgid="treeapp statistics" msgstr="세부 상태 정보" />
+	<message msgid="treeapp wds" msgstr="WDS" />
+	<message msgid="treeapp wps" msgstr="WPS" />
+	<message msgid="treeapp basic" msgstr="무선 기본 설정" />
+	<message msgid="treeapp advanced" msgstr="무선 고급 설정" />
+	<message msgid="treeapp security" msgstr="무선 보안 설정" />
+	<message msgid="treeapp ap client" msgstr="AP Client" />
+	<message msgid="treeapp station list" msgstr="Station 리스트" />
+	<message msgid="treeapp ip/port filtering" msgstr="보안 규칙 설정" />
+	<message msgid="treeapp port forwarding" msgstr="포트 포워딩" />
+	<message msgid="treeapp dmz" msgstr="DMZ 서버" />
+	<message msgid="treeapp content filtering" msgstr="컨텐츠 보안 규칙" />
+	<message msgid="treeapp management" msgstr="기본 설정" />
+	<message msgid="treeapp upload firmware" msgstr="펌웨어 업그레이드" />
+	<message msgid="treeapp settings management" msgstr="시스템 관리" />
+	<message msgid="treeapp reboot" msgstr="재부팅" />
+	<message msgid="treeapp status" msgstr="상태정보" />
+	<message msgid="treeapp system command" msgstr="특수 명령어 입력" />
+	<message msgid="treeapp system log" msgstr="시스템 로그" />
+	<message msgid="treeapp system firewall" msgstr="방화벽 설정" />
+	
+	<message msgid="treeapp overview" msgstr="상태보기" />
+	<message msgid="treeapp mobile" msgstr="모바일" />
+	<message msgid="treeapp internet" msgstr="인터넷 설정" />
+	<message msgid="treeapp wireless" msgstr="무선 설정" />
+	<message msgid="treeapp firewall" msgstr="보안 설정" />
+	<message msgid="treeapp admin" msgstr="관리자" />
+	<message msgid="treeapp sntp" msgstr="SNTP" />
+	<message msgid="treeapp ddns" msgstr="DDNS" />
+	<message msgid="treeapp service" msgstr="부가 기능" />
+	<message msgid="treeapp directserial" msgstr="다이렉트 시리얼" />
+	<message msgid="treeapp serialmodem" msgstr="시리얼 모뎀" />
+	<message msgid="treeapp ups" msgstr="UPS" />
+	<message msgid="treeapp nms" msgstr="NMS" />
+	<message msgid="main sw ver" msgstr="소프트웨어 버전 : " />
+	<message msgid="main save title" msgstr="재설정중" />
+	<message msgid="main save saved" msgstr="저장되었습니다." />
+	<message msgid="main save waiting" msgstr="잠시만 기다려주세요." />
+	<message msgid="main save sec" msgstr="초" />
+	<message msgid="main save newfirm" msgstr="새로운 펌웨어버전 이미지로 업그레이드 되었습니다." />
+	<message msgid="main save newboot" msgstr="부트로드 이미지가 업그레이드 되었습니다." />
+	<message msgid="main save newsys" msgstr="사용자 이미지가 업그레이드 되었습니다." />
+	
+	<message msgid="treeapp mobile config" msgstr="다이얼업" />
+	<message msgid="treeapp mobile status" msgstr="모듈상태" />
+	<message msgid="treeapp mobile failsafe" msgstr="망연결 복원" />
+	
+	<message msgid="treeapp vpn" msgstr="VPN" />
+	<message msgid="treeapp port detect" msgstr="Port 감시" />
+	<message msgid="treeapp kddi title" msgstr = "KDDI OTA" />
+	
+	<message msgid="Error saving setup" msgstr="설정 저장 오류" />
+	<message msgid="Firmware upgrading..." msgstr="펌웨어 업그레이드" />
+	<message msgid="Error Firmware upgrading" msgstr="업그레이드 실패" />
+	<message msgid="Unmached model name" msgstr="모델 이름 오류" />
+	<message msgid="Not a valid firmware" msgstr="펌웨어 오류" />
+	<message msgid="Error file size" msgstr="파일 크기 오류" />
+	<message msgid="treeapp emg_notifier" msgstr="EMG 알림" />
+	<message msgid="treeapp modbus" msgstr="Modbus" />
+</po>
+

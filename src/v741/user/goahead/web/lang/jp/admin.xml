@@ -1,0 +1,263 @@
+﻿<po>
+	<message msgid="admin disable" msgstr="有効にする" />
+	<message msgid="admin enable" msgstr="無効にする" />
+	<message msgid="admin apply" msgstr="適用" />
+	<message msgid="admin cancel" msgstr="キャンセル" />
+	<message msgid="admin reset" msgstr="リセット" />
+	<message msgid="man title" msgstr="環境設定" />
+	<message msgid="man introduction" msgstr="設定メニュー（GUI）やターミナルポート（CLI）に接続するためのアカウント、パスワード等を設定します。時刻およびダイナミックDNSに関する設定を行います。" />
+	<message msgid="man select language" msgstr="言語選択" />
+	<message msgid="man language" msgstr="言語" />
+	<message msgid="man admin setting" msgstr="管理者設定" />
+	<message msgid="man admin account" msgstr="アカウント" />
+	<message msgid="man admin passwd" msgstr="暗証番号" />
+	<message msgid="man admin watchdog" msgstr="ワッチドッグタイマー" />
+	
+	<message msgid="man admin alert request problem" msgstr="リクエストに問題があります。" />
+	<message msgid="man admin alert specify account" msgstr="管理者アカウントを指定してください。" />
+	<message msgid="man admin alert specify password" msgstr="管理者パスワードを指定してください。 " />
+	<message msgid="man admin alert ntp specify sync" msgstr="同期の間隔の値を指定してください。 " />
+	<message msgid="man admin alert ntp invalid sync" msgstr="不適切なNTP同期値です。" />
+	<message msgid="man admin alert ntp too big sync" msgstr="同期の値が大きすぎます。(1〜300）" />
+	
+	<message msgid="man admin ddns value" msgstr="DDNSに登録するホスト名" />
+	
+	<message msgid="man ntp setting" msgstr="NTP設定" />
+	<message msgid="man ntp timezone" msgstr="標準時" />
+	<message msgid="man ntp mid island" msgstr="(GMT-11:00) ミッドウェー諸島, サモア" />
+	<message msgid="man ntp hawaii" msgstr="(GMT-10:00) ハワイ" />
+	<message msgid="man ntp alaska" msgstr="(GMT-09:00) アラスカ" />
+	<message msgid="man ntp pacific" msgstr="(GMT-08:00) 太平洋標準時" />
+	<message msgid="man ntp mountain" msgstr="(GMT-07:00) 山地 標準時(MST)" />
+	<message msgid="man ntp arizona" msgstr="(GMT-07:00) アリゾナ" />
+	<message msgid="man ntp central" msgstr="(GMT-06:00) 中央標準時(CST)" />
+	<message msgid="man ntp mid us" msgstr="(GMT-06:00) 中央アメリカ" />
+	<message msgid="man ntp indiana east" msgstr="(GMT-05:00) インジアナ 東方, コロンビア" />
+	<message msgid="man ntp eastern" msgstr="(GMT-05:00) 東部標準時" />
+	<message msgid="man ntp atlantic" msgstr="(GMT-04:00) 大西洋 標準時, ブラジル 西方" />
+	<message msgid="man ntp bolivia" msgstr="(GMT-04:00) ボリビア, ベネズエラ" />
+	<message msgid="man ntp guyana" msgstr="(GMT-03:00) ガイアナ" />
+	<message msgid="man ntp brazil east" msgstr="(GMT-03:00) ブラジル 東方, グリーンランド" />
+	<message msgid="man ntp mid atlantic" msgstr="(GMT-02:00) 中央-大西洋" />
+	<message msgid="man ntp azores islands" msgstr="(GMT-01:00) アゾレス諸島" />
+	<message msgid="man ntp gambia" msgstr="(GMT) ガンビア, リベリア, モロッコ" />
+	<message msgid="man ntp england" msgstr="(GMT) イングランド" />
+	<message msgid="man ntp czech republic" msgstr="(GMT+01:00) チェコ, N" />
+	<message msgid="man ntp germany" msgstr="(GMT+01:00) ドイツ" />
+	<message msgid="man ntp poland" msgstr="(GMT+01:00) ポーランド" />	
+	<message msgid="man ntp tunisia" msgstr="(GMT+01:00) チュニジア" />
+	<message msgid="man ntp greece" msgstr="(GMT+02:00) ギリシャ, ウクライナ, ターキー" />
+	<message msgid="man ntp south africa" msgstr="(GMT+02:00) 南アフリカ" />
+	<message msgid="man ntp iraq" msgstr="(GMT+03:00) イラク, ヨルダン, クウェート" />
+	<message msgid="man ntp moscow winter" msgstr="(GMT+03:00) モスクワ ウインター タイム" />
+	<message msgid="man ntp armenia" msgstr="(GMT+04:00) アルメニア" />
+	<message msgid="man ntp pakistan" msgstr="(GMT+05:00) パキスタン, ロシア" />
+	<message msgid="man ntp bangladesh" msgstr="(GMT+06:00) バングラデシュ, ロシア" />
+	<message msgid="man ntp thailand" msgstr="(GMT+07:00) タイ, ロシア" />
+	<message msgid="man ntp chinacoast" msgstr="(GMT+08:00) 中国東部, ホンコン" />
+	<message msgid="man ntp taipei" msgstr="(GMT+08:00) 台湾" />
+	<message msgid="man ntp singapore" msgstr="(GMT+08:00) シンガポール" />
+	<message msgid="man ntp australia wa" msgstr="(GMT+08:00) 豪州 (WA)" />
+	<message msgid="man ntp japan" msgstr="(GMT+09:00) 日本, 韓國" />
+	<message msgid="man ntp korean" msgstr="(GMT+09:00) 韓國" />
+	<message msgid="man ntp guam" msgstr="(GMT+10:00) グアム, ロシア" />
+	<message msgid="man ntp australia qld" msgstr="(GMT+10:00) 豪州 (QLD, TAS,NSW,ACT,VIC)" />
+	<message msgid="man ntp solomon islands" msgstr="(GMT+11:00) ソロモン諸島" />
+	<message msgid="man ntp fiji" msgstr="(GMT+12:00) フィジー" />
+	<message msgid="man ntp newzealand" msgstr="(GMT+12:00) ニュージーランド" />
+	<message msgid="man ntp server" msgstr="Timeサーバータイプ" />
+	<message msgid="man ntp ex" msgstr="ex:" />
+	<message msgid="man ntp sync" msgstr="同期間隔（時間）" />
+	<message msgid="man ntp current time" msgstr="現在時刻" />
+	<message msgid="man ntp sync with host" msgstr="サーバー同期" />
+	<message msgid="man ddns setting" msgstr="DDNS設定" />
+	<message msgid="man ddns provider" msgstr="DDNSサービス" />
+	<message msgid="man ddns none" msgstr="無し" />
+	<message msgid="man ddns account" msgstr="アカウント" />
+	<message msgid="man ddns passwd" msgstr="暗証番号" />
+	<message msgid="man ddns" msgstr="DDNS" />
+	<message msgid="man custom" msgstr="カスタム指定" />
+	<message msgid="man ddns ddnsServer" msgstr="DDNSサーバー" />
+	<message msgid="man ddns optionhead" msgstr="DDNSオプションパラメータ" />
+	<message msgid="upload title" msgstr="ファームウェアアップグレード" />
+	<message msgid="upload introduction1" msgstr="ファームウェアアップグレードを通じて新規機能の追加・変更ができます。" />
+	<message msgid="upload introduction2" msgstr="アップグレードの最中は電源を切らないでください。アップグレードの所要時間は、約2分です。" />
+	<message msgid="upload firmware" msgstr="ファームウェアアップグレード" />
+	<message msgid="upload firmware location" msgstr="ファイル位置：" />
+	<message msgid="upload system" msgstr="ユーザー領域アップグレード" />
+	<message msgid="upload system location" msgstr="ファイル位置：" />
+	<message msgid="upload bootloader" msgstr="ブートローダーアップグレード" />
+	<message msgid="upload bootloader location" msgstr="ファイル位置：" />
+	<message msgid="setman title" msgstr="設定情報管理" />
+	<message msgid="setman introduction" msgstr="設定情報の管理（ファイルへの保存、ファイルからの復元、および初期化）を行います。" />
+	<message msgid="setman introduction2" msgstr="工場出荷値に初期化できます。" />
+	<message msgid="setman export setting" msgstr="設定の保存" />
+	<message msgid="setman export setting button" msgstr="設定の保存" />
+	<message msgid="setman export setting export" msgstr="保存" />
+	<message msgid="setman import setting" msgstr="設定の復元" />
+	<message msgid="setman import setting file location" msgstr="設定ファイルの場所：" />
+	<message msgid="setman import setting import" msgstr="復元" />
+	<message msgid="setman load factory default" msgstr="設定の初期化" />
+	<message msgid="setman load factory default button" msgstr="設定の初期化" />
+	<message msgid="setman load default" msgstr="初期化" />
+	<message msgid="setman load default quest" msgstr="本製品の設定を初期化いたしますか？" />	
+	<message msgid="status title" msgstr="システム情報" />
+	<message msgid="status introduction" msgstr="本製品のシステム情報、および現在のステータスを表示します。" />
+	<message msgid="status system information" msgstr="システム情報" />
+	<message msgid="status sdk version" msgstr="SDKバージョン" />
+	<message msgid="status system up time" msgstr="システム時間" />
+	<message msgid="status system platform" msgstr="システムプラットフォーム" />
+	<message msgid="status operate mode" msgstr="機能モード" />
+	<message msgid="status internet config" msgstr="インターネット設定" />
+	<message msgid="status connect type" msgstr="接続方法" />
+	<message msgid="status current wan" msgstr="使用中のWAN" />	
+	<message msgid="status apn" msgstr="接続中のAPN" />
+	<message msgid="status Plmm Name" msgstr="ネットワーク名" />
+	<message msgid="status Phone number" msgstr="電話番号"/>
+	<message msgid="status wan ipaddr" msgstr="WAN IP" />
+	<message msgid="status subnet mask" msgstr="サブネットマスク" />
+	<message msgid="status default gateway" msgstr="デフォルトゲートウェイ" />
+	<message msgid="status primary dns" msgstr="プライマリ DNSサーバー" />
+	<message msgid="status secondary dns" msgstr="セカンダリ DNSサーバー" />
+	<message msgid="status local network" msgstr="LAN設定" />
+	<message msgid="status lan ipaddr" msgstr="IPアドレス" />
+	<message msgid="status lan ipaddr2" msgstr="LAN IP" />
+	<message msgid="status local netmask" msgstr="サブネットマスク" />
+	<message msgid="status mac" msgstr="MACアドレス" />
+	<message msgid="status wan mode" msgstr="WAN モード" />
+	<message msgid="statistic title" msgstr="ネットワークデータ情報" />
+	<message msgid="statistic introduction" msgstr="ネットワークデーターの使用量が確認できます。" />
+	<message msgid="statistic memory" msgstr="メモリー" />
+	<message msgid="statistic memory total" msgstr="トータルメモリ：" />
+	<message msgid="statistic memory left" msgstr="空き領域：" />
+	<message msgid="statistic wanlan" msgstr="WAN/LAN" />
+	<message msgid="statistic wan rx pkt" msgstr="WAN Rx packets:" />
+	<message msgid="statistic wan rx bytes" msgstr="WAN Rx bytes:" />
+	<message msgid="statistic wan tx pkt" msgstr="WAN Tx packets:" />
+	<message msgid="statistic wan tx bytes" msgstr="WAN Tx bytes:" />
+	<message msgid="statistic lan rx pkt" msgstr="LAN Rx packets:" />
+	<message msgid="statistic lan rx bytes" msgstr="LAN Rx bytes:" />
+	<message msgid="statistic lan tx pkt" msgstr="LAN Tx packets:" />
+	<message msgid="statistic lan tx bytes" msgstr="LAN Tx bytes:" />
+	<message msgid="statistic all interface" msgstr="全体データー情報" />
+	<message msgid="syscommand title" msgstr="コマンド入力" />
+	<message msgid="syscommand introduction" msgstr="Run a system command as root:" />
+	<message msgid="syscommand system command" msgstr="システムコマンド" />
+	<message msgid="syscommand command" msgstr="Command:" />
+	<message msgid="syslog title" msgstr="システムログ" />
+	<message msgid="syslog introduction" msgstr="本製品のシステムログを確認できます。" />
+	<message msgid="syslog system log" msgstr="システムログ" />
+	<message msgid="syslog clear" msgstr="削除" />
+	<message msgid="syslog refresh" msgstr="更新" />
+	<message msgid="reboot title" msgstr="リブート設定" />
+	<message msgid="reboot introduction" msgstr="本製品を自動的にリブートするスケジュールを設定します。" />
+	<message msgid="reboot settings" msgstr="再起動" />
+	<message msgid="reboot settings2" msgstr="リブート設定" />
+	<message msgid="reboot dayOfWeek" msgstr="曜日" />
+	<message msgid="reboot powerreboot" msgstr="再起動" />
+	<message msgid="reboot rebootNow" msgstr="再起動" />
+	<message msgid="reboot rebootNow button" msgstr="本製品を再起動いたしますか？" />
+	<message msgid="reboot autoReboot" msgstr="自動ブート設定" />
+	<message msgid="reboot autoEnable" msgstr="有効にする" />
+	<message msgid="reboot autoDisable" msgstr="無効にする" />
+	<message msgid="reboot schedule" msgstr="スケジュール" />
+	<message msgid="reboot autoTime" msgstr="時刻" />
+	<message msgid="reboot autoDay" msgstr="日" />
+	<message msgid="reboot everyDay" msgstr="每日" />
+	<message msgid="reboot Sun" msgstr="日" />
+	<message msgid="reboot Mon" msgstr="月" />
+	<message msgid="reboot Tue" msgstr="火" />
+	<message msgid="reboot Wed" msgstr="水" />
+	<message msgid="reboot Thu" msgstr="木" />
+	<message msgid="reboot Fri" msgstr="金" />
+	<message msgid="reboot Sat" msgstr="土" />
+	<message msgid="reboot Log" msgstr="リブート ログ" />
+	<message msgid="reboot Log List" msgstr="リブートの履歴" />
+	<message msgid="reboot Log list empty" msgstr="ログ·リブートはありません" />
+	<message msgid="reboot max Log List" msgstr="履歴の件数：最大30件" />
+	
+	<message msgid="ota kddi title" msgstr = "KDDI OTA" />
+	<message msgid="ota title" msgstr="KDDI OTA" />
+	<message msgid="ota introduction" msgstr="SIMの回線契約開始（OTASP）処理を行ないます。" />	
+	<message msgid="ota statussetup" msgstr="現在の状態" />
+	<message msgid="ota contactState" msgstr="契約状態" />
+	<message msgid="ota otastatus" msgstr="処理ステータス" />
+	<message msgid="ota otacontractSetup" msgstr="回線契約開始 (OTASP)" />
+	<message msgid="ota otacontractotasp" msgstr="回線契約開始 (OTASP)" />
+	<message msgid="ota otacontractotasp warning1" msgstr="回線契約開始（OTASP）処理中は、絶対に電源をOFFしないでください。 " />
+	<message msgid="ota otacontractotasp warning2" msgstr="処理中に電源をOFFした場合、重大な障害を引き起こすことがあります。 " />
+	<message msgid="ota otacancellationSetup" msgstr="回線契約解除 (OTAPA)" />
+	<message msgid="ota otacancellationotapa" msgstr="回線契約開始 (OTAPA)" />
+	<message msgid="ota otacancellationotapa warning1" msgstr="回線契約開始（OTAPA）処理中は、絶対に電源をOFFしないでください。" />
+	<message msgid="ota otacancellationotapa warning2" msgstr="処理中に電源をOFFした場合、重大な障害を引き起こすことがあります。" />
+	<message msgid="ota refresh" msgstr="更新" />
+	<message msgid="ota refreshsp" msgstr="OTASP 開始" />
+	<message msgid="ota refreshpa" msgstr="OTAPA 開始" />
+	<message msgid="ota SetOtasp" msgstr="OTASPを 開始する" />
+	<message msgid="ota SetOtapa" msgstr="OTAPAを 開始する" />
+	<message msgid="ota currentstatesp" msgstr="OTASP処理中" />
+	<message msgid="ota currentstatepa" msgstr="OTAPA処理中" />
+	<message msgid="ota otacontract0" msgstr="契約 確認中" />
+	<message msgid="ota otacontract1" msgstr="未契約" />
+	<message msgid="ota otacontract2" msgstr="契約開始済み" />
+	<message msgid="ota otacontract3" msgstr="契約解除済み" />
+	<message msgid="ota OTAsimtypesetup" msgstr="SIMの種類" />
+	<message msgid="ota OTAsimtypesetupth" msgstr="SIMの種類" />
+	<message msgid="ota OTAsimtypeIN" msgstr="內藏SIM" />
+	<message msgid="ota OTAsimtypeEX" msgstr="外部SIM" />
+	<message msgid="man web port" msgstr="設定メニューポート番号" />
+	<message msgid="man cli port" msgstr="ターミナルポート番号" />
+	<message msgid="man ntp current time" msgstr="現在時刻" />
+	<message msgid="ota state ok" msgstr="OTASP 処理完了" />
+	<message msgid="ota state err" msgstr="OTASP 処理失敗" />
+	<message msgid="ota state ing" msgstr="OTASP 処理中" />
+	<message msgid="ota pastate ok" msgstr="OTAPA 処理完了" />
+	<message msgid="ota pastate err" msgstr="OTAPA 処理失敗" />
+	<message msgid="ota pastate ing" msgstr="OTAPA 処理中" />
+	<message msgid="man alert check server account pw ddns" msgstr="サーバー、アカウント、パスワード、DDNSを入力してください。 " />
+	<message msgid="man alert check account pw ddns" msgstr="アカウント、パスワード、DDNSを入力してください。" />
+	<message msgid="alert specify a file" msgstr="ファイルを指定してください。" />
+	<message msgid="alert for engineer only" msgstr="エンジニア専用です。進めますか？" />
+	<message msgid="alert specify a command" msgstr="実行する命令を入力してください。" />
+	<message msgid="man ntp sync status" msgstr="同期化 状態" />
+	<message msgid="NTP Sycn Succeed." msgstr="同期化に成功しました。" />
+	<message msgid="NTP Sycn :" msgstr="同期化時間 :" />
+	<message msgid="NTP NTP Sycn Atempted." msgstr="同期化を試しましたが失敗しました。" />
+	<message msgid="NTP SycnA :" msgstr="同期化試し時間 :" />
+	<message msgid="NTP Sycn Failed." msgstr="同期化に失敗しました。" />  
+	<message msgid="kddi traffic title" msgstr="ネットワークデータ情報" />
+	<message msgid="kddi traffic introduction1" msgstr="ネットワークデータの使用量が確認できます。" />
+	<message msgid="kddi traffic table" msgstr="累積通信量" />
+	<message msgid="kddi traffic introduction2" msgstr="端末が起動してから現在までの、累積通信量が確認できます。" />
+	<message msgid="kddi traffic introduction3" msgstr="端末の電源をOFFした場合、累積通信量の値は失われます。" />
+	<message msgid="kddi traffic wwan1" msgstr="累積通信量（WWAN（接続先1））" />
+	<message msgid="kddi traffic wwan2" msgstr="累積通信量（WWAN（接続先2））" />
+	<message msgid="kddi traffic send" msgstr="送信" />
+	<message msgid="kddi traffic receive" msgstr="受信" />
+	<message msgid="kddi traffic clear" msgstr="クリア" />
+	<message msgid="jquery message enter less than or equal to 300" msgstr="300以下の値を入力してください。" />
+	
+	<message msgid="alert rule filesize limit 4MB exceeded" msgstr="適用可能なファイルの最大サイズは4MBです。" />
+	<message msgid="alert rule filesize limit 7MB exceeded" msgstr="適用可能なファイルの最大サイズは7MBです。" />
+	<message msgid="alert rule filesize exceeded" msgstr="ファイルがありません。" />
+	
+	<message msgid="ntt hidden config" msgstr="NTTコンフィグ" />
+	<message msgid="ntt hidden config introduction" msgstr="NTTプロパティを変更することができます。" />
+	<message msgid="ntt hidden communication speed" msgstr="通信規格" />
+	<message msgid="ntt hidden change communication speed" msgstr="通信規格変更" />	
+	<message msgid="ntt hidden change subnet" msgstr="サブネットの変更" />
+	<message msgid="ntt hidden interface" msgstr="インターフェース" />
+	<message msgid="ntt hidden ip address" msgstr="IPアドレス" />
+	<message msgid="ntt hidden broardcast address" msgstr="ブロードキャストアドレス" />
+	<message msgid="ntt hidden subnet mask" msgstr="サブネットマスク" />
+	<message msgid="ntt hidden change subnet mask" msgstr="マスクの変更" />
+	<message msgid="ntt hidden wwan1" msgstr="WWAN(接続先1)/WAN" />
+	<message msgid="ntt hidden wwan2" msgstr="WWAN(接続先2)" />
+	
+	<message msgid="dwl title" msgstr="ドメインホワイトリスト" />
+	<message msgid="dwl introduction" msgstr="APN名をチェック条件としてLTE網への接続を制限するための、ホワイトリストを設定します。" />
+	<message msgid="dwl fucnc cap" msgstr="ドメインホワイトリスト機能" />
+	<message msgid="dwl fucnc" msgstr="ドメインホワイトリスト機能" />
+	<message msgid="dwl rec1" msgstr="レコード1" />
+	<message msgid="dwl rec2" msgstr="レコード2" />	
+</po>
